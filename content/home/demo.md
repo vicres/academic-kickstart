@@ -44,7 +44,9 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = div {
+    font-size:small;
+}
  
  # CSS class.
  css_class = ""
