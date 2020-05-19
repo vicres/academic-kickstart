@@ -8,7 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "The **Plants, Fire & Atmosphere Laboratory** studies the processes underlying vegetation responses to global change"
+title = "**Plants, Fire & Atmosphere Laboratory** 
+The PHAT LAB is based at Southwest University for Science and Technology and it studies the processes underlying vegetation responses to global change"
 subtitle = ""
 
 [design]
