@@ -50,4 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Forest Biology Lab** website. We study the plant responses to climate change from the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
+
+Welcome to the **Forest Rhythms Lab** website. We study the rhythmic processes and disturbances in forests to get a better grasp of how will  climate change affect terrestrial ecosystems. We are an international group based at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
