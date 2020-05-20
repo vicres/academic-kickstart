@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "PFAT LAB"
+title = "LaFoRh"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = ""
@@ -48,7 +48,7 @@ hero_media = ""
 
 **About us**
 
-The PFAt Lab is led by <a href=authors/admin/ target=_blank> Prof Víctor Resco de Dios</a> at the <a href=http://www.life.swust.edu.cn target=_blank> School of Life Science and Engineering</a> at **Southwest University of Science and Technology** and at <a href=http://www.agrotecnio.org target=_blank> Agrotecnio Center</a> at **University of Lleida**
+The LaFoRh Lab is led by <a href=authors/admin/ target=_blank> Prof Víctor Resco de Dios</a> at the <a hr ef=http://www.life.swust.edu.cn target=_blank> School of Life Science and Engineering</a> at **Southwest University of Science and Technology** and at <a href=http://www.agrotecnio.org target=_blank> Agrotecnio Center</a> at **University of Lleida**
 
 Our areas of interest include **Circadian Ecology**, **Stomatal Physiology** and **Plant-Fire Interactions**, which we study using glasshouse experiments, field monitoring, remote sensing and modelling. We have a multidisciplinary <a href=people>team </a> of researchers.
 
