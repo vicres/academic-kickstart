@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Plant, Fire & Clocks Laboratory"
+title = "Fire and Rhythms Laboratory"
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "headers/Gongga.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,7 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+Welcome to the **F'n'R Lab** website. We study the processes underlying vegetation responses to climate change. 
+
+Our international team's headquarters are at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn) but we also 
 
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
