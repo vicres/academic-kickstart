@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Fire and Rhythms Laboratory"
+title = "Laboratory of Forest Biology"
 subtitle = ""
 
 [design]
@@ -50,13 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **F'n'R Lab** website. We study the processes underlying vegetation responses to climate change. 
-
-Our international team's headquarters are at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
-
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+Welcome to the **Forest Biology Lab** website. We study the plant responses to climate change from the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
