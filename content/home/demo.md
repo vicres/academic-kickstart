@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Laboratory of Forest Rhythms"
+title = "Forest and Rhythms Lab"
 subtitle = ""
 
 [design]
@@ -51,4 +51,4 @@ subtitle = ""
 +++
 
 
-Welcome to the **Forest Rhythms Lab** website. We study the rhythmic processes and disturbances in forests to get a better grasp of how will  climate change affect terrestrial ecosystems. We are an international group based at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
+Welcome to the **F'n'R Lab** website. We study the rhythmic and cyclic processes in forests, including disturbances, to better grasp of how will  climate change affect terrestrial ecosystems. We are an international group based at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). We also collaborate with **Agrotecnio** at [University of Lleida](http://www.udl.cat)
