@@ -11,7 +11,7 @@ publication: "*Springer*"
 url_pdf: "https://doi.org/10.1007/978-3-030-41192-3_1"
 doi: "10.1007/978-3-030-41192-3_1"
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
 ---
