@@ -1,7 +1,18 @@
 ---
 authors:
 - admin
-bio: Our research interests lie at the interface between plant-fire-atmosphere interactions. 
+bio: 
+I am currently a Professor at the Southwest University for Science and Technology and Associate Scientist at Agrotecnio-University of Lleida (Spain). 
+
+I am broadly interested in the field of biosphere-atmosphere interactions and, in particular, on: 
+
+1) circadian regulation of photosynthesis and stomatal conductance ; 
+2) the physiological mechanisms that underlie changes in the structure of plant communities; 
+3) the factors that drive wildfire activity.
+
+I am currently serving on the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
+
+A few years ago I contributed to the [IPCC 5 AR](https://www.ipcc.ch/report/ar5/syr/)
 
 education:
   courses:
@@ -39,7 +50,7 @@ social:
 superuser: true
 title: Víctor Resco de Dios
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 We are interested in the field of biosphere-atmosphere interactions and, in particular, on: 
