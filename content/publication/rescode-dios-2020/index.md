@@ -13,6 +13,6 @@ doi: "10.1007/978-3-030-41192-3_1"
 image:
   placement: 
   caption: ''
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 ---
