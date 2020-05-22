@@ -9,25 +9,29 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "/post/"
+  name = "Book"
+  url = "#featured"
   weight = 20
-
-
-[[main]]
-  name = "Publications"
-  url = "/publication/"
-  weight = 30
 
 [[main]]
   name = "Team"
   url = "#people"
+  weight = 30
+
+[[main]]
+  name = "Posts"
+  url = "/post/"
   weight = 40
+
+[[main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 70
 
 
 
