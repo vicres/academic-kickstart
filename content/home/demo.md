@@ -51,6 +51,8 @@ subtitle = ""
 +++
 
 
-Welcome to the **Forest Biology Lab** website. 
+Thanks for stopping by
 
-We are based at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn) but we are also part of **Agrotecnio** at [University of Lleida](http://www.udl.cat)
+The Forest Biology group is led by Prof Víctor Resco de Dios and is part of the **School of Life Science & Engineering** at [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). 
+
+We also develop some projects from **Agrotecnio** at [University of Lleida](http://www.udl.cat)
