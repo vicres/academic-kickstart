@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Forest and Rhythms Lab"
+title = "Forest Biology Lab"
 subtitle = ""
 
 [design]
@@ -51,8 +51,6 @@ subtitle = ""
 +++
 
 
-Welcome to the **F'n'R Lab** website. 
-
-We study the rhythmic and cyclic processes that drive forest composition and function: from multi-annual disturbances to diurnal gas exchange patterns, and including photoperiod responses other cyclic events. 
+Welcome to the **Forest Biology Lab** website. 
 
 We are based at the **School of Life Science & Engineering** from [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn) but we are also part of **Agrotecnio** at [University of Lleida](http://www.udl.cat)
