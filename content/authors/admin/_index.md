@@ -47,3 +47,11 @@ We are interested in the field of biosphere-atmosphere interactions and, in part
 1) Circadian regulation of photosynthesis and stomatal conductance
 2) The physiological mechanisms that underlie changes in the structure of plant communities
 3) The factors that drive wildfire activity.
+I am currently a Professor at the Southwest University for Science and Technology and Associate Scientist at Agrotecnio-University of Lleida (Spain). 
+
+I am broadly interested in the field of biosphere-atmosphere interactions and, in particular, on: 
+
+1) circadian regulation of photosynthesis and stomatal conductance; 
+2) the physiological mechanisms that underlie changes in the structure of plant communities; 
+3) the factors that drive wildfire activity.
+
