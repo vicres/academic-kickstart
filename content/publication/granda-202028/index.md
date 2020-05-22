@@ -1,7 +1,7 @@
 ---
 title: "Day length regulates seasonal patterns of stomatal conductance in Quercus species"
-date: 2020-01-01
-publishDate: 2030-05-17T15:13:02.531852Z
+date: 2030-01-01
+publishDate: 2020-05-17T15:13:02.531852Z
 authors: ["E. Granda", "F. Baumgarten", "A. Gessler", "E. Gil-Pelegrin", "J.J. Peguero-Pina", "D. Sancho-Knapik", "N.E. Zimmerman", "V. Resco de Dios"]
 publication_types: ["2"]
 abstract: ""
