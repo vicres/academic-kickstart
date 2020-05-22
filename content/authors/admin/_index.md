@@ -50,7 +50,7 @@ social:
 superuser: true
 title: Víctor Resco de Dios
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 We are interested in the field of biosphere-atmosphere interactions and, in particular, on: 
