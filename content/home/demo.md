@@ -51,8 +51,6 @@ subtitle = ""
 +++
 
 
-Thanks for stopping by
-
-The Forest Biology group is led by Prof Víctor Resco de Dios and is part of the **School of Life Science & Engineering** at [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). 
+The Forest Biology group is led by [Prof Víctor Resco de Dios](https://eager-booth-49dd34.netlify.app/author/victor-resco-de-dios/).  and is part of the **School of Life Science & Engineering** at [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). 
 
 We also develop some projects from **Agrotecnio** at [University of Lleida](http://www.udl.cat)
