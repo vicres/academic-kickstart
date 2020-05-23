@@ -42,7 +42,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a broadly trained plant physiological ecologist and my current research is focused on 3 areas: 
+I am currently working on 3 research areas: 
 
 1) Circadian ecology - trying to understand the drivers of diurnal, seasonal and annual rhythms in plant growth and gas exchange; 
 2) Pyrophysiology - trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function; 
