@@ -18,18 +18,6 @@ image:
   preview_only: no
 projects: []
 ---
-<h1 class="legacy">Cómo conservar mejor los alimentos con una iluminación inteligente</h1>
-
-  <figure>
-    <img src="https://images.theconversation.com/files/308228/original/file-20191224-11904-tc731i.jpg?ixlib=rb-1.1.0&rect=0%2C32%2C5472%2C3571&q=45&auto=format&w=754&fit=clip" />
-      <figcaption>
-        
-        <span class="attribution"><a class="source" href="https://www.shutterstock.com/es/image-photo/open-fridge-full-vegetables-fruits-1114499612">5 second Studio/Shutterstock</a></span>
-      </figcaption>
-  </figure>
-
-<span><a href="https://theconversation.com/profiles/raquel-esteban-841995">Raquel Esteban</a>, <em><a href="https://theconversation.com/institutions/universidad-del-pais-vasco-euskal-herriko-unibertsitatea-3422">Universidad del País Vasco / Euskal Herriko Unibertsitatea</a></em>; <a href="https://theconversation.com/profiles/jose-ignacio-garcia-plazaola-897047">José Ignacio García Plazaola</a>, <em><a href="https://theconversation.com/institutions/universidad-del-pais-vasco-euskal-herriko-unibertsitatea-3422">Universidad del País Vasco / Euskal Herriko Unibertsitatea</a></em> y <a href="https://theconversation.com/profiles/victor-resco-de-dios-767249">Víctor Resco de Dios</a>, <em><a href="https://theconversation.com/institutions/universitat-de-lleida-3488">Universitat de Lleida</a></em></span>
-
 <p>El otoño ha dejado paso al invierno. Y con él, se van los colores propios de la estación que hemos despedido: el verde que cubría a los árboles de hoja caduca se transforma en un abanico de colores, que va desde el ocre hasta el naranja. </p>
 
 <p>Los pigmentos responsables de estos colores son imprescindibles para la salud humana. Además, la calidad de los alimentos está relacionada con la preservación de estos compuestos y, por lo tanto, conocer su funcionamiento ayuda a disminuir el <a href="https://theconversation.com/las-consecuencias-sociales-nutricionales-y-ambientales-de-desperdiciar-comida-122576">desperdicio de alimentos</a>. </p>
