@@ -21,11 +21,10 @@ projects: []
 ---
   <figure>
     <img src="https://images.theconversation.com/files/282021/original/file-20190701-105168-3wvy57.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C6016%2C4016&q=45&auto=format&w=754&fit=clip" />
-      <figcaption>
-        
-        <span class="attribution"><a class="source" href="https://www.shutterstock.com/es/image-photo/burning-grass-field-shrubs-plants-burned-593861471?studio=1">Roman Demkiv/Shutterstock</a></span>
-      </figcaption>
-  </figure>
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
 
 <span><a href="https://theconversation.com/profiles/victor-resco-de-dios-767249">Víctor Resco de Dios</a>, <em><a href="https://theconversation.com/institutions/universitat-de-lleida-3488">Universitat de Lleida</a></em> y <a href="https://theconversation.com/profiles/matthias-boer-1493">Matthias Boer</a>, <em><a href="https://theconversation.com/institutions/western-sydney-university-1092">Western Sydney University</a></em></span>
 
