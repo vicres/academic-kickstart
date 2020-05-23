@@ -6,7 +6,7 @@ authors: ["E. Granda", "F. Baumgarten", "A. Gessler", "E. Gil-Pelegrin", "J.J. P
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Plant Cell and Environment*"
+publication: "*PLANT CELL AND ENVIRONMENT*"
 url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/pce.13665"
 doi: "10.1111/pce.13665"
 ---
