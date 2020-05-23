@@ -20,7 +20,7 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: Sothwest University of Science and Technology-UdL
+- name: Sothwest University of Science and Technology & UdL
   url: ""
 role: Professor of Tree Biology
 social:
@@ -42,11 +42,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a broadly trained plant physiological ecologist and my currently research is focused on 3 areas: 
+I am a broadly trained plant physiological ecologist and my current research is focused on 3 areas: 
 
-1) Circadian ecology -  trying to understand the drivers of diurnal, seasonal and annual rhythms of plant growth and gas exchange; 
-2) Pyrophysiology - increasing knowledge on the physiological mechanisms that affect fire activity and on how fires shape plant species structure and function; 
-3) Fire-Atmosphere interactions- meteorological drivers of wildfire activity.
+1) Circadian ecology - trying to understand the drivers of diurnal, seasonal and annual rhythms in plant growth and gas exchange; 
+2) Pyrophysiology - trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function; 
+3) Fire-Atmosphere interactions - trying to understand the meteorological drivers of wildfire activity.
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
