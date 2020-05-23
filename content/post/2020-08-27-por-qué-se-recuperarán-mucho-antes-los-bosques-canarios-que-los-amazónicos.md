@@ -16,8 +16,6 @@ image:
   preview_only: no
 projects: []
 ---
-<h1 class="legacy">Por qué se recuperarán mucho antes los bosques canarios que los amazónicos</h1>
-
   <figure>
     <img src="https://images.theconversation.com/files/289441/original/file-20190826-8851-1q1rbd.jpg?ixlib=rb-1.1.0&rect=0%2C15%2C3405%2C2247&q=45&auto=format&w=754&fit=clip" />
       <figcaption>

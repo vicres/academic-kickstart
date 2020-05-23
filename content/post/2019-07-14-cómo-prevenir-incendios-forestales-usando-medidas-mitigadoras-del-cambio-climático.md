@@ -21,8 +21,6 @@ image:
 projects: []
 ---
 
-<h1 class="legacy">Cómo prevenir incendios forestales usando medidas mitigadoras del cambio climático</h1>
-
   <figure>
     <img src="https://images.theconversation.com/files/283500/original/file-20190710-44466-ajoxln.jpg?ixlib=rb-1.1.0&rect=0%2C4%2C3003%2C1990&q=45&auto=format&w=754&fit=clip" />
       <figcaption>
