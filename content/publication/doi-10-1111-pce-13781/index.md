@@ -1,6 +1,6 @@
 ---
 title: "Hydraulic and photosynthetic limitations prevail over root non-structural carbohydrate reserves as drivers of resprouting in two Mediterranean oaks"
-date: 2020-05-20
+date: 2020-12-30
 publishDate: 2020-05-23T10:10:54.870057Z
 authors: ["Víctor Resco de Dios", "Carles Arteaga", "José Javier Peguero-Pina", "Domingo Sancho-Knapik", "Haiyan Qin", "Obey K Zveushe", "Wei Sun", "David G Williams", "Matthias M Boer", "Jordi Voltas", "José Manuel Moreno", "David T Tissue", "Eustaquio Gil-Pelegrín"]
 publication_types: ["2"]

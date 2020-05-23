@@ -1,6 +1,6 @@
 ---
 title: "Causes and consequences of eastern Australia's 2019–20 season of mega-fires"
-date: 2020-01-01
+date: 2020-12-28
 publishDate: 2020-05-17T15:13:02.531193Z
 authors: ["R.H. Nolan", "M.M. Boer", "L. Collins", "V. Resco de Dios", "H. Clarke", "M. Jenkins", "B. Kenny", "R.A. Bradstock"]
 publication_types: ["2"]

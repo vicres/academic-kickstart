@@ -1,6 +1,6 @@
 ---
 title: "Plant-Fire Interactions : Applying Ecophysiology to Wildfire Management"
-date: 2020-01-01
+date: 2020-12-05
 publishDate: 2020-05-17T15:13:02.528610Z
 authors: 
 - admin
