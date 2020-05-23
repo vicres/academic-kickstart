@@ -20,7 +20,8 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: SWUST-UdL
+- name: Southwest University of Science and Tecnology 
+UdL
   url: ""
 role: Professor of Tree Biology
 social:
@@ -44,8 +45,8 @@ user_groups:
 
 My research pivots around tree and forest biology and, more specifically, on: 
 
-1) diurnal and seasonal rhythms of plant growth and gas exchange; 
-2) the physiological mechanisms that underlie changes in the structure of plant communities; 
+1) diurnal, seasonal and annual rhythms of plant growth and gas exchange; 
+2) the physiological mechanisms affecting the structure of plant communities; 
 3) the factors that drive wildfire activity.
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
