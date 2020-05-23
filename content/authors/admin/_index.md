@@ -42,7 +42,7 @@ user_groups:
 - Principal Investigators
 ---
 
-My research pivots around Tree and Forest Biology and, more specifically, on: 
+My research pivots around tree and forest biology and, more specifically, on: 
 
 1) diurnal and seasonal rhythms of plant growth and gas exchange; 
 2) the physiological mechanisms that underlie changes in the structure of plant communities; 
