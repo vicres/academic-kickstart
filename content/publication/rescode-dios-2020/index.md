@@ -8,7 +8,7 @@ publication_types: ["5"]
 abstract: "This book provides a unique exploration of the inter-relationships between the science of plant environmental responses and the understanding and management of forest fires. It bridges the gap between plant ecologists, interested in the functional and evolutionary consequences of fire in ecosystems, with foresters and fire managers, interested in effectively reducing fire hazard and damage."
 featured: true
 publication: "*Springer*"
-url_pdf: "https://doi.org/10.1007/978-3-030-41192-3_1"
+url_pdf: "https://doi.org/10.1007/978-3-030-41192-3"
 doi: "10.1007/978-3-030-41192-3_1"
 image:
   placement: 

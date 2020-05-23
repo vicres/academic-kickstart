@@ -18,7 +18,7 @@ email: ""
 interests:
 - Circadian Ecology
 - Plant-Fire interactions
-- Stomatal behaviour
+- Ecosystem development
 organizations:
 - name: SWUST-UdL
   url: ""
