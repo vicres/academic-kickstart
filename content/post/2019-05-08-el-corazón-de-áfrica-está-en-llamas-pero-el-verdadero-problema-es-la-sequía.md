@@ -4,7 +4,12 @@ author: Víctor Resco de Dios
 date: '2019-05-08'
 slug: el-corazón-de-áfrica-está-en-llamas-pero-el-verdadero-problema-es-la-sequía
 categories: []
-tags: []
+tags:
+  - bosque tropical
+  - Congo
+  - incendios
+  - cambio climático
+  - sequía
 subtitle: ''
 summary: ''
 authors: []

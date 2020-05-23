@@ -4,7 +4,12 @@ author: Víctor Resco de Dios
 date: '2020-08-27'
 slug: por-qué-se-recuperarán-mucho-antes-los-bosques-canarios-que-los-amazónicos
 categories: []
-tags: []
+tags:
+  - incendios
+  - Amazonas
+  - bosque tropical
+  - Canarias
+
 subtitle: ''
 summary: ''
 authors: []

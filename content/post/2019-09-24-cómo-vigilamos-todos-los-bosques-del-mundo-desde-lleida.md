@@ -4,7 +4,12 @@ author: Víctor Resco de Dios
 date: '2019-09-24'
 slug: cómo-vigilamos-todos-los-bosques-del-mundo-desde-lleida
 categories: []
-tags: []
+tags:
+  - cambio climático
+  - biodiversidad
+  - migraciones
+  - fotoperiodo
+  - programa investigador
 subtitle: ''
 summary: ''
 authors: []
