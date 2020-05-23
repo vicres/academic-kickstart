@@ -116,7 +116,7 @@ subtitle = ""
  <a href="https://cadenaser.com/ser/2019/07/02/sociedad/1562053089_350214.html">Cadena Ser</a>  </p>
 
 <p> <font color= "brown"> 2018 </font> </p>		
-<p><em>Entrevista en RTVE/em><br>
+<p><em>Entrevista en RTVE</em><br>
 <a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
 
 <p><em>Deforestación inducida por incendios</em><br>
