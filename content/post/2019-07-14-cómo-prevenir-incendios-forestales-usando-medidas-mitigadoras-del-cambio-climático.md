@@ -21,15 +21,6 @@ image:
 projects: []
 ---
 
-  <figure>
-    <img src="https://images.theconversation.com/files/283500/original/file-20190710-44466-ajoxln.jpg?ixlib=rb-1.1.0&rect=0%2C4%2C3003%2C1990&q=45&auto=format&w=754&fit=clip" />
-      <figcaption>
-        
-        <span class="attribution"><a class="source" href="https://www.shutterstock.com/es/image-photo/forest-fire-pinus-pinaster-guadalajara-spain-1065315416?src=S08UXYVwQb7j2H7UszmwKQ-1-6&studio=1">FJAH/Shutterstock</a></span>
-      </figcaption>
-  </figure>
-
-
 <p>Los grandes incendios forestales atizan cada verano a nuestro país. Y lo hacen con una intensidad cada vez mayor. En 2017, por ejemplo, vimos por primera vez en Europa (Portugal) <a href="https://www.parlamento.pt/Documents/2017/Outubro/Relat%C3%B3rioCTI_VF%20.pdf">un incendio que quemaba 5 000 hectáreas en tan solo una hora (lo normal era que lo hiciera en varios días) y dejaba un desolador paisaje, con 64 fallecidos</a>. </p>
 
 <p>Asimismo, son cada vez más frecuentes los incendios en invierno; la estación de incendios ya no queda restringida al verano. Y es que el problema del fuego ha sido agravado por el cambio climático en el que estamos inmersos. Para bien o para mal, ambos problemas tienen la misma raíz por lo que se pueden tratar, por lo menos parcialmente, a la vez.</p>

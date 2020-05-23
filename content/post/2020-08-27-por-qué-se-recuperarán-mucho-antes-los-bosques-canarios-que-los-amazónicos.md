@@ -16,12 +16,6 @@ image:
   preview_only: no
 projects: []
 ---
-  <figure>
-    <img src="https://images.theconversation.com/files/289441/original/file-20190826-8851-1q1rbd.jpg?ixlib=rb-1.1.0&rect=0%2C15%2C3405%2C2247&q=45&auto=format&w=754&fit=clip" />
-      <figcaption>
-<span class="attribution"><a class="source" href="https://www.shutterstock.com/es/image-photo/apucarana-parana-brazil-august-28-2006-1433151824?src=AOd-yxC32HGOQm8wQd6BJg-2-29">Jair Ferreira Belafacce/Shutterstock</a></span>
-      </figcaption>
-  </figure>
 
 <p>Un elevado número de incendios está actualmente afectando a diversos puntos del globo terráqueo, desde Nueva Zelanda hasta Siberia (figura 1). De entre todos ellos, los que están ocurriendo en la Amazonía son los que más portadas ocupan estos días. </p>
 
