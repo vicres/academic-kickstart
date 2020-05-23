@@ -20,7 +20,7 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: SWUST-UdL
+- name: Sothwest University of Science and Technology-UdL
   url: ""
 role: Professor of Tree Biology
 social:
