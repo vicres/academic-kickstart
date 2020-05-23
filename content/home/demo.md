@@ -51,6 +51,84 @@ subtitle = ""
 +++
 
 
-The Forest Biology group is led by [Prof Víctor Resco de Dios](https://eager-booth-49dd34.netlify.app/author/victor-resco-de-dios/)  and is part of the **School of Life Science & Engineering** at [Southwest University of Science and Tecnology](http://www.english.swust.edu.cn). 
+<p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
+								<a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
+								<a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
+								
+								
+								<p><i>Plantar un billón de árboles no va a frenar el cambio climático</i> <br>
+								<a href="https://theconversation.com/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico-130410">The Conversation</a> |
+								<a href="https://www.climatica.lamarea.com/plantar-billon-arboles-cambio-climatico/">Climática - La Marea</a> |
+								<a href="https://www.huffingtonpost.es/entry/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico_es_5e2e661dc5b67d8874b4fcd7?utm_hp_ref=es-homepage">Huffington Post</a> </p>
 
-We also develop some projects from **Agrotecnio** at [University of Lleida](http://www.udl.cat)
+
+								<p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
+								<a href="https://theconversation.com/australia-en-llamas-una-catastrofe-para-la-salud-la-economia-y-la-biodiversidad-129378">The Conversation</a> |
+								<a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> |
+								<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Radio Clásica (Entrevista)</a> </p>
+								
+								
+								<p><i>La historia de los incendios en Australia y el posible fin del invierno</i> <br>
+								<a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
+								
+								
+								<p> <font color= "brown"> 2019 </font> </p>		
+
+								<p><i>Así funciona la memoria de las plantas</i> <br>
+								<a href="https://theconversation.com/asi-funciona-la-memoria-de-las-plantas-127091">The Conversation</a> |
+								<a href="https://www.eldiario.es/sociedad/funciona-memoria-plantas_0_964853736.html">ElDiario.es</a> |
+								<a href="https://www.bbc.com/mundo/noticias-50460981">BBC</a> </p>
+								
+								<p><i>Un pacto por el cambio climático: ¿utopía o posibilidad?</i> <br>
+								<a href="https://theconversation.com/un-pacto-por-el-cambio-climatico-utopia-o-posibilidad-124659">The Conversation</a> </p>
+								
+								
+								<p><i>Cómo desde Lleida vigilamos los bosques del mundo</i> <br>
+								<a href="https://theconversation.com/como-vigilamos-todos-los-bosques-del-mundo-desde-lleida-124012">The Conversation</a> |
+								<a href="https://www.elperiodico.com/es/the-conversation/20191006/articulo-victor-resco-de-dios-the-conversation-como-vigilamos-bosques-mundo-desde-lleida-7662908">El Periódico</a> |
+								<a href="https://www.vozpopuli.com/altavoz/next/vigilamos-bosques-mundo-Lleida_0_1285371556.html">Voz Pópuli</a> |
+								<a href="https://www.elplural.com/leequid/como-vigilamos-todos-los-bosques-del-mundo-desde-lleida_224621102">El Plural</a></p>
+								
+								<p><i>El corazón de África está en llamas (pero el verdadero problema es la sequía)</i> <br>
+								<a href="https://theconversation.com/el-corazon-de-africa-esta-en-llamas-pero-el-verdadero-problema-es-la-sequia-122658">The Conversation</a> |
+								<a href="https://www.infobae.com/america/medio-ambiente/2019/08/30/el-corazon-de-africa-esta-en-llamas-pero-el-verdadero-problema-es-la-sequia/">Infobae</a> |
+								<a href="https://www.eldiario.es/sociedad/corazon-Africa-llamas-verdadero-problema_0_936856415.html">ElDiario.es</a></p>
+
+								<p><i>Por qué se recuperarán mucho antes los bosques canarios que los amazónicos</i> <br>
+								<a href="https://theconversation.com/por-que-se-recuperaran-mucho-antes-los-bosques-canarios-que-los-amazonicos-122421">The Conversation</a> |
+								<a href="https://www.huffingtonpost.es/entry/por-que-se-recuperaran-mucho-antes-los-bosques-canarios-que-los-amazonicos_es_5d65cfe6e4b01fcc690b7c46?utm_hp_ref=es-blogs">HuffPost</a> |
+								<a href="https://www.nationalgeographic.com.es/naturaleza/diferencias-entre-incendios-amazonas-y-espana_14646">National Geographic</a></p>
+
+								<p><i>Incendios y deforestación en Amazonia</i> <br>
+								<a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
+								
+								<p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
+								<a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Climática (La Marea)</a></p>
+								
+								<p><i>Cambios en el régimen de incendios con el cambio climático</i> <br>
+								<a href="https://www.elindependiente.com/sociedad/2019/08/13/declarado-incendio-granada/">El Independiente</a></p>
+								
+								<p><i>Cómo prevenir incendios forestales usando medidas mitigadoras del cambio climático</i><br>
+								<a href="https://theconversation.com/como-prevenir-incendios-forestales-usando-medidas-mitigadoras-del-cambio-climatico-119961">The Conversation</a> |
+								<a href="https://blogs.publico.es/otrasmiradas/21387/como-prevenir-incendios-forestales-usando-medidas-mitigadoras-del-cambio-climatico/">Público</a></p>
+								
+								<p><i>Uncovering fake news</i><br>
+								<a href="https://www.newtral.es/actualidad/no-los-arboles-no-arden-en-dubai-por-las-altas-temperaturas/">Trees don't self-combust, Newtral</a></p>
+								
+								<p><i>Los pirómanos no son la causa de los grandes incendios forestales</i><br>
+								<a href="https://theconversation.com/los-piromanos-no-son-la-causa-de-los-grandes-incendios-forestales-119609">The Conversation</a> |
+								<a href="https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html">El Pais</a> |
+								 <a href="https://cadenaser.com/ser/2019/07/02/sociedad/1562053089_350214.html">Cadena Ser</a>  </p>
+
+								<p> <font color= "brown"> 2018 </font> </p>		
+								<p><em>Interview at Spanish National Television</em><br>
+								<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
+								
+								<p><em>Deforestación inducida por incendios</em><br>
+								<a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
+								 <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
+
+								<p> <font color= "brown"> Previous </font> </p>		
+								<p><em>Circadian gas Exchange</em><br>
+								<a href="https://www.npr.org/2012/04/07/150177245/bluff-the-listener?t=1562073304665">NPR: Wait, wait don't tell me</a> |
+								<a href="https://www.australiangeographic.com.au/news/2012/03/trees-have-biological-clocks/">Australian Geographic</a> </p>

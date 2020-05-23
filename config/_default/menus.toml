@@ -22,6 +22,10 @@
   name = "Posts"
   url = "/post/"
   weight = 50
+  [[main]]
+  name = "Artículos de prensa"
+  url = "/demo/"
+  weight = 60
 
 [[main]]
   name = "Contact"
