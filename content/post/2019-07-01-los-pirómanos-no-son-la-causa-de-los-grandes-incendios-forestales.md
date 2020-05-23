@@ -24,10 +24,6 @@ projects: []
       <figcaption>
         <span class="attribution"><a class="source" href="https://www.shutterstock.com/es/image-photo/burning-grass-field-shrubs-plants-burned-593861471?studio=1">Roman Demkiv/Shutterstock</a></span>
       </figcaption>
-      <figcaption>
-              <span class="caption">Fig. 1. Sucesión de eventos que conducen a un gran incendio forestal en base a los 4 ingredientes: acumulación de combusible (1), humedad del combustible (2), ignición (3) y meteorología (4).</span>
-              <span class="attribution"><a class="source" href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017EF000657">Boer MM, Nolan RH, Resco De Dios V, Clarke H, Price OF, Bradstock RA (2017), 'Changing weather extremes call for early warning of potential for catastrophic fire'. 'Earth's Future'</a>, <span class="license">Author provided</span></span>
-            </figcaption>
   </figure>
 
 <span><a href="https://theconversation.com/profiles/victor-resco-de-dios-767249">Víctor Resco de Dios</a>, <em><a href="https://theconversation.com/institutions/universitat-de-lleida-3488">Universitat de Lleida</a></em> y <a href="https://theconversation.com/profiles/matthias-boer-1493">Matthias Boer</a>, <em><a href="https://theconversation.com/institutions/western-sydney-university-1092">Western Sydney University</a></em></span>
