@@ -26,8 +26,6 @@ projects: []
       </figcaption>
   </figure>
 
-<span><a href="https://theconversation.com/profiles/victor-resco-de-dios-767249">Víctor Resco de Dios</a>, <em><a href="https://theconversation.com/institutions/universitat-de-lleida-3488">Universitat de Lleida</a></em> y <a href="https://theconversation.com/profiles/matthias-boer-1493">Matthias Boer</a>, <em><a href="https://theconversation.com/institutions/western-sydney-university-1092">Western Sydney University</a></em></span>
-
 <p>Los incendiarios no son la causa de los grandes incendios forestales. Tampoco lo son las colillas, los tendidos eléctricos, los estercoleros ni las negligencias agrícolas. Ni tan siquiera un pirómano tiene la capacidad de provocar un incendio. Estos factores solo crean la ignición. Pero un incendio no es una ignición.</p>
 
 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/j.1466-8238.2009.00512.x">Un gran incendio forestal resulta de mezclar, como en un cóctel, cuatro ingredientes</a>: combustible (léase estructura de la vegetación), humedad, ignición y meteorología (fig. 1). Y al igual que en cualquier cóctel, aquí también resulta importante el orden, o la <a href="https://iopscience.iop.org/article/10.1088/1748-9326/11/6/065002">secuencia y escala temporal, de cada uno de estos elementos</a>. La ignición es el penúltimo factor y, aunque imprescindible, su origen o causa es casi anecdótica y de escasa trascendencia para el problema de los grandes incendios.</p>
