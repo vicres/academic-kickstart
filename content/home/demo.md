@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 
-<p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
+<i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
 <a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
 								
@@ -62,10 +62,10 @@ subtitle = ""
 								<a href="https://www.huffingtonpost.es/entry/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico_es_5e2e661dc5b67d8874b4fcd7?utm_hp_ref=es-homepage">Huffington Post</a>
 
 
-								<p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
+								<i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
 								<a href="https://theconversation.com/australia-en-llamas-una-catastrofe-para-la-salud-la-economia-y-la-biodiversidad-129378">The Conversation</a> |
 								<a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> |
-								<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Radio Clásica (Entrevista)</a> </p>
+								<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Radio Clásica (Entrevista)</a>
 								
 								
 								<p><i>La historia de los incendios en Australia y el posible fin del invierno</i> <br>
