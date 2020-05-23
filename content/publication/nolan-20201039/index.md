@@ -6,7 +6,7 @@ authors: ["R.H. Nolan", "M.M. Boer", "L. Collins", "V. Resco de Dios", "H. Clark
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Global Change Biology*"
+publication: "*GLOBAL CHANGE BIOLOGY*"
 url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.14987"
 doi: "10.1111/gcb.14987"
 ---

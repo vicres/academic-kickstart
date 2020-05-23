@@ -6,7 +6,7 @@ authors: ["Víctor Resco de Dios", "Carles Arteaga", "José Javier Peguero-Pina"
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Plant, Cell & Environment*"
+publication: "*PLANT, CELL & ENVIRONMENT*"
 url_pdf: "https://doi.org/10.1111%2Fpce.13781"
 doi: "10.1111/pce.13781"
 ---
