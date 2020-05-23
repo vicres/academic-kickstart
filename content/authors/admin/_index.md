@@ -42,11 +42,11 @@ user_groups:
 - Principal Investigators
 ---
 
-My research pivots around tree and forest biology and, more specifically, on: 
+I am a broadly trained plant physiological ecologist and my currently research is focused on 3 areas: 
 
-1) diurnal and seasonal rhythms of plant growth and gas exchange; 
-2) the physiological mechanisms that underlie changes in the structure of plant communities; 
-3) the factors that drive wildfire activity.
+1) Circadian ecology -  trying to understand the drivers of diurnal, seasonal and annual rhythms of plant growth and gas exchange; 
+2) Pyrophysiology - increasing knowledge on the physiological mechanisms that affect fire activity and on how fires shape plant species structure and function; 
+3) Fire-Atmosphere interactions- meteorological drivers of wildfire activity.
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
