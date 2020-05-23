@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Forest Biology Lab"
+title = "Artículos de prensa"
 subtitle = ""
 
 [design]
@@ -52,14 +52,14 @@ subtitle = ""
 
 
 <p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
-								<a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
-								<a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
+<a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
+<a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
 								
 								
-								<p><i>Plantar un billón de árboles no va a frenar el cambio climático</i> <br>
+								<i>Plantar un billón de árboles no va a frenar el cambio climático</i> <br>
 								<a href="https://theconversation.com/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico-130410">The Conversation</a> |
 								<a href="https://www.climatica.lamarea.com/plantar-billon-arboles-cambio-climatico/">Climática - La Marea</a> |
-								<a href="https://www.huffingtonpost.es/entry/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico_es_5e2e661dc5b67d8874b4fcd7?utm_hp_ref=es-homepage">Huffington Post</a> </p>
+								<a href="https://www.huffingtonpost.es/entry/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico_es_5e2e661dc5b67d8874b4fcd7?utm_hp_ref=es-homepage">Huffington Post</a>
 
 
 								<p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
