@@ -54,6 +54,9 @@ subtitle = ""
 <i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
 <a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
+<i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
+<a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
+<a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> 
 								
 								
 								<i>Plantar un billón de árboles no va a frenar el cambio climático</i> <br>
