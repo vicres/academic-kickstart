@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Artículos de prensa"
+title = "Medios de comunicación"
 subtitle = ""
 
 [design]
@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-<a href="#prensa">Prensa</a>   <a href="#radio">Radio</a> <a href="#tv">Televisión</a> <a href="#yt">Youtube</a>
+<a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> | <a href="#yt">Youtube</a>
 
 <div class="main" id="prensa">
   <h2>Prensa</h2>
-</div>
+
 
 
 </body>
@@ -69,18 +69,11 @@ subtitle = ""
 
 <p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
 <a href="https://theconversation.com/australia-en-llamas-una-catastrofe-para-la-salud-la-economia-y-la-biodiversidad-129378">The Conversation</a> |
-<a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> |
-<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Radio Clásica (Entrevista)</a></p>
+<a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> 
 
-<p><i>La historia de los incendios en Australia y el posible fin del invierno</i> <br>
-<a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
+
 														
 <p> <font color= "brown"> 2019 </font> </p>		
-
-<div class="main" id="radio">
-  <h2>Radio</h2>
-</div>
-
 
 <p><i>Así funciona la memoria de las plantas</i> <br>
 <a href="https://theconversation.com/asi-funciona-la-memoria-de-las-plantas-127091">The Conversation</a> |
@@ -127,11 +120,35 @@ subtitle = ""
 <a href="https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html">El Pais</a> |
  <a href="https://cadenaser.com/ser/2019/07/02/sociedad/1562053089_350214.html">Cadena Ser</a>  </p>
 
-<p> <font color= "brown"> 2018 </font> </p>		
-<p><em>Entrevista en RTVE</em><br>
-<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
-
 <p><em>Deforestación inducida por incendios</em><br>
 <a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
  <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
 
+</div>
+
+
+<div class="main" id="radio">
+  <h2>Radio</h2>
+
+
+<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
+
+<p><i>La historia de los incendios en Australia y el posible fin del invierno</i> <br>
+<a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
+</div>
+
+<div class="main" id="radio">
+  <h2>Televisión</h2>
+  
+<p><em>Entrevista en RTVE</em><br>
+<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
+  
+</div>
+
+<div class="main" id="radio">
+  <h2>Youtube</h2>
+  
+<p><em>CREAF Talks/em><br>
+<a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
+  
+</div>
