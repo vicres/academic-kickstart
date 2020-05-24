@@ -9,19 +9,14 @@
   weight = 10
   
 [[main]]
-  name = "New Book!"
+  name = "Mi último libro"
   url = "#featured"
   weight = 20
 
 [[main]]
-  name = "Publications"
+  name = "Publicaciones científicas"
   url = "/publication/"
   weight = 30
-
-[[main]]
-  name = "Outreach"
-  url = "#outreach"
-  weight = 40
 
 [[main]]
   name = "Blog"
@@ -30,11 +25,11 @@
 
 [[main]]
   name = "Medios de Comunicación"
-  url = "/demo/"
+  url = "/prensa/"
   weight = 60
 
 [[main]]
-  name = "Contact"
+  name = "Contacto"
   url = "#contact"
   weight = 70
 

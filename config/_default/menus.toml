@@ -24,16 +24,6 @@
   weight = 40
 
 [[main]]
-  name = "Blog"
-  url = "/post/"
-  weight = 50
-
-[[main]]
-  name = "Medios de Comunicación"
-  url = "/demo/"
-  weight = 60
-
-[[main]]
   name = "Contact"
   url = "#contact"
   weight = 70
