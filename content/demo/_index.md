@@ -50,11 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-<div class="main" id="section1">
-  <h2>Section 1</h2>
-  <p>Click on the link to see the "smooth" scrolling effect.</p>
-  <a href="#section2">Click Me to Smooth Scroll to Section 2 Below</a>
-  <p>Note: Remove the scroll-behavior property to remove smooth scrolling.</p>
+<a href="#prensa">Prensa</a>   <a href="#radio">Radio</a> <a href="#tv">Televisión</a> <a href="#yt">Youtube</a>
+
+<div class="main" id="prensa">
+  <h2>Prensa</h2>
 </div>
 
 
@@ -77,9 +76,9 @@ subtitle = ""
 <a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
 														
 <p> <font color= "brown"> 2019 </font> </p>		
-<div class="main" id="section2">
-  <h2>Section 2</h2>
-  <a href="#section1">Click Me to Smooth Scroll to Section 1 Above</a>
+
+<div class="main" id="radio">
+  <h2>Radio</h2>
 </div>
 
 
