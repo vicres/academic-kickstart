@@ -152,7 +152,7 @@ subtitle = ""
 <div class="main" id="yt">
   <h2>Youtube</h2>
   
-<p><em>CREAF Talks/em><br>
+<p><em>CREAF Talks</em><br>
 <a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
   
 </div>
