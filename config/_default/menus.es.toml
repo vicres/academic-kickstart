@@ -15,23 +15,23 @@
 
 [[main]]
   name = "Publicaciones científicas"
-  url = "/publication/"
+  url = "#publications"
   weight = 30
 
 [[main]]
   name = "Blog"
   url = "/post/"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Medios de Comunicación"
   url = "/prensa/"
-  weight = 60
+  weight = 50
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 70
+  weight = 60
 
 
 
