@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Medios de comunicación"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,6 +49,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<div class="main" id="top">
+<font color= "green">  <h1>Medios de Comunicación</h1></font>
 
 <a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> | <a href="#yt">Youtube</a>
 
@@ -158,8 +161,8 @@ subtitle = ""
 <p><em>CREAF Talks</em><br>
 <a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
 
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube 58NJZFYCcgo >}}
   
 </div>
 
-<a href="#prensa">Volver al principio</a> 
+<a href="#top">Volver al principio</a> 
