@@ -66,6 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<script data-ad-client="ca-pub-4034540180217005" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 {{% alert note %}}
 [See all publications]({{< ref "/publication/_index.md" >}}).
