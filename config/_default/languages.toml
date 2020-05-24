@@ -11,10 +11,10 @@
 [es]
   languageCode = "es"
   contentDir = "content/es"
-  title = "Hola"
+  title = "Víctor Resco de Dios"
   [es.params]
     description = "Hola de nuevo"
   [[es.menu.main]]
-    name = "victor"
+    name = "Home"
     url = "#about"
     weight = 1

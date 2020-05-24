@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publicaciones recientes"
 subtitle = ""
 
 [content]
@@ -69,5 +69,5 @@ subtitle = ""
 <script data-ad-client="ca-pub-4034540180217005" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 {{% alert note %}}
-[See all publications]({{< ref "/publication/_index.md" >}}).
+[Ver todos los artículos]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
