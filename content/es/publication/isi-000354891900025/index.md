@@ -1,0 +1,12 @@
+---
+title: "Optimal stomatal behaviour around the world"
+date: 2015-05-01
+publishDate: 2020-05-23T08:50:20.424037Z
+authors: ["Yan-Shih Lin", "Belinda E. Medlyn", "Remko A. Duursma", "I. Colin Prentice", "Han Wang", "Sofia Baig", "Derek Eamus", "Victor Resco de Dios", "Patrick Mitchell", "David S. Ellsworth", "Maarten Op de Beeck", "Goran Wallin", "Johan Uddling", "Lasse Tarvainen", "Maj-Lena Linderson", "Lucas A. Cernusak", "Jesse B. Nippert", "Troyw. Ocheltree", "David T. Tissue", "Nicolas K. Martin-St Paul", "Alistair Rogers", "Je M. Warren", "Paolo De Angelis", "Kouki Hikosaka", "Qingmin Han", "Yusuke Onoda", "Teresa E. Gimeno", "Craig V. M. Barton", "Jonathan Bennie", "Damien Bonal", "Alexandre Bosc", "Markus Loew", "Cate Macinins-Ng", "Ana Rey", "Lucy Rowland", "Samantha A. Setterfield", "Sabine Tausz-Posch", "Joana Zaragoza-Castells", "Mark S. J. Broadmeadow", "John E. Drake", "Michael Freeman", "Oula Ghannoum", "Lindsay B. Hutley", "Jeff W. Kelly", "Kihachiro Kikuzawa", "Pasi Kolari", "Kohei Koyama", "Jean-Marc Limousin", "Patrick Meir", "Antonio C. Lola da Costa", "Teis N. Mikkelsen", "Norma Salinas", "Wei Sun", "Lisa Wingate"]
+publication_types: ["2"]
+abstract: "Stomatal conductance (g(s)) is a key land-surface attribute as it links transpiration, the dominant component of global land evapotranspiration, and photosynthesis, the driving force of the global carbon cycle. Despite the pivotal role of g(s) in predictions of global water and carbon cycle changes, a global-scale database and an associated globally applicable model of g(s) that allow predictions of stomatal behaviour are lacking. Here, we present a database of globally distributed g(s) obtained in the field for a wide range of plant functional types (PFTs) and biomes. We find that stomatal behaviour differs among PFTs according to their marginal carbon cost of water use, as predicted by the theory underpinning the optimal stomatal model(1) and the leaf and wood economics spectrum(2,3). We also demonstrate a global relationship with climate. These findin g(s) provide a robust theoretical framework for understanding and predicting the behaviour of g(s) across biomes and across PFTs that can be applied to regional, continental and global-scale modelling of ecosystem productivity, energy balance and ecohydrological processes in a future changing climate."
+featured: false
+publication: "*NATURE CLIMATE CHANGE*"
+doi: "10.1038/NCLIMATE2550"
+---
+
