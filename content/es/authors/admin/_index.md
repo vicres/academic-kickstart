@@ -1,28 +1,28 @@
 ---
 authors:
 - admin
-bio: Professor of Tree Biology @ SWUST-UdL. 
+bio: Profesor de Biología Forestal @ SWUST-UdL. 
 
 education:
   courses:
-  - course: PhD in Rangeland Ecology & Watershed Management
+  - course: Dr en Rangeland Ecology & Watershed Management
     institution: University of Wyoming
     year: 2008
-  - course: MEng in Forestry
-    institution: University of Lleida
+  - course: Ingeniero de Montes
+    institution: Universidad de Lleida
     year: 2003
-  - course: BSc in Forestry
-    institution: University of Lleida
+  - course: Ingeniero Técnico Forestal
+    institution: Universidad de Lleida
     year: 2000
 email: ""
 interests:
-- Circadian Ecology
-- Plant-Fire interactions
-- Ecosystem development
+- Ecología circadiana
+- Interacciones planta-fuego
+- Sucesión 
 organizations:
 - name: Southwest University of Science and Technology & UdL
   url: ""
-role: Professor of Tree Biology
+role: Profesor de Biología Forestal
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,12 +42,12 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Professor at Southwest University of Science and Technology and I also hold an affiliation with University of Lleida. My current research revolves around: 
+Soy catedrático en la Southwest University of Science and Technology y mantengo una afiliación con la Universitat de Lleida. Mi investigación se centra en: 
 
-1) Circadian ecology: Exploring how circadian vs exogenous factors affect diurnal, seasonal and annual rhythms in plant growth and gas exchange. 
-2) Pyrophysiology: Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
-3) Fire-Atmosphere interactions: Deciphering how meteorological conditions affect fire behavior.
+1) Ecología circadiana: entender el papel de los ritmos circadianos para el desarrollo de ritmos diurnos, estacionales y anuales en el crecimiento e intercambio gaseoso. 
+2) Pirofisiología: explorar los mecanismos fisiológicos que afectan a la actividad de los incendios y cómo los incendios moldean la estructura y función de las plantas. 
+3) Interacciones fuego-atmósfera: descifrar cómo afecta la meteorología al comportamiento de los incendios.
 
-I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
+Formo parte de los Consejos Editoriales de [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) y [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
-A few years ago I contributed to the [IPCC 5 AR](https://www.ipcc.ch/report/ar5/syr/)
+Hace unos años contribuí al [IPCC 5 AR](https://www.ipcc.ch/report/ar5/syr/)
