@@ -50,7 +50,15 @@ subtitle = ""
  css_class = ""
 +++
 
+<div class="main" id="section1">
+  <h2>Section 1</h2>
+  <p>Click on the link to see the "smooth" scrolling effect.</p>
+  <a href="#section2">Click Me to Smooth Scroll to Section 2 Below</a>
+  <p>Note: Remove the scroll-behavior property to remove smooth scrolling.</p>
+</div>
 
+
+</body>
 <p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
 <a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> <br></p>
@@ -69,6 +77,11 @@ subtitle = ""
 <a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
 														
 <p> <font color= "brown"> 2019 </font> </p>		
+<div class="main" id="section2">
+  <h2>Section 2</h2>
+  <a href="#section1">Click Me to Smooth Scroll to Section 1 Above</a>
+</div>
+
 
 <p><i>Así funciona la memoria de las plantas</i> <br>
 <a href="https://theconversation.com/asi-funciona-la-memoria-de-las-plantas-127091">The Conversation</a> |
