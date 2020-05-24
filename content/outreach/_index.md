@@ -50,18 +50,18 @@ subtitle = ""
  css_class = ""
 +++
 
-<p> <strong>Organization of conferences for scientific outreach: </strong></p>		
+<p> <font color= "brown"> <strong>Organization of conferences for scientific outreach: </strong></font> </p>		
 								
 <p> <a href="http://igenium.cat/">iGenium'17: Engineering Meeting Point.</a> Conference on Engineering and climate change.</p>
 <p> <a href="http://www.conama.org/web/index.php">Conama 2016: National Environmental Science Conference.</a> Oranizing session on Carbon sinks.</p>
 
 <p><strong>Articles :</strong></p>
-<p> Chowdhury FI, Barua I, Chowdhury AI, <strong>Resco de Dios V</strong>, Shafiul M. 2020. 
+<p> Chowdhury FI, Barua I, Chowdhury AI, Resco de Dios V, Shafiul M. 2020. 
 Agroforestry shows higher potential than reforestation for soil restoration after slash-and-burn: a case study from Bangladesh. 
 Geology, Ecology, and Landscapes DOI: 10.1080/24749508.2020.1743528. 
  <a href="https://www.tandfonline.com/doi/pdf/10.1080/24749508.2020.1743528?needAccess=true"> [pdf] </a></p>
 
-<p> <strong>Resco de Dios V</strong> Karavani A, Boer MM, Baudena M, Colinas C, Díaz-Sierra R,
+<p> Resco de Dios V, Karavani A, Boer MM, Baudena M, Colinas C, Díaz-Sierra R,
 Pemán J, de Luís M, Enríquez-de-Salamanza A. 2018. Deforestación inducida por el fuego en bosques 
 mediterráneos sometidos a sequía. Foresta 70: 56-64. </p>
 
