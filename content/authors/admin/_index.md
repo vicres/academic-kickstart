@@ -20,7 +20,7 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: Southwest University of Science and Technology & UdL
+- name: Sothwest University of Science and Technology & UdL
   url: ""
 role: Professor of Tree Biology
 social:
@@ -42,11 +42,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Professor at Southwest University of Science and Technology and I also hold an affiliation with University of Lleida. My current research revolved around: 
+I am currently working on 3 research areas: 
 
-1) Circadian ecology: Exploring how circadian vs exogenous controls affect diurnal, seasonal and annual rhythms in plant growth and gas exchange. 
-2) Pyrophysiology: Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function.
-3) Fire-Atmosphere interactions: Deciphering how meteorological conditions affect fire behaviour.
+1) Circadian ecology: Exploring how endogenous vs exogenous the drivers of diurnal, seasonal and annual rhythms in plant growth and gas exchange; 
+2) Pyrophysiology: Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function; 
+3) Fire-Atmosphere interactions: Deciphering how meteorological conditions affect fire behavior.
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
