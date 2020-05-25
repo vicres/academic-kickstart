@@ -51,12 +51,12 @@ subtitle = ""
 +++
 
 <div class="main" id="top">
-<font color= "green">  <h1>Medios de Comunicación</h1></font>
+<font color= "green">  <h1>En las noticias</h1></font>
 
-<a href="#prensa">Artículos en diarios</a> | <a href="#radio">Entrevistas</a> | <a href="#yt">Ponencias</a>
+<a href="#prensa">Artículos escritos</a> | <a href="#radio">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
 <div class="main" id="prensa">
-<font color= "green">  <h2>Artículos en diarios</h2></font>
+<font color= "green">  <h2>Artículos escritos</h2></font>
 <script data-ad-client="ca-pub-4034540180217005" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
@@ -128,10 +128,10 @@ subtitle = ""
 
 
 
-
+<div class="main" id="entrevistas">
   <h2>Entrevistas</h2>
 <a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> 
-
+</div>
 
 <div class="main" id="radio">
 <h3>Prensa</h3>
