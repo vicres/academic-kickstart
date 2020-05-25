@@ -130,18 +130,19 @@ subtitle = ""
 
 <div class="main" id="entrevistas">
   <h2>Entrevistas</h2>
-<a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> 
+<a href="#entrevistas_prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> 
 </div>
 
-<div class="main" id="radio">
+<div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 <p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
 <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">Entrevista para Agencia EFE</a></p>
 
 <p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
 <a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
+</div>
 
-
+<div class="main" id="radio">
 <h3>Radio</h3>
 <p><i>Incendios en Australia</i> <br>
 <a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
