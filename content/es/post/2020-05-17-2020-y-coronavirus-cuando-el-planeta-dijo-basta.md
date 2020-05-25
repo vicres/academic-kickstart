@@ -40,3 +40,5 @@ Las modificaciones de la Tierra a escala colosal resultan en extinciones masivas
 Cada vez habrá más pandemias, más sequía y menos agua, y llegará un punto en que la producción agraria peligrará. Todo ello mientras la población humana sigue aumentando. Las predicciones nos indican como se acrecentará la desigualdad, lo que probablemente desemboque en más guerras. Nuestras acciones en los próximos diez años determinarán que nuestros hijos y nietos pueda tener un vida agradable en este planeta, o una vida de mierda. Y es que está en juego todo: desde nuestro estilo de vida hasta nuestra supervivencia como especie.
 
 ¿Qué puede hacer usted? Exija a sus representantes políticos que abracen al consenso científico de forma decidida. 
+
+Este artículo fue publicado originalmente en  <a href="https://www.territoris.cat/author/victor-resco-de-dios">Territoris</a>. Lea el <a href="https://www.territoris.cat/opinion/victor-resco-dios/2020-i-coronavirus-quan-planeta-va-dir-prou/20200401183224063677.html">original</a>.
