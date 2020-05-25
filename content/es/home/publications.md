@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[Ver todos mis artículos]({{< ref "https://www.rescodedios.com/publication/" >}}).
+[Ver todos mis artículos]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
