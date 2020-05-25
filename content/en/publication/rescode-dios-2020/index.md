@@ -9,7 +9,7 @@ abstract: "This book provides a unique exploration of the inter-relationships be
 featured: true
 publication: "*Springer*"
 url_pdf: "https://doi.org/10.1007/978-3-030-41192-3"
-doi: "10.1007/978-3-030-41192-3_1"
+doi: "10.1007/978-3-030-41192-3"
 image:
   placement: 
   caption: ''
