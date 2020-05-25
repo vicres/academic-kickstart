@@ -136,7 +136,7 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Prensa</h3>
 <p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
-<a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Agencia EFE</a></p>
+<a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">Entrevista para Agencia EFE</a></p>
 
 <p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
 <a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
