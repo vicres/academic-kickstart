@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "Medios de Comunicación"
+  name = "Medios de comunicación"
   url = "/prensa/"
   weight = 50
 

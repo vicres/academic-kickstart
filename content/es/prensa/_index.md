@@ -53,14 +53,15 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Medios de Comunicación</h1></font>
 
-<a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> | <a href="#yt">Youtube</a>
+<a href="#prensa">Artículos en diarios</a> | <a href="#radio">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
 <div class="main" id="prensa">
-<font color= "green">  <h2>Prensa</h2></font>
+<font color= "green">  <h2>Artículos en diarios</h2></font>
 <script data-ad-client="ca-pub-4034540180217005" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 
 </body>
+
 <p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
 <a href="https://www.climatica.lamarea.com/bosques-sumidero-fuente-co2-decadas/">Climática - La Marea</a> <br></p>
@@ -103,9 +104,6 @@ subtitle = ""
 <p><i>Incendios y deforestación en Amazonia</i> <br>
 <a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
 
-<p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
-<a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Climática (La Marea)</a></p>
-
 <p><i>Cambios en el régimen de incendios con el cambio climático</i> <br>
 <a href="https://www.elindependiente.com/sociedad/2019/08/13/declarado-incendio-granada/">El Independiente</a></p>
 
@@ -128,9 +126,23 @@ subtitle = ""
 </div>
 
 
-<div class="main" id="radio">
-  <h2>Radio</h2>
 
+
+
+  <h2>Entrevistas</h2>
+<a href="#prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> 
+
+
+<div class="main" id="radio">
+<h3>Prensa</h3>
+<p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
+<a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Agencia EFE</a></p>
+
+<p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
+<a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
+
+
+<h3>Radio</h3>
 <p><i>Incendios en Australia</i> <br>
 <a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
 
@@ -142,7 +154,7 @@ subtitle = ""
 </div>
 
 <div class="main" id="tv">
-  <h2>Televisión</h2>
+  <h3>Televisión</h3>
   
 <p><em>Entrevista en RTVE</em><br>
 <a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
@@ -156,7 +168,7 @@ subtitle = ""
 </div>
 
 <div class="main" id="yt">
-  <h2>Youtube</h2>
+  <h2>Ponencias</h2>
   
 <p><em>CREAF Talks</em><br>
 <a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
