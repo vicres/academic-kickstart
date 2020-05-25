@@ -12,4 +12,3 @@ header:
   caption: ""
   image: ""
 ---
-<script data-ad-client="ca-pub-4034540180217005" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
