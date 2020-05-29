@@ -170,6 +170,12 @@ subtitle = ""
 
 <div class="main" id="yt">
   <h2>Ponencias</h2>
+
+<p><em>Forests Talks</em><br>
+<a href="https://youtu.be/uDx2zljyaXs">Boscos post COVID-19</a> </p>
+
+{{< youtube uDx2zljyaXs >}}
+
   
 <p><em>CREAF Talks</em><br>
 <a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
