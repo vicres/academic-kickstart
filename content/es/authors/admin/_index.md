@@ -42,10 +42,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy catedrático en la Southwest University of Science and Technology y mantengo una afiliación con la Universitat de Lleida. Mi investigación se centra en: 
+Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universitat de Lleida_. Mi investigación se centra en: 
 
-1) Ecología circadiana: entender el papel de los ritmos circadianos para el desarrollo de ritmos diurnos, estacionales y anuales en el crecimiento e intercambio gaseoso. 
-2) Pirofisiología: explorar los mecanismos fisiológicos que afectan a la actividad de los incendios y cómo los incendios moldean la estructura y función de las plantas. 
+1) **Ecología circadiana:** entender el papel de los ritmos circadianos para el desarrollo de ritmos diurnos, estacionales y anuales en el crecimiento e intercambio gaseoso. 
+2) **Pirofisiología:** explorar los mecanismos fisiológicos que afectan a la actividad de los incendios y cómo los incendios moldean la estructura y función de las plantas. 
 
 Formo parte de los Consejos Editoriales de [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) y [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
