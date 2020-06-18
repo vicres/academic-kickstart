@@ -61,6 +61,12 @@ subtitle = ""
 
 
 </body>
+<p><i>La resurrección veraniega de los incendios zombis en el Ártico</i> <br>
+<a href="https://theconversation.com/la-resurreccion-veraniega-de-los-incendios-zombis-en-el-artico-139894">The Conversation</a> |
+<a href="https://www.quo.es/naturaleza/q2006767513/resurreccion-incendios-zombis-en-el-artico/">Quo</a> | 
+<a href="https://www.eldiario.es/sociedad/resurreccion-veraniega-incendios-zombis-Artico_0_1038347128.html">ElDiario.es</a> | 
+<a href="https://www.t13.cl/noticia/mundo/que-son-incendios-zombis-resurgieron-artico">T13 (Chile)</a></p>
+
 
 <p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
@@ -135,8 +141,18 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+<p><i>La desertificación avanza lenta en casi todo el mundo</i> <br>
+<a href="https://www.efeverde.com/noticias/desertificacion-avanza-lenta-mundo/">Entrevista para Agencia EFE</a><br>
+republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-desertificacion-avanza-lenta-al-1-anual-en-casi-todo-el-mundo/ ">Infobae</a> |
+<a href="https://www.eldiario.es/sociedad/desertificacion-avanza-lenta-anual-mundo_0_1038696467.html"> eldiario.es</a> | 
+<a href="https://www.cope.es/actualidad/sociedad/noticias/desertificacion-avanza-lenta-anual-casi-todo-mundo-20200616_770218"> COPE</a> | 
+<a href="https://www.lavanguardia.com/natural/20200617/481822809097/doce-cifras-para-entender-la-gravedad-de-las-desertificacion-y-la-sequia.html"> La Vanguardia </a>y más</p>
+
+
 <p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
-<a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">Entrevista para Agencia EFE</a></p>
+<a href="https://www.efeverde.com/noticias/fondos-reforestacion-conservacion/">Entrevista para Agencia EFE</a><br>
+republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">La Vanguardia</a>  | 
+<a href="https://www.eldiario.es/sociedad/Experto-defiende-conservacion-reforestacion-indiscriminada_0_1006499856.html"> eldiario.es</a> y más</p>
 
 <p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
 <a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
