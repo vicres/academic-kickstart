@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2020 07 09 Covid 19 Conservación De La Naturaleza Y Salud en El Campo De Refugiados Más Grande Del Mundo"
+title: "COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo"
 subtitle: ""
 summary: ""
 authors: [Víctor Resco de Dios]
@@ -27,8 +27,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-<h1 class="legacy">COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo</h1>
 
   <figure>
     <img src="https://images.theconversation.com/files/345773/original/file-20200706-25-68jaef.jpg?ixlib=rb-1.1.0&rect=0%2C0%2C3858%2C2562&q=45&auto=format&w=754&fit=clip" />
