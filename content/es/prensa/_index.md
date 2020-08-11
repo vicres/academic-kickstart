@@ -163,6 +163,9 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+<p><i>Incendios y cambio climático</i> <br>
+<a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
+
 <p><i>Incendios en Australia</i> <br>
 <a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
 

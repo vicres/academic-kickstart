@@ -1,6 +1,6 @@
 ---
 title: "Similar diurnal, seasonal and annual rhythms in radial root expansion across two coexisting Mediterranean oak species"
-date: 2020-12-06
+date: 2020-08-06
 publishDate: 2020-05-23T09:48:04.204751Z
 authors: ["Josu G Alday", "J Julio Camarero", "Jesús Revilla", "Víctor Resco de Dios"]
 publication_types: ["2"]
