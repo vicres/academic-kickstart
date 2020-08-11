@@ -20,7 +20,7 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: Southwest University of Science and Technology & UdL
+- name: Southwest University of Science and Technology & Ud
   url: ""
 role: Professor of Tree Biology
 social:
