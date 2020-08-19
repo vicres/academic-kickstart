@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "LaFoRh"
@@ -51,4 +51,6 @@ hero_media = ""
 The LaFoRh Lab is led by <a href=authors/admin/ target=_blank> Prof Víctor Resco de Dios</a> at the <a hr ef=http://www.life.swust.edu.cn target=_blank> School of Life Science and Engineering</a> at **Southwest University of Science and Technology** and at <a href=http://www.agrotecnio.org target=_blank> Agrotecnio Center</a> at **University of Lleida**
 
 Our areas of interest include **Circadian Ecology**, **Stomatal Physiology** and **Plant-Fire Interactions**, which we study using glasshouse experiments, field monitoring, remote sensing and modelling. We have a multidisciplinary <a href=people>team </a> of researchers.
+
+<iframe id="example1" src="https://gallery.shinyapps.io/goog-trend-index/" style="border: none; width: 100%; height: 850px" frameborder="0"></iframe>
 
