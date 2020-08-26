@@ -48,5 +48,3 @@ I am a Professor at _Southwest University of Science and Technology_ and I also 
 2) **Pyrophysiology:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
-
-A few years ago I contributed to the [IPCC 5 AR](https://www.ipcc.ch/report/ar5/syr/)

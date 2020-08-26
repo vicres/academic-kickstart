@@ -61,6 +61,10 @@ subtitle = ""
 
 
 </body>
+<p><i>Fuera de estación y de control: así son los incendios que asolan California este año</i> <br>
+<a href="https://www.climatica.lamarea.com/incendios-california/">Climática - la Marea</a> </p>
+
+
 <p><i>COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo</i> <br>
 <a href="https://theconversation.com/covid-19-conservacion-de-la-naturaleza-y-salud-en-el-campo-de-refugiados-mas-grande-del-mundo-141062">The Conversation</a> </p>
 
@@ -144,6 +148,10 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+<p><i>Los incendios forestales aumentarán su frecuencia por el cambio climático</i> <br>
+<a href="https://www.infobae.com/sociedad/2020/08/22/los-incendios-forestales-aumentaran-su-frecuencia-por-el-cambio-climatico/">Declaraciones para artículo en Infobae (Argentina) </a></p>
+
+
 <p><i>La desertificación avanza lenta en casi todo el mundo</i> <br>
 <a href="https://www.efeverde.com/noticias/desertificacion-avanza-lenta-mundo/">Entrevista para Agencia EFE</a><br>
 republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-desertificacion-avanza-lenta-al-1-anual-en-casi-todo-el-mundo/ ">Infobae</a> |
