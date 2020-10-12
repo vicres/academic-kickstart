@@ -55,7 +55,16 @@ subtitle = ""
 <p> <a href="http://igenium.cat/">iGenium'17: Engineering Meeting Point.</a> Conference on Engineering and climate change.</p>
 <p> <a href="http://www.conama.org/web/index.php">Conama 2016: National Environmental Science Conference.</a> Oranizing session on Carbon sinks.</p>
 
+<p> <font color= "brown"> <strong>Press and SciComm</strong></font></p>
+
+<p> Statements to Science Magazine on the 2020 US West Coast fires 
+ <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species"> here </a>
+
+<p> I do write lots of SciComm papers for the mainstream press, but mostly in Spanish. They can be accessed  
+ <a href="https://www.rescodedios.com/es/prensa/"> here </a>
+
 <p> <font color= "brown"> <strong>Articles:</strong></font></p>
+
 <p> Chowdhury FI, Barua I, Chowdhury AI, Resco de Dios V, Shafiul M. 2020. 
 Agroforestry shows higher potential than reforestation for soil restoration after slash-and-burn: a case study from Bangladesh. 
 Geology, Ecology, and Landscapes DOI: 10.1080/24749508.2020.1743528. 

@@ -61,8 +61,18 @@ subtitle = ""
 
 
 </body>
+
+
+<p><i>No solo hay incendios en California: toda América está en llamas</i> <br>
+<a href="https://theconversation.com/no-solo-hay-incendios-en-california-toda-america-esta-en-llamas-146647">The Conversation</a> | 
+<a href="https://www.bbc.com/mundo/noticias-america-latina-54249424">BBC Mundo</a> 
+</p>
+
+<p><i>La ciencia sí sabe lo que está sucediendo: la influencia del cambio climático en los incendios forestales</i> <br>
+<a href="https://www.climatica.lamarea.com/influencia-cambio-climatico-incendios/">Climática - La Marea</a> </p>
+
 <p><i>Fuera de estación y de control: así son los incendios que asolan California este año</i> <br>
-<a href="https://www.climatica.lamarea.com/incendios-california/">Climática - la Marea</a> </p>
+<a href="https://www.climatica.lamarea.com/incendios-california/">Climática - La Marea</a> </p>
 
 
 <p><i>COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo</i> <br>
@@ -148,6 +158,14 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+<p><i>As wildfires continue in western United States, biologists fear for vulnerable species</i> <br>
+<a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species">Declaraciones para Science </a></p>
+
+
+<p><i>Los grandes incendios en California se adelantan</i> <br>
+<a href="https://osbodigital.es/2020/08/27/los-grandes-incendios-en-california-se-adelantan/">Declaraciones para OsboDigital </a></p>
+
+
 <p><i>Los incendios forestales aumentarán su frecuencia por el cambio climático</i> <br>
 <a href="https://www.infobae.com/sociedad/2020/08/22/los-incendios-forestales-aumentaran-su-frecuencia-por-el-cambio-climatico/">Declaraciones para artículo en Infobae (Argentina) </a></p>
 
@@ -171,6 +189,10 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+<p><i>Incendios en Sudamérica</i> <br>
+<a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
+
+
 <p><i>Incendios y cambio climático</i> <br>
 <a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
 
