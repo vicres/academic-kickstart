@@ -39,6 +39,10 @@ social:
 - icon: researcherid
   icon_pack: ai
   link: https://publons.com/researcher/1153834/victor-resco-de-dios/
+- icon: conversation
+  icon_pack: ai
+  link: https://theconversation.com/profiles/victor-resco-de-dios-767249/articles
+
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
