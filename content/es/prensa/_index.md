@@ -63,6 +63,12 @@ subtitle = ""
 </body>
 
 
+<p><i>El rocanrol en peligro de extinción: escasea la madera para fabricar guitarras</i> <br>
+<a href="https://theconversation.com/el-rocanrol-en-peligro-por-el-cambio-climatico-escasea-la-madera-para-fabricar-guitarras-152356">The Conversation</a> | 
+<a href="https://www.infobae.com/america/medio-ambiente/2020/12/22/el-rocanrol-en-peligro-por-el-cambio-climatico-se-acaba-la-materia-prima-para-fabricar-un-elemento-clave/">Infobae</a> | 
+<a href="https://www.niusdiario.es/cultura/artes/rocanrol-peligro-por-cambio-climatico-escasea-madera-fabricar-guitarras_18_3063120052.htmlhttps://www.niusdiario.es/cultura/artes/rocanrol-peligro-por-cambio-climatico-escasea-madera-fabricar-guitarras_18_3063120052.html">Nius</a> 
+</p>
+
 <p><i>No solo hay incendios en California: toda América está en llamas</i> <br>
 <a href="https://theconversation.com/no-solo-hay-incendios-en-california-toda-america-esta-en-llamas-146647">The Conversation</a> | 
 <a href="https://www.bbc.com/mundo/noticias-america-latina-54249424">BBC Mundo</a> 
