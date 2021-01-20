@@ -67,6 +67,7 @@ subtitle = ""
 <a href="https://theconversation.com/el-rocanrol-en-peligro-por-el-cambio-climatico-escasea-la-madera-para-fabricar-guitarras-152356">The Conversation</a> | 
 <a href="https://www.infobae.com/america/medio-ambiente/2020/12/22/el-rocanrol-en-peligro-por-el-cambio-climatico-se-acaba-la-materia-prima-para-fabricar-un-elemento-clave/">Infobae</a> | 
 <a href="https://www.niusdiario.es/cultura/artes/rocanrol-peligro-por-cambio-climatico-escasea-madera-fabricar-guitarras_18_3063120052.htmlhttps://www.niusdiario.es/cultura/artes/rocanrol-peligro-por-cambio-climatico-escasea-madera-fabricar-guitarras_18_3063120052.html">Nius</a> 
+<a href="https://www.elespanol.com/ciencia/nutricion/20210104/cambio-climatico-mata-rock-madera-guitarras-extingue/547195439_0.html">El Español</a> 
 </p>
 
 <p><i>No solo hay incendios en California: toda América está en llamas</i> <br>
