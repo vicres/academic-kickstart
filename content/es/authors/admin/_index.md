@@ -9,10 +9,10 @@ education:
     institution: University of Wyoming
     year: 2008
   - course: Ingeniero de Montes
-    institution: Universidad de Lleida
+    institution: Universidad de Lérida
     year: 2003
   - course: Ingeniero Técnico Forestal
-    institution: Universidad de Lleida
+    institution: Universidad de Lérida
     year: 2000
 email: ""
 interests:
@@ -51,7 +51,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universitat de Lleida_. Mi investigación se centra en: 
+Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universidad de Lérida_. Mi investigación se centra en: 
 
 1) **Ecología circadiana:** entender el papel de los ritmos circadianos para el desarrollo de ritmos diurnos, estacionales y anuales en el crecimiento e intercambio gaseoso. 
 2) **Pirofisiología:** explorar los mecanismos fisiológicos que afectan a la actividad de los incendios y cómo los incendios moldean la estructura y función de las plantas. 
