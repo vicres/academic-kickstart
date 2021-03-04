@@ -165,6 +165,14 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+<p><i>¿Muerte del rocanrol?, el cambio climático afecta a la madera de las guitarras</i> <br>
+<a href="https://www.efeverde.com/noticias/muerte-del-rocanrol-el-cambio-climatico-afecta-a-la-madera-de-las-guitarras/">Entrevista para Agencia EFE</a><br>
+republicada en <a href="https://www.lavanguardia.com/vida/20210210/6236620/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras.html">La Vanguardia</a> |
+<a href="https://www.eldiario.es/sociedad/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras_1_7207630.html"> eldiario.es</a> y más</p>
+
+</p>
+
+
 <p><i>As wildfires continue in western United States, biologists fear for vulnerable species</i> <br>
 <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species">Declaraciones para Science </a></p>
 
@@ -196,6 +204,10 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+
+<p><i>Guitarras en peligro de extinción</i> <br>
+<a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
+
 <p><i>Incendios en Sudamérica</i> <br>
 <a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
 
