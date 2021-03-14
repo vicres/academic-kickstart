@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Publicaciones científicas"
+  name = "Ciencia"
   url = "#publications"
   weight = 30
 
@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "En las noticias"
+  name = "Divulgación"
   url = "/prensa/"
   weight = 50
 
