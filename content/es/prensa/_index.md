@@ -205,6 +205,9 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>Entrevista a Víctor Resco</i> <br>
+<a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
+
 <p><i>Guitarras en peligro de extinción</i> <br>
 <a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
 
