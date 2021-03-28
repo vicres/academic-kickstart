@@ -62,6 +62,8 @@ subtitle = ""
 
 </body>
 
+<p> <font color= "brown"> 2021 </font> </p>		
+
 <p><i>Marte, Gaia y el cambio climático</i> <br>
 <a href="https://www.climatica.lamarea.com/marte-gaia-y-el-cambio-climatico/">Climática - La Marea</a> </p>
 
@@ -92,10 +94,10 @@ subtitle = ""
 <a href="https://www.climatica.lamarea.com/incendios-california/">Climática - La Marea</a> </p>
 
 
-<p><i>COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo</i> <br>
+<p><i>COVID-19: Conservación de la naturaleza y salud en el campo de refugiados más grande del mundo</i> (con Faqrul I Chowdhury) <br>
 <a href="https://theconversation.com/covid-19-conservacion-de-la-naturaleza-y-salud-en-el-campo-de-refugiados-mas-grande-del-mundo-141062">The Conversation</a> </p>
 
-<p><i>La resurrección veraniega de los incendios zombis en el Ártico</i> <br>
+<p><i>La resurrección veraniega de los incendios zombis en el Ártico</i> (con Daniel Moya Navarro)<br>
 <a href="https://theconversation.com/la-resurreccion-veraniega-de-los-incendios-zombis-en-el-artico-139894">The Conversation</a> |
 <a href="https://www.quo.es/naturaleza/q2006767513/resurreccion-incendios-zombis-en-el-artico/">Quo</a> | 
 <a href="https://www.eldiario.es/sociedad/resurreccion-veraniega-incendios-zombis-Artico_0_1038347128.html">ElDiario.es</a> | 
@@ -111,7 +113,7 @@ subtitle = ""
 <a href="https://www.climatica.lamarea.com/plantar-billon-arboles-cambio-climatico/">Climática - La Marea</a> |
 <a href="https://www.huffingtonpost.es/entry/plantar-un-billon-de-arboles-no-va-a-frenar-el-cambio-climatico_es_5e2e661dc5b67d8874b4fcd7?utm_hp_ref=es-homepage">Huffington Post</a><br></p>
 
-<p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> <br>
+<p><i>Australia en llamas: una catástrofe para la salud, la economía y la biodiversidad</i> (con Matthias Boer) <br>
 <a href="https://theconversation.com/australia-en-llamas-una-catastrofe-para-la-salud-la-economia-y-la-biodiversidad-129378">The Conversation</a> |
 <a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> 
 														
@@ -119,7 +121,6 @@ subtitle = ""
 
 
 <p><i>Cómo conservar mejor los alimentos con una iluminación inteligente</i> (con Raquel Esteban e Ignacio García Plazaola)<br>
-
 <a href="https://theconversation.com/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente-129154">The Conversation</a> |
 <a href="https://www.huffingtonpost.es/entry/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente_es_5e054f67e4b05b08babdf213?utm_hp_ref=es-tecnologia"> Huffington Post </a> |
 <a href="https://blogs.publico.es/otrasmiradas/27226/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente/"> Publico </a> </p>
@@ -130,7 +131,7 @@ subtitle = ""
 <a href="https://www.eldiario.es/sociedad/funciona-memoria-plantas_0_964853736.html">ElDiario.es</a> |
 <a href="https://www.bbc.com/mundo/noticias-50460981">BBC</a> </p>
 								
-<p><i>Un pacto por el cambio climático: ¿utopía o posibilidad?</i> <br>
+<p><i>Un pacto por el cambio climático: ¿utopía o posibilidad?</i> (con Agustín Rubio)<br>
 <a href="https://theconversation.com/un-pacto-por-el-cambio-climatico-utopia-o-posibilidad-124659">The Conversation</a> </p>				
 								
 <p><i>Cómo desde Lleida vigilamos los bosques del mundo</i> <br>
@@ -149,27 +150,15 @@ subtitle = ""
 <a href="https://www.huffingtonpost.es/entry/por-que-se-recuperaran-mucho-antes-los-bosques-canarios-que-los-amazonicos_es_5d65cfe6e4b01fcc690b7c46?utm_hp_ref=es-blogs">HuffPost</a> |
 <a href="https://www.nationalgeographic.com.es/naturaleza/diferencias-entre-incendios-amazonas-y-espana_14646">National Geographic</a></p>
 
-<p><i>Incendios y deforestación en Amazonia</i> <br>
-<a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
-
-<p><i>Cambios en el régimen de incendios con el cambio climático</i> <br>
-<a href="https://www.elindependiente.com/sociedad/2019/08/13/declarado-incendio-granada/">El Independiente</a></p>
-
-<p><i>Cómo prevenir incendios forestales usando medidas mitigadoras del cambio climático</i><br>
+<p><i>Cómo prevenir incendios forestales usando medidas mitigadoras del cambio climático</i> (con Matthias Boer)<br>
 <a href="https://theconversation.com/como-prevenir-incendios-forestales-usando-medidas-mitigadoras-del-cambio-climatico-119961">The Conversation</a> |
 <a href="https://blogs.publico.es/otrasmiradas/21387/como-prevenir-incendios-forestales-usando-medidas-mitigadoras-del-cambio-climatico/">Público</a></p>
 
-<p><i>Desmontando bulos</i><br>
-<a href="https://www.newtral.es/actualidad/no-los-arboles-no-arden-en-dubai-por-las-altas-temperaturas/">Trees don't self-combust, Newtral</a></p>
-
-<p><i>Los pirómanos no son la causa de los grandes incendios forestales</i><br>
+<p><i>Los pirómanos no son la causa de los grandes incendios forestales</i> (con Matthias Boer) <br>
 <a href="https://theconversation.com/los-piromanos-no-son-la-causa-de-los-grandes-incendios-forestales-119609">The Conversation</a> |
 <a href="https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html">El Pais</a> |
  <a href="https://cadenaser.com/ser/2019/07/02/sociedad/1562053089_350214.html">Cadena Ser</a>  </p>
 
-<p><em>Deforestación inducida por incendios</em><br>
-<a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
- <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
 
 </div>
 
@@ -216,8 +205,23 @@ republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-d
 republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">La Vanguardia</a>  | 
 <a href="https://www.eldiario.es/sociedad/Experto-defiende-conservacion-reforestacion-indiscriminada_0_1006499856.html"> eldiario.es</a> y más</p>
 
+<p><i>Incendios y deforestación en Amazonia</i> <br>
+<a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
+
+<p><i>Cambios en el régimen de incendios con el cambio climático</i> <br>
+<a href="https://www.elindependiente.com/sociedad/2019/08/13/declarado-incendio-granada/">El Independiente</a></p>
+
+
 <p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
 <a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
+
+<p><i>Desmontando bulos</i><br>
+<a href="https://www.newtral.es/actualidad/no-los-arboles-no-arden-en-dubai-por-las-altas-temperaturas/">Trees don't self-combust, Newtral</a></p>
+
+<p><em>Deforestación inducida por incendios</em><br>
+<a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
+<a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
+
 </div>
 
 <div class="main" id="radio">
