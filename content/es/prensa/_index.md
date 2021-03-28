@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class="main" id="top">
-<font color= "green">  <h1>Medios de comunicación</h1></font>
+<font color= "green">  <h1>Divulgación científica</h1></font>
 
 <a href="#prensa">Artículos escritos</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
@@ -62,6 +62,16 @@ subtitle = ""
 
 </body>
 
+<p><i>Marte, Gaia y el cambio climático</i> <br>
+<a href="https://www.climatica.lamarea.com/marte-gaia-y-el-cambio-climatico/">Climática - La Marea</a> </p>
+
+<p><i>Diez bulos sobre los bosques que lastran el futuro del planeta</i> (con Daniel Moya Navarro) <br>
+<a href="https://theconversation.com/diez-bulos-sobre-los-bosques-que-lastran-el-futuro-del-planeta-156164">The Conversation</a> | 
+<a href="https://www.elperiodico.com/es/the-conversation/20210324/diez-bulos-bosques-lastran-futuro-11605243">El Periódico</a> | 
+<a href="https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html">El Español</a> 
+</p>
+
+<p> <font color= "brown"> 2020 </font> </p>		
 
 <p><i>El rocanrol en peligro de extinción: escasea la madera para fabricar guitarras</i> <br>
 <a href="https://theconversation.com/el-rocanrol-en-peligro-por-el-cambio-climatico-escasea-la-madera-para-fabricar-guitarras-152356">The Conversation</a> | 
@@ -106,6 +116,14 @@ subtitle = ""
 <a href="https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095">National Geographic</a> 
 														
 <p> <font color= "brown"> 2019 </font> </p>		
+
+
+<p><i>Cómo conservar mejor los alimentos con una iluminación inteligente</i> (con Raquel Esteban e Ignacio García Plazaola)<br>
+
+<a href="https://theconversation.com/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente-129154">The Conversation</a> |
+<a href="https://www.huffingtonpost.es/entry/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente_es_5e054f67e4b05b08babdf213?utm_hp_ref=es-tecnologia"> Huffington Post </a> |
+<a href="https://blogs.publico.es/otrasmiradas/27226/como-conservar-mejor-los-alimentos-con-una-iluminacion-inteligente/"> Publico </a> </p>
+
 
 <p><i>Así funciona la memoria de las plantas</i> <br>
 <a href="https://theconversation.com/asi-funciona-la-memoria-de-las-plantas-127091">The Conversation</a> |
