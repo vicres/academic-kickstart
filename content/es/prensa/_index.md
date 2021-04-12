@@ -103,6 +103,8 @@ subtitle = ""
 <a href="https://www.eldiario.es/sociedad/resurreccion-veraniega-incendios-zombis-Artico_0_1038347128.html">ElDiario.es</a> | 
 <a href="https://www.t13.cl/noticia/mundo/que-son-incendios-zombis-resurgieron-artico">T13 (Chile)</a></p>
 
+<p><i>2020 i coronavirus: quan el planeta va dir prou</i> <br>
+<a href="https://www.territoris.cat/opinion/victor-resco-dios/2020-i-coronavirus-quan-planeta-va-dir-prou/20200401183224063677.html"> Territoris </a> <br></p>
 
 <p><i>Los bosques, de sumidero a fuente de CO2 en unas décadas</i> <br>
 <a href="https://theconversation.com/los-bosques-de-sumidero-a-fuente-de-co-sub-2-sub-en-unas-decadas-133578">The Conversation</a> |
@@ -199,6 +201,8 @@ republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-d
 <a href="https://www.cope.es/actualidad/sociedad/noticias/desertificacion-avanza-lenta-anual-casi-todo-mundo-20200616_770218"> COPE</a> | 
 <a href="https://www.lavanguardia.com/natural/20200617/481822809097/doce-cifras-para-entender-la-gravedad-de-las-desertificacion-y-la-sequia.html"> La Vanguardia </a>y más</p>
 
+<p><i>Als boscos dels Pirineus els podrien quedar unes dècades</i> <br>
+<a href="https://www.territoris.cat/articulo/societat/als-boscos-dels-pirineus-els-podrien-quedar-unes-decades/20200124163329062103.html"> Entrevista per a Territoris </a></p>
 
 <p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
 <a href="https://www.efeverde.com/noticias/fondos-reforestacion-conservacion/">Entrevista para Agencia EFE</a><br>
