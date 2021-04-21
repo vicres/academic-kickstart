@@ -63,4 +63,4 @@ En breve, mi investigación se centra en las interacciones entre cambio climáti
 
 Mis artículos de divulgación están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y mis artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
 
-No dudes en ponerte en [contacto conmigo]({{< ref "contact.md">}}). 
+No dudes en ponerte en [contacto conmigo]({{< ref "home.md#contact">}}). 
