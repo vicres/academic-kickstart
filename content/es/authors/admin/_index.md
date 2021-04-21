@@ -51,9 +51,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universidad de Lérida_. Mi investigación se centra en: 
+Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universidad de Lérida_. Mi investigación se centra en:
 
-1) **Ecología circadiana:** entender el papel de los ritmos circadianos para el desarrollo de ritmos diurnos, estacionales y anuales en el crecimiento e intercambio gaseoso. 
-2) **Pirofisiología:** explorar los mecanismos fisiológicos que afectan a la actividad de los incendios y cómo los incendios moldean la estructura y función de las plantas. 
+1) **Incendios forestales:** desarrollo de índices de riesgo de incendios forestales y de modelos de cambios en el régimen de incendios durante el s. XXI.
+2) **Estructura y funcionamiento de los ecosistemas forestales:** estudio de los mecanismos que rigen el intercambio de CO2 y agua entre los bosques y la atmósfera. 
 
-Formo parte de los Consejos Editoriales de [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113),[Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) y [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
+He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático, he escrito un centenar de [artículo científicos](https://www.rescodedios.com/es/publication/), [un libro](https://www.rescodedios.com/es/publication/rescode-dios-2020/) y una veintena de artículos de divulgación que han sido publicados en medios tales como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), [El Español](https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html), [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html) y muchos más. 
+Formo parte de los Consejos Editoriales de varias revistas científicas internacionales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137) o [Regional Environmental Change](https://www.springer.com/journal/10113), entre otras. 
