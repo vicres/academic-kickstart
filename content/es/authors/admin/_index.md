@@ -59,11 +59,8 @@ He escrito un centenar de [artículos científicos](https://www.rescodedios.com/
 
 He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático y formo parte de los Consejos Editoriales de varias revistas científicas internacionales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees - Structure and Function](https://www.springer.com/journal/468). 
 
+En breve, mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
+
 Mis artículos de divulgación están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y mis artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
 
-En breve, mi investigación se centra en:
-
-1) **Incendios forestales:** desarrollo de índices de riesgo de incendios forestales y de modelos de cambios en el régimen de incendios durante el s. XXI.
-2) **Estructura y funcionamiento de los ecosistemas forestales:** estudio de los mecanismos que rigen el intercambio de CO2 y agua entre los bosques y la atmósfera. 
-
-No dudes en ponerte en  si te puedo ayudar en algo. 
+No dudes en ponerte en [contacto conmigo]({{< ref "contact.md">}}). 
