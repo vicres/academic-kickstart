@@ -52,15 +52,14 @@ user_groups:
 ---
 
 Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universidad de Lérida_. 
+Mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
 
 He escrito un centenar de [artículos científicos](https://www.rescodedios.com/es/publication/), un libro sobre 
 [incendios forestales](https://www.rescodedios.com/es/publication/rescode-dios-2020/) y una veintena de artículos 
-[de divulgación](https://www.rescodedios.com/es/prensa/) que han sido publicados en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), [El Español](https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html) o [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
+[de divulgación](https://www.rescodedios.com/es/prensa/) publicados en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), [El Español](https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html) o [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
 
-He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático y formo parte de los Consejos Editoriales de varias revistas científicas internacionales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees - Structure and Function](https://www.springer.com/journal/468). 
-
-En breve, mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
+He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático y formo parte de los 
+Consejos Editoriales de varias revistas internacionales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137) o [Regional Environmental Change](https://www.springer.com/journal/10113). 
 
 Mis artículos de divulgación están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y mis artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
 
-No dudes en ponerte en [contacto conmigo]({{< ref "home.md#contact">}}). 
