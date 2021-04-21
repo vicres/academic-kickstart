@@ -65,4 +65,4 @@ En breve, mi investigación se centra en:
 1) **Incendios forestales:** desarrollo de índices de riesgo de incendios forestales y de modelos de cambios en el régimen de incendios durante el s. XXI.
 2) **Estructura y funcionamiento de los ecosistemas forestales:** estudio de los mecanismos que rigen el intercambio de CO2 y agua entre los bosques y la atmósfera. 
 
-No dudes en ponerte en [contacto conmigo]({{< ref "/contact.md" >}}) si te puedo ayudar en algo: 
+No dudes en ponerte en  si te puedo ayudar en algo: 
