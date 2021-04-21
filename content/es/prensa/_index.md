@@ -51,7 +51,7 @@ subtitle = ""
 +++
 
 <div class="main" id="top">
-<font color= "green">  <h1>Divulgación científica</h1></font>
+<font color= "green">  <h1>En prensa</h1></font>
 
 <a href="#prensa">Artículos escritos</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
