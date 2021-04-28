@@ -55,7 +55,7 @@ Soy catedrático en la _Southwest University of Science and Technology_ y manten
 Mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
 
 He escrito un centenar de [artículos científicos](https://www.rescodedios.com/es/publication/), un libro sobre 
-[incendios forestales](https://www.rescodedios.com/es/publication/rescode-dios-2020/) y una veintena de artículos 
+[incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y una veintena de artículos 
 [de divulgación](https://www.rescodedios.com/es/prensa/) en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), [El Español](https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html) o [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
 
 He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático y formo parte de los 
