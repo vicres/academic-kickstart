@@ -67,6 +67,8 @@ subtitle = ""
 <p><i>Árboles transgénicos para frenar el desierto y restaurar el planeta</i> <br>
 <a href="https://theconversation.com/arboles-transgenicos-para-frenar-el-desierto-y-restaurar-el-planeta-161010">The Conversation</a> | 
 <a href="https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html">ABC</a> | 
+<a href="https://www.nationalgeographic.com.es/naturaleza/arboles-transgenicos-para-frenar-desierto_16990"> National Geographic</a>
+</p>
 
 <p><i>Marte, Gaia y el cambio climático</i> <br>
 <a href="https://www.climatica.lamarea.com/marte-gaia-y-el-cambio-climatico/">Climática - La Marea</a> </p>
