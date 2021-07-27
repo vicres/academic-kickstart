@@ -64,6 +64,13 @@ subtitle = ""
 
 <p> <font color= "brown"> 2021 </font> </p>		
 
+
+<p><i>¿Sirven para algo los cortafuegos?</i> <br>
+<a href="https://theconversation.com/sirven-para-algo-los-cortafuegos-163817">The Conversation</a> </p>
+
+<p><i>Diez buenas noticias sobre desertización</i> <br>
+<a href="https://theconversation.com/diez-buenas-noticias-sobre-desertizacion-161599">The Conversation</a> </p>
+
 <p><i>Árboles transgénicos para frenar el desierto y restaurar el planeta</i> <br>
 <a href="https://theconversation.com/arboles-transgenicos-para-frenar-el-desierto-y-restaurar-el-planeta-161010">The Conversation</a> | 
 <a href="https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html">ABC</a> | 
@@ -181,16 +188,21 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+
+<p><i>L'escalfament global dispararà els grans incendis al Pirineu, segons una recerca de la UdL</i> <br>
+<a href="https://www.udl.cat/ca/serveis/oficina/Noticies/Lescalfament-global-disparara-els-grans-incendis-al-Pirineu-segons-una-recerca-de-la-UdL/">Nota de prensa UdL</a> |
+<a href="https://www.20minutos.es/noticia/4777112/0/pirineos-sufriran-grandes-incendios-proximos-anos-calentamiento-global-estudio/">20 minutos</a> |
+<a href="https://www.efeverde.com/noticias/pirineos-grandes-incendios-temperatura/">Agencia EFE</a></p>
+
+
 <p><i>Chopos transgénicos, la solución a futuro para detener el avance del desierto</i> <br>
-<a href="https://www.efe.com/efe/espana/efefuturo/chopos-transgenicos-la-solucion-a-futuro-para-detener-el-avance-del-desierto/50000905-4560776">Entrevista para Agencia EFE</a><br>
+<a href="https://www.efe.com/efe/espana/efefuturo/chopos-transgenicos-la-solucion-a-futuro-para-detener-el-avance-del-desierto/50000905-4560776">Entrevista para Agencia EFE</a></p>
 
 
 <p><i>¿Muerte del rocanrol?, el cambio climático afecta a la madera de las guitarras</i> <br>
 <a href="https://www.efeverde.com/noticias/muerte-del-rocanrol-el-cambio-climatico-afecta-a-la-madera-de-las-guitarras/">Entrevista para Agencia EFE</a><br>
 republicada en <a href="https://www.lavanguardia.com/vida/20210210/6236620/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras.html">La Vanguardia</a> |
 <a href="https://www.eldiario.es/sociedad/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras_1_7207630.html"> eldiario.es</a> y más</p>
-
-</p>
 
 
 <p><i>As wildfires continue in western United States, biologists fear for vulnerable species</i> <br>
