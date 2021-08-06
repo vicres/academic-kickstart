@@ -63,13 +63,22 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2021 </font> </p>		
+<p><i>La era de los incendios que ya no podemos apagar</i> <br>
+<a href="https://theconversation.com/la-era-de-los-incendios-que-ya-no-podemos-apagar-165697">The Conversation</a> |
+<a href="https://cadenaser.com/ser/2021/08/06/sociedad/1628243752_921401.html">Cadena Ser</a> |
+<a href="https://www.niusdiario.es/sociedad/medio-ambiente/era-incendios-ya-no-podemos-apagar_18_3182295332.html"> Nius Diario</a>
+</p>
 
 
 <p><i>¿Sirven para algo los cortafuegos?</i> <br>
-<a href="https://theconversation.com/sirven-para-algo-los-cortafuegos-163817">The Conversation</a> </p>
+<a href="https://theconversation.com/sirven-para-algo-los-cortafuegos-163817">The Conversation</a> |
+<a href="https://www.vilaweb.cat/noticies/serveixen-dalguna-cosa-els-tallafocs/"> Vilaweb</a>
+</p>
 
 <p><i>Diez buenas noticias sobre desertización</i> <br>
-<a href="https://theconversation.com/diez-buenas-noticias-sobre-desertizacion-161599">The Conversation</a> </p>
+<a href="https://theconversation.com/diez-buenas-noticias-sobre-desertizacion-161599">The Conversation</a> |
+<a href="https://theobjective.com/further/diez-buenas-noticias-sobre-desertizacion">The Objective</a> </p>
+
 
 <p><i>Árboles transgénicos para frenar el desierto y restaurar el planeta</i> <br>
 <a href="https://theconversation.com/arboles-transgenicos-para-frenar-el-desierto-y-restaurar-el-planeta-161010">The Conversation</a> | 
@@ -192,7 +201,7 @@ subtitle = ""
 <p><i>L'escalfament global dispararà els grans incendis al Pirineu, segons una recerca de la UdL</i> <br>
 <a href="https://www.udl.cat/ca/serveis/oficina/Noticies/Lescalfament-global-disparara-els-grans-incendis-al-Pirineu-segons-una-recerca-de-la-UdL/">Nota de prensa UdL</a> |
 <a href="https://www.20minutos.es/noticia/4777112/0/pirineos-sufriran-grandes-incendios-proximos-anos-calentamiento-global-estudio/">20 minutos</a> |
-<a href="https://www.efeverde.com/noticias/pirineos-grandes-incendios-temperatura/">Agencia EFE</a></p>
+<a href="https://www.lavanguardia.com/local/lleida/20210728/7629687/pirineos-grandes-incendios-aumenta-temperatura.html/">La Vanguardia</a></p>
 
 
 <p><i>Chopos transgénicos, la solución a futuro para detener el avance del desierto</i> <br>
@@ -253,6 +262,10 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+
+<p><i>¿Y si la temperatura sube tres grados más? </i> <br>
+<a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
+
 
 <p><i>Entrevista a Víctor Resco</i> <br>
 <a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
