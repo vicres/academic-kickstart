@@ -263,6 +263,9 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>Ha arribat una nova era on hi ha incendis que no podem apagar</i> <br>
+<a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista a Cadena Ser Catalunya </a></p>
+
 <p><i>¿Y si la temperatura sube tres grados más? </i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
 
@@ -292,15 +295,20 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <div class="main" id="tv">
   <h3>Televisión</h3>
+
+<p><em>Entrevista en RTVE (10/08/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-mas-voraces-estamos-viendo-trailer-va-venir/6051608/">La tarde en 24h</a> </p>
+
+<p><em>Entrevista en la Sexta (8/08/2021)</em><br>
+<a href="https://www.lasexta.com/noticias/internacional/incendios-grecia-devoran-56000-hectareas-mientras-cientos-evacuados-dejan-hogar-lagrimas_20210808610ff98ba2c6e00001178b5d.html">la Sexta Noticias</a> </p>
   
-<p><em>Entrevista en la Sexta</em><br>
+<p><em>Entrevista en la Sexta (7/08/2021)</em><br>
 <a href="https://www.lasexta.com/noticias/internacional/dramatica-imagen-incendios-grecia-cientos-evacuados-contemplan-como-fuego-devora-sus-hogares_20210807610e790f5e57db0001e16ba0.html">la Sexta Noticias</a> </p>
 
-
-<p><em>Entrevista en RTVE</em><br>
+<p><em>Entrevista en RTVE (25/07/2018)</em><br>
 <a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
 
-<p><em>Entrevista en LLeida TV</em><br>
+<p><em>Entrevista en LLeida TV (12/03/2020)</em><br>
 <a href="http://lleidatv.alacarta.cat/diaridenitnoticies/capitol/dijous-12032020"> Diari de Nit - Notícies </a> </p>
 
 <p><em>Entrevista en LLeida TV</em><br>
