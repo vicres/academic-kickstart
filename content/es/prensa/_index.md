@@ -65,8 +65,8 @@ subtitle = ""
 <p> <font color= "brown"> 2021 </font> </p>		
 <p><i>La era de los incendios que ya no podemos apagar</i> <br>
 <a href="https://theconversation.com/la-era-de-los-incendios-que-ya-no-podemos-apagar-165697">The Conversation</a> |
-<a href="https://cadenaser.com/ser/2021/08/06/sociedad/1628243752_921401.html">Cadena Ser</a> |
-<a href="https://www.niusdiario.es/sociedad/medio-ambiente/era-incendios-ya-no-podemos-apagar_18_3182295332.html"> Nius Diario</a>
+<a href="https://www.elespanol.com/ciencia/medio-ambiente/20210811/llega-incendios-no-podemos-apagar/602190386_0.html">El Español</a> |
+<a href="https://www.climatica.lamarea.com/era-incendios-no-podemos-apagar/"> Climática - la Marea</a>
 </p>
 
 
@@ -263,38 +263,45 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="radio">
 <h3>Radio</h3>
 
-<p><i>Ha arribat una nova era on hi ha incendis que no podem apagar</i> <br>
+<p><i>Ha arribat una nova era on hi ha incendis que no podem apagar (13/08/2021)</i> <br>
 <a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista a Cadena Ser Catalunya </a></p>
 
-<p><i>¿Y si la temperatura sube tres grados más? </i> <br>
+<p><i>¿Y si la temperatura sube tres grados más? (4/08/2021)</i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
 
 
 <p><i>Entrevista a Víctor Resco</i> <br>
 <a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
 
-<p><i>Guitarras en peligro de extinción</i> <br>
+<p><i>Guitarras en peligro de extinción (25/02/2021)</i> <br>
 <a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
 
-<p><i>Incendios en Sudamérica</i> <br>
+<p><i>Incendios en Sudamérica (26/09/2020)</i> <br>
 <a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
 
 
-<p><i>Incendios y cambio climático</i> <br>
+<p><i>Incendios y cambio climático (31/07/2020)</i> <br>
 <a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
 
-<p><i>Incendios en Australia</i> <br>
+<p><i>Incendios en Australia (10/01/2020)</i> <br>
 <a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
 
-<p><i>Reforestaciones y cambio climático</i> <br>
+<p><i>Reforestaciones y cambio climático (8/2/2020)</i> <br>
 <a href="https://www.mixcloud.com/LaOnceDiez/victor-resco-de-dios-en-sábado-verde-08-02-20/">Sábado verde (Radio Buenos Aires)</a> </p>
 
-<p><i>La historia de los incendios en Australia y el posible fin del invierno</i> <br>
+<p><i>La historia de los incendios en Australia y el posible fin del invierno (21/11/2019)</i> <br>
 <a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
 </div>
 
 <div class="main" id="tv">
   <h3>Televisión</h3>
+
+
+<p><em>Entrevista en RTVE (14/08/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/riesgo-incendios-ola-calor/6058858/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1628957140">Telediario</a> </p>
+
+<p><em>Entrevista en RTVE (14/08/2021)</em><br>
+<a href="https://twitter.com/rtvenoticies/status/1426827651625410563">Informatiu TVE Catalunya</a> </p>
 
 <p><em>Entrevista en RTVE (10/08/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-mas-voraces-estamos-viendo-trailer-va-venir/6051608/">La tarde en 24h</a> </p>
@@ -311,7 +318,7 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <p><em>Entrevista en LLeida TV (12/03/2020)</em><br>
 <a href="http://lleidatv.alacarta.cat/diaridenitnoticies/capitol/dijous-12032020"> Diari de Nit - Notícies </a> </p>
 
-<p><em>Entrevista en LLeida TV</em><br>
+<p><em>Entrevista en LLeida TV (13/01/2020)</em><br>
 <a href="http://lleidatv.alacarta.cat/el-debat-de-lleida-activa/capitol/la-udl-vigila-tots-els-boscos-del-mon-des-de-lleida"> El Debat de Lleida Activa  </a> </p>
 
 </div>
