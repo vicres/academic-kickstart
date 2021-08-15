@@ -198,63 +198,62 @@ subtitle = ""
 <h3>Prensa</h3>
 
 
-<p><i>L'escalfament global dispararà els grans incendis al Pirineu, segons una recerca de la UdL</i> <br>
+<p><i>L'escalfament global dispararà els grans incendis al Pirineu, segons una recerca de la UdL (28/07/2021)</i> <br>
 <a href="https://www.udl.cat/ca/serveis/oficina/Noticies/Lescalfament-global-disparara-els-grans-incendis-al-Pirineu-segons-una-recerca-de-la-UdL/">Nota de prensa UdL</a> |
 <a href="https://www.20minutos.es/noticia/4777112/0/pirineos-sufriran-grandes-incendios-proximos-anos-calentamiento-global-estudio/">20 minutos</a> |
 <a href="https://www.lavanguardia.com/local/lleida/20210728/7629687/pirineos-grandes-incendios-aumenta-temperatura.html/">La Vanguardia</a></p>
 
 
-<p><i>Chopos transgénicos, la solución a futuro para detener el avance del desierto</i> <br>
+<p><i>Chopos transgénicos, la solución a futuro para detener el avance del desierto (12/06/2021)</i> <br>
 <a href="https://www.efe.com/efe/espana/efefuturo/chopos-transgenicos-la-solucion-a-futuro-para-detener-el-avance-del-desierto/50000905-4560776">Entrevista para Agencia EFE</a></p>
 
 
-<p><i>¿Muerte del rocanrol?, el cambio climático afecta a la madera de las guitarras</i> <br>
+<p><i>¿Muerte del rocanrol?, el cambio climático afecta a la madera de las guitarras (10/02/2021)</i> <br>
 <a href="https://www.efeverde.com/noticias/muerte-del-rocanrol-el-cambio-climatico-afecta-a-la-madera-de-las-guitarras/">Entrevista para Agencia EFE</a><br>
 republicada en <a href="https://www.lavanguardia.com/vida/20210210/6236620/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras.html">La Vanguardia</a> |
 <a href="https://www.eldiario.es/sociedad/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras_1_7207630.html"> eldiario.es</a> y más</p>
 
 
-<p><i>As wildfires continue in western United States, biologists fear for vulnerable species</i> <br>
+<p><i>As wildfires continue in western United States, biologists fear for vulnerable species (09/2020)</i> <br>
 <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species">Declaraciones para Science </a></p>
 
 
-<p><i>Los grandes incendios en California se adelantan</i> <br>
+<p><i>Los grandes incendios en California se adelantan (27/08/2020)</i> <br>
 <a href="https://osbodigital.es/2020/08/27/los-grandes-incendios-en-california-se-adelantan/">Declaraciones para OsboDigital </a></p>
 
 
-<p><i>Los incendios forestales aumentarán su frecuencia por el cambio climático</i> <br>
+<p><i>Los incendios forestales aumentarán su frecuencia por el cambio climático (22/08/2020)</i> <br>
 <a href="https://www.infobae.com/sociedad/2020/08/22/los-incendios-forestales-aumentaran-su-frecuencia-por-el-cambio-climatico/">Declaraciones para artículo en Infobae (Argentina) </a></p>
 
 
-<p><i>La desertificación avanza lenta en casi todo el mundo</i> <br>
+<p><i>La desertificación avanza lenta en casi todo el mundo (16/06/2020)</i> <br>
 <a href="https://www.efeverde.com/noticias/desertificacion-avanza-lenta-mundo/">Entrevista para Agencia EFE</a><br>
 republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-desertificacion-avanza-lenta-al-1-anual-en-casi-todo-el-mundo/ ">Infobae</a> |
 <a href="https://www.eldiario.es/sociedad/desertificacion-avanza-lenta-anual-mundo_0_1038696467.html"> eldiario.es</a> | 
 <a href="https://www.cope.es/actualidad/sociedad/noticias/desertificacion-avanza-lenta-anual-casi-todo-mundo-20200616_770218"> COPE</a> | 
 <a href="https://www.lavanguardia.com/natural/20200617/481822809097/doce-cifras-para-entender-la-gravedad-de-las-desertificacion-y-la-sequia.html"> La Vanguardia </a>y más</p>
 
-<p><i>Als boscos dels Pirineus els podrien quedar unes dècades</i> <br>
+<p><i>Als boscos dels Pirineus els podrien quedar unes dècades (24/01/2020)</i> <br>
 <a href="https://www.territoris.cat/articulo/societat/als-boscos-dels-pirineus-els-podrien-quedar-unes-decades/20200124163329062103.html"> Entrevista per a Territoris </a></p>
 
-<p><i>Experto defiende la conservación frente a la reforestación indiscriminada</i> <br>
+<p><i>Experto defiende la conservación frente a la reforestación indiscriminada (16/03/2020)</i> <br>
 <a href="https://www.efeverde.com/noticias/fondos-reforestacion-conservacion/">Entrevista para Agencia EFE</a><br>
 republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">La Vanguardia</a>  | 
 <a href="https://www.eldiario.es/sociedad/Experto-defiende-conservacion-reforestacion-indiscriminada_0_1006499856.html"> eldiario.es</a> y más</p>
 
-<p><i>Incendios y deforestación en Amazonia</i> <br>
+<p><i>Incendios y deforestación en Amazonia (21/08/2019)</i> <br>
 <a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
 
-<p><i>Cambios en el régimen de incendios con el cambio climático</i> <br>
+<p><i>Cambios en el régimen de incendios con el cambio climático (13/08/2019)</i> <br>
 <a href="https://www.elindependiente.com/sociedad/2019/08/13/declarado-incendio-granada/">El Independiente</a></p>
 
-
-<p><i>La solución a los incendios pasa por un cambio en el modelo económico</i> <br>
+<p><i>La solución a los incendios pasa por un cambio en el modelo económico (19/08/2019)</i> <br>
 <a href="https://www.climatica.lamarea.com/la-solucion-a-los-incendios-pasa-por-un-cambio-en-el-modelo-economico/">Entrevista para Climática (La Marea)</a></p>
 
-<p><i>Desmontando bulos</i><br>
+<p><i>Desmontando bulos (04/07/2019</i><br>
 <a href="https://www.newtral.es/actualidad/no-los-arboles-no-arden-en-dubai-por-las-altas-temperaturas/">Trees don't self-combust, Newtral</a></p>
 
-<p><em>Deforestación inducida por incendios</em><br>
+<p><em>Deforestación inducida por incendios (22/01/2018)</em><br>
 <a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
 <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
 
@@ -269,7 +268,6 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <p><i>¿Y si la temperatura sube tres grados más? (4/08/2021)</i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
 
-
 <p><i>Entrevista a Víctor Resco</i> <br>
 <a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
 
@@ -278,7 +276,6 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <p><i>Incendios en Sudamérica (26/09/2020)</i> <br>
 <a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
-
 
 <p><i>Incendios y cambio climático (31/07/2020)</i> <br>
 <a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
