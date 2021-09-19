@@ -63,6 +63,11 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2021 </font> </p>		
+<p><i>El problema de los incendios forestales se agrava (aunque el área quemada disminuye)</i> <br>
+<a href="https://www.climatica.lamarea.com/problema-incendios-se-agrava/"> Climática - la Marea</a>
+</p>
+
+
 <p><i>La era de los incendios que ya no podemos apagar</i> <br>
 <a href="https://theconversation.com/la-era-de-los-incendios-que-ya-no-podemos-apagar-165697">The Conversation</a> |
 <a href="https://www.elespanol.com/ciencia/medio-ambiente/20210811/llega-incendios-no-podemos-apagar/602190386_0.html">El Español</a> |
@@ -262,8 +267,15 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+
+<p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (12/09/2021)</i> <br>
+<a href="https://www.cope.es/programas/mediodia-cope/noticias/por-que-incendio-sierra-bermeja-tan-dificil-controlar-20210913_1496328"> Entrevista en Mediodía Cope </a></p>
+
+<p><i>"Es imposible combatir con un incendio de sexta generación" (12/09/2021)</i> <br>
+<a href="https://cadenaser.com/programa/2021/09/12/hora_14_fin_de_semana/1631445242_107457.html"> Entrevista en 14h - Cadena Ser </a></p>
+
 <p><i>Ha arribat una nova era on hi ha incendis que no podem apagar (13/08/2021)</i> <br>
-<a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista a Cadena Ser Catalunya </a></p>
+<a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista en Aquí Estiu - Cadena Ser Catalunya </a></p>
 
 <p><i>¿Y si la temperatura sube tres grados más? (4/08/2021)</i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
