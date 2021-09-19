@@ -267,8 +267,13 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
+<a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
 
-<p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (12/09/2021)</i> <br>
+<p><i>¿Qué significa que el incendio de Sierra Bermeja es de sexta generación? (13/09/2021)</i> <br>
+<a href="https://www.ondacero.es/programas/julia-en-la-onda/audios-podcast/entrevistas/autoridades-catalogan-incendio-sierra-bermeja-como-sexta-generacion-que-significa-esto_20210913613f57de69e5350001298cd2.html"> Entrevista en Julia en la Onda - Onda Cero </a></p>
+
+<p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (13/09/2021)</i> <br>
 <a href="https://www.cope.es/programas/mediodia-cope/noticias/por-que-incendio-sierra-bermeja-tan-dificil-controlar-20210913_1496328"> Entrevista en Mediodía Cope </a></p>
 
 <p><i>"Es imposible combatir con un incendio de sexta generación" (12/09/2021)</i> <br>
