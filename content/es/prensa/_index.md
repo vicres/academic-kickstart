@@ -341,6 +341,7 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+
 <p><em> Declaraciones en RTVE (13/09/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
 
@@ -349,6 +350,12 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 
 <p><em>Entrevista en RTVE (13/09/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/la-hora-de-la-1/hora-actualidad-13-09-21/6093508/">La Hora de la 1 (minuto 1 hora 25)</a> </p>
+
+<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
+<a href="https://www.lasexta.com/noticias/sociedad/esto-solo-principio-aviso-expertos-incendio-sierra-bermeja_20210913613f51a869e5350001298813.html"> la Sexta Noticias</a> </p>
+
+<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
+<a href="https://www.lasexta.com/programas/al-rojo-vivo/que-incendio-sexta-generacion-que-tan-dificil-extinguir-sierra-bermeja_20210913613f271b9b465a0001b054f7.html"> Al Rojo Vivo</a> </p>
 
 <p><em>Entrevista en TRECE TV (13/09/2021)</em><br>
 <a href="https://www.cope.es/trecetv/programas/trece-al-dia/videos/trece-dia-septiembre-2021-20210913_1571563">TRECE al día (minuto 2:50)</a> </p>
