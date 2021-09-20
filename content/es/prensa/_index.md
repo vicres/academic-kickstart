@@ -63,6 +63,14 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2021 </font> </p>		
+
+<p><i>Pinos y eucaliptos: chivos expiatorios en el problema de los incendios forestales</i> <br>
+<a href="https://theconversation.com/pinos-y-eucaliptos-chivos-expiatorios-en-el-problema-de-los-incendios-forestales-167655"> The Conversation</a> |
+<a href="https://www.elespanol.com/ciencia/medio-ambiente/20210915/pinos-eucaliptos-chivos-expiatorios-grandes-incendios-forestales/611689895_0.html"> El Español </a> |
+<a href="https://www.niusdiario.es/sociedad/medio-ambiente/incendios-forestales-pinos-eucaliptos-chivos-expiatorios_18_3202245546.html"> Nius </a>
+</p>
+
+
 <p><i>El problema de los incendios forestales se agrava (aunque el área quemada disminuye)</i> <br>
 <a href="https://www.climatica.lamarea.com/problema-incendios-se-agrava/"> Climática - la Marea</a>
 </p>
@@ -202,6 +210,23 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>El de Málaga es solo el primero: la nueva era de incendios forestales 'imposibles' de apagar (17/09/2021)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2021-09-17/incendio-malaga-sierra-bermeja-biomasa-sexta-generacion_3290711/">Declaraciones para El Confidencial</a></p>
+
+<p><i>Lecciones aprendidas en Sierra Bermeja (15/09/2021)</i> <br>
+<a href="https://elpais.com/espana/2021-09-15/lecciones-aprendidas-en-sierra-bermeja.html">Declaraciones para El País</a></p>
+
+<p><i>"Un incendio como el de Sierra Bermeja puede generar tanta energía como una bomba atómica"(15/09/2021)</i> <br>
+<a href="https://www.diariosur.es/sucesos/incendio-sierra-bermeja-20210914180517-nt.html">Entrevista en Diario Sur</a></p>
+
+<p><i>Crisis climática, cambios en el régimen natural de incendios y abandono rural: el cóctel explosivo en el incendio de Sierra Bermeja (Málaga) (14/09/2021)</i> <br>
+<a href="https://www.climatica.lamarea.com/claves-incendio-sierra-bermeja-malaga/">Declaraciones para Climática</a></p>
+
+<p><i>Sierra Bermeja empuja a España a la era de los súperincendios "imposibles de apagar" (14/09/2021)</i> <br>
+<a href="https://www.infolibre.es/noticias/politica/2021/09/14/incendios_xxx_124423_1012.html">Declaraciones para InfoLibre</a></p>
+
+<p><i>"Los incendios de sexta generación son inabordables" (14/09/2021)</i> <br>
+<a href="https://www.malagahoy.es/malaga/incendios-sexta-generacion-inabordables_0_1610540216.html">Entrevista en Málaga Hoy</a></p>
 
 <p><i>L'escalfament global dispararà els grans incendis al Pirineu, segons una recerca de la UdL (28/07/2021)</i> <br>
 <a href="https://www.udl.cat/ca/serveis/oficina/Noticies/Lescalfament-global-disparara-els-grans-incendis-al-Pirineu-segons-una-recerca-de-la-UdL/">Nota de prensa UdL</a> |
@@ -270,11 +295,17 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
 <a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
 
+<p><i>Incendios de sexta generación cambian la meteorología (13/09/2021)</i> <br>
+<a href="https://www.rtve.es/play/audios/14-horas/incendios-sexta-generacion/6093640/"> 14 horas - RNE </a></p>
+
 <p><i>¿Qué significa que el incendio de Sierra Bermeja es de sexta generación? (13/09/2021)</i> <br>
 <a href="https://www.ondacero.es/programas/julia-en-la-onda/audios-podcast/entrevistas/autoridades-catalogan-incendio-sierra-bermeja-como-sexta-generacion-que-significa-esto_20210913613f57de69e5350001298cd2.html"> Entrevista en Julia en la Onda - Onda Cero </a></p>
 
 <p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (13/09/2021)</i> <br>
 <a href="https://www.cope.es/programas/mediodia-cope/noticias/por-que-incendio-sierra-bermeja-tan-dificil-controlar-20210913_1496328"> Entrevista en Mediodía Cope </a></p>
+
+<p><i>¿Qué son los incendios de sexta generación? (13/09/2021)</i> <br>
+<a href="https://www.canalsur.es/multimedia.html?id=1749502"> Entrevista en La tarde con Mariló Maldonado  - Canal Sur </a></p>
 
 <p><i>"Es imposible combatir con un incendio de sexta generación" (12/09/2021)</i> <br>
 <a href="https://cadenaser.com/programa/2021/09/12/hora_14_fin_de_semana/1631445242_107457.html"> Entrevista en 14h - Cadena Ser </a></p>
@@ -310,6 +341,26 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Declaraciones en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
+
+<p><em>Entrevista en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-sexta-generacion-son-cada-vez-mas-comunes-peninsula-iberica/6093918/">La Tarde en 24h</a> </p>
+
+<p><em>Entrevista en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-hora-de-la-1/hora-actualidad-13-09-21/6093508/">La Hora de la 1 (minuto 1 hora 25)</a> </p>
+
+<p><em>Entrevista en TRECE TV (13/09/2021)</em><br>
+<a href="https://www.cope.es/trecetv/programas/trece-al-dia/videos/trece-dia-septiembre-2021-20210913_1571563">TRECE al día (minuto 2:50)</a> </p>
+
+<p><em>Entrevista en Telemadrid (13/09/2021)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/minutos-Parte-uno-2-2377582254--20210913054812.html">120 minutos (minuto 53)</a> </p>
+
+<p><em>Entrevista en ETB (13/09/2021)</em><br>
+<a href="https://www.eitb.eus/es/television/programas/en-jake/videos/detalle/8310346/video-estamos-entrando-en-era-de-incendios-que-no-podemos-apagar-tenemos-que-centrarnos-en-prevencion/">En Jake</a> </p>
+
+<p><em>Entrevista en Antena 3 (12/09/2021)</em><br>
+<a href="https://www.antena3.com/noticias/sociedad/que-incendio-sexta-generacion-tan-peligroso-como-sierra-bermeja_20210912613e632269e535000128d267.html">A3 Noticias</a> </p>
 
 <p><em>Entrevista en RTVE (14/08/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/riesgo-incendios-ola-calor/6058858/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1628957140">Telediario</a> </p>
