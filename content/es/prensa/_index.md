@@ -64,6 +64,12 @@ subtitle = ""
 
 <p> <font color= "brown"> 2021 </font> </p>		
 
+
+<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> <br>
+<a href="https://theconversation.com/climate-change-is-testing-the-resilience-of-native-plants-to-fire-from-ash-forests-to-gymea-lilies-167367"> The Conversation</a> |
+<a href="https://phys.org/news/2021-09-climate-resilience-native-ash-forests.html"> phys.org </a> |
+</p>
+
 <p><i>Pinos y eucaliptos: chivos expiatorios en el problema de los incendios forestales</i> <br>
 <a href="https://theconversation.com/pinos-y-eucaliptos-chivos-expiatorios-en-el-problema-de-los-incendios-forestales-167655"> The Conversation</a> |
 <a href="https://www.elespanol.com/ciencia/medio-ambiente/20210915/pinos-eucaliptos-chivos-expiatorios-grandes-incendios-forestales/611689895_0.html"> El Español </a> |
