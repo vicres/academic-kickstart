@@ -1,0 +1,14 @@
+---
+title: "Metal tolerance protein MTP6 is involved in Mn and Co distribution in poplar"
+date: 2021-01-01
+publishDate: 2021-10-11T14:43:29.160595Z
+authors: ["Fengming Yang", "Yongfeng Gao", "Jikai Liu", "Zihao Chen", "Víctor Resco de Dios", "Qian Gao", "Meng Zhang", "Zhuoxi Peng", "Yinan Yao"]
+publication_types: ["2"]
+abstract: "With the booming demand of the electric vehicle industry, the concentration of manganese (Mn) and cobalt (Co) flowing into land ecosystems has also increased significantly. While these transition metals can promote the growth and development of plants, they may become toxic under high concentrations. It is thus important to understand how Mn and Co are distributed in plants to develop novel germplasms for the remediation of these heavy metals in contaminated soils. Here, an MTP gene that encodes the CDF (cation diffusion facilitator) protein in Populus trichocarpa, PtrMTP6, was screened as the key gene involved in the distribution of both Mn and Co in poplar. The PtrMTP6-GFP fusion protein was co-localized with the mRFP-VSR2, showing that PtrMTP6 proteins are present at the pre-vacuolar compartment (PVC). Yeast mutant complementation assays further identified that PtrMTP6 serves as a Mn and Co transporter, reducing yeast cell toxicity after exposure to excessive Mn or Co. Histochemical analyses showed that PtrMTP6 was mainly expressed in phloem, suggesting that PtrMTP6 probably involved in the Mn and Co transport via phloem in plants. Under excess Co, PtrMTP6 overexpressing poplar lines were more severely damaged than the control due to higher Co accumulations in young tissue. PtrMTP6 overexpressing lines showed little change in their tolerance to excess Mn, although young tissues also accumulated more Mn. PtrMTP6 play important roles in Mn and Co distribution in poplar and further research on its regulation will be important to increase bioremediation in Mn and Co polluted ecosystems."
+featured: false
+publication: "*Ecotoxicology and Environmental Safety*"
+tags: ["metal tolerance protein", "pre-vacuolar compartment", "manganese", "cobalt", "metal distribution", "poplar"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0147651321009805"
+doi: "https://doi.org/10.1016/j.ecoenv.2021.112868"
+---
+
