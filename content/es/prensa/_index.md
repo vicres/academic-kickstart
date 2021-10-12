@@ -210,8 +210,116 @@ subtitle = ""
 
 <div class="main" id="entrevistas">
   <h2>Entrevistas</h2>
-<a href="#entrevistas_prensa">Prensa</a> | <a href="#radio">Radio</a> | <a href="#tv">Televisión</a> 
+ <a href="#tv">Televisión</a>  | <a href="#radio">Radio</a> |<a href="#entrevistas_prensa">Prensa</a>
 </div>
+
+<div class="main" id="tv">
+  <h3>Televisión</h3>
+
+
+<p><em> Declaraciones en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
+
+<p><em>Entrevista en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-sexta-generacion-son-cada-vez-mas-comunes-peninsula-iberica/6093918/">La Tarde en 24h</a> </p>
+
+<p><em>Entrevista en RTVE (13/09/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-hora-de-la-1/hora-actualidad-13-09-21/6093508/">La Hora de la 1 (minuto 1 hora 25)</a> </p>
+
+<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
+<a href="https://www.lasexta.com/noticias/sociedad/esto-solo-principio-aviso-expertos-incendio-sierra-bermeja_20210913613f51a869e5350001298813.html"> la Sexta Noticias</a> </p>
+
+<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
+<a href="https://www.lasexta.com/programas/al-rojo-vivo/que-incendio-sexta-generacion-que-tan-dificil-extinguir-sierra-bermeja_20210913613f271b9b465a0001b054f7.html"> Al Rojo Vivo</a> </p>
+
+<p><em>Entrevista en TRECE TV (13/09/2021)</em><br>
+<a href="https://www.cope.es/trecetv/programas/trece-al-dia/videos/trece-dia-septiembre-2021-20210913_1571563">TRECE al día (minuto 2:50)</a> </p>
+
+<p><em>Entrevista en Telemadrid (13/09/2021)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/minutos-Parte-uno-2-2377582254--20210913054812.html">120 minutos (minuto 53)</a> </p>
+
+<p><em>Entrevista en ETB (13/09/2021)</em><br>
+<a href="https://www.eitb.eus/es/television/programas/en-jake/videos/detalle/8310346/video-estamos-entrando-en-era-de-incendios-que-no-podemos-apagar-tenemos-que-centrarnos-en-prevencion/">En Jake</a> </p>
+
+<p><em>Entrevista en Antena 3 (12/09/2021)</em><br>
+<a href="https://www.antena3.com/noticias/sociedad/que-incendio-sexta-generacion-tan-peligroso-como-sierra-bermeja_20210912613e632269e535000128d267.html">A3 Noticias</a> </p>
+
+<p><em>Entrevista en RTVE (14/08/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/riesgo-incendios-ola-calor/6058858/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1628957140">Telediario</a> </p>
+
+<p><em>Entrevista en RTVE (14/08/2021)</em><br>
+<a href="https://twitter.com/rtvenoticies/status/1426827651625410563">Informatiu TVE Catalunya</a> </p>
+
+<p><em>Entrevista en RTVE (10/08/2021)</em><br>
+<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-mas-voraces-estamos-viendo-trailer-va-venir/6051608/">La tarde en 24h</a> </p>
+
+<p><em>Entrevista en la Sexta (8/08/2021)</em><br>
+<a href="https://www.lasexta.com/noticias/internacional/incendios-grecia-devoran-56000-hectareas-mientras-cientos-evacuados-dejan-hogar-lagrimas_20210808610ff98ba2c6e00001178b5d.html">la Sexta Noticias</a> </p>
+  
+<p><em>Entrevista en la Sexta (7/08/2021)</em><br>
+<a href="https://www.lasexta.com/noticias/internacional/dramatica-imagen-incendios-grecia-cientos-evacuados-contemplan-como-fuego-devora-sus-hogares_20210807610e790f5e57db0001e16ba0.html">la Sexta Noticias</a> </p>
+
+<p><em>Entrevista en RTVE (25/07/2018)</em><br>
+<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
+
+<p><em>Entrevista en LLeida TV (12/03/2020)</em><br>
+<a href="http://lleidatv.alacarta.cat/diaridenitnoticies/capitol/dijous-12032020"> Diari de Nit - Notícies </a> </p>
+
+<p><em>Entrevista en LLeida TV (13/01/2020)</em><br>
+<a href="http://lleidatv.alacarta.cat/el-debat-de-lleida-activa/capitol/la-udl-vigila-tots-els-boscos-del-mon-des-de-lleida"> El Debat de Lleida Activa  </a> </p>
+
+</div>
+
+<div class="main" id="radio">
+<h3>Radio</h3>
+
+<p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
+<a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
+
+<p><i>Incendios de sexta generación cambian la meteorología (13/09/2021)</i> <br>
+<a href="https://www.rtve.es/play/audios/14-horas/incendios-sexta-generacion/6093640/"> 14 horas - RNE </a></p>
+
+<p><i>¿Qué significa que el incendio de Sierra Bermeja es de sexta generación? (13/09/2021)</i> <br>
+<a href="https://www.ondacero.es/programas/julia-en-la-onda/audios-podcast/entrevistas/autoridades-catalogan-incendio-sierra-bermeja-como-sexta-generacion-que-significa-esto_20210913613f57de69e5350001298cd2.html"> Entrevista en Julia en la Onda - Onda Cero </a></p>
+
+<p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (13/09/2021)</i> <br>
+<a href="https://www.cope.es/programas/mediodia-cope/noticias/por-que-incendio-sierra-bermeja-tan-dificil-controlar-20210913_1496328"> Entrevista en Mediodía Cope </a></p>
+
+<p><i>¿Qué son los incendios de sexta generación? (13/09/2021)</i> <br>
+<a href="https://www.canalsur.es/multimedia.html?id=1749502"> Entrevista en La tarde con Mariló Maldonado  - Canal Sur </a></p>
+
+<p><i>"Es imposible combatir con un incendio de sexta generación" (12/09/2021)</i> <br>
+<a href="https://cadenaser.com/programa/2021/09/12/hora_14_fin_de_semana/1631445242_107457.html"> Entrevista en 14h - Cadena Ser </a></p>
+
+<p><i>Ha arribat una nova era on hi ha incendis que no podem apagar (13/08/2021)</i> <br>
+<a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista en Aquí Estiu - Cadena Ser Catalunya </a></p>
+
+<p><i>¿Y si la temperatura sube tres grados más? (4/08/2021)</i> <br>
+<a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
+
+<p><i>Entrevista a Víctor Resco</i> <br>
+<a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
+
+<p><i>Guitarras en peligro de extinción (25/02/2021)</i> <br>
+<a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
+
+<p><i>Incendios en Sudamérica (26/09/2020)</i> <br>
+<a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
+
+<p><i>Incendios y cambio climático (31/07/2020)</i> <br>
+<a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
+
+<p><i>Incendios en Australia (10/01/2020)</i> <br>
+<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
+
+<p><i>Reforestaciones y cambio climático (8/2/2020)</i> <br>
+<a href="https://www.mixcloud.com/LaOnceDiez/victor-resco-de-dios-en-sábado-verde-08-02-20/">Sábado verde (Radio Buenos Aires)</a> </p>
+
+<p><i>La historia de los incendios en Australia y el posible fin del invierno (21/11/2019)</i> <br>
+<a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
+</div>
+
+
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
@@ -294,113 +402,6 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
 
 </div>
-
-<div class="main" id="radio">
-<h3>Radio</h3>
-
-<p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
-<a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
-
-<p><i>Incendios de sexta generación cambian la meteorología (13/09/2021)</i> <br>
-<a href="https://www.rtve.es/play/audios/14-horas/incendios-sexta-generacion/6093640/"> 14 horas - RNE </a></p>
-
-<p><i>¿Qué significa que el incendio de Sierra Bermeja es de sexta generación? (13/09/2021)</i> <br>
-<a href="https://www.ondacero.es/programas/julia-en-la-onda/audios-podcast/entrevistas/autoridades-catalogan-incendio-sierra-bermeja-como-sexta-generacion-que-significa-esto_20210913613f57de69e5350001298cd2.html"> Entrevista en Julia en la Onda - Onda Cero </a></p>
-
-<p><i>¿Por qué un incendio de sexta generación como el de Sierra Bermeja es tan difícil de controlar? (13/09/2021)</i> <br>
-<a href="https://www.cope.es/programas/mediodia-cope/noticias/por-que-incendio-sierra-bermeja-tan-dificil-controlar-20210913_1496328"> Entrevista en Mediodía Cope </a></p>
-
-<p><i>¿Qué son los incendios de sexta generación? (13/09/2021)</i> <br>
-<a href="https://www.canalsur.es/multimedia.html?id=1749502"> Entrevista en La tarde con Mariló Maldonado  - Canal Sur </a></p>
-
-<p><i>"Es imposible combatir con un incendio de sexta generación" (12/09/2021)</i> <br>
-<a href="https://cadenaser.com/programa/2021/09/12/hora_14_fin_de_semana/1631445242_107457.html"> Entrevista en 14h - Cadena Ser </a></p>
-
-<p><i>Ha arribat una nova era on hi ha incendis que no podem apagar (13/08/2021)</i> <br>
-<a href="https://play.cadenaser.com/audio/1628844546647/?ssm=tw"> Entrevista en Aquí Estiu - Cadena Ser Catalunya </a></p>
-
-<p><i>¿Y si la temperatura sube tres grados más? (4/08/2021)</i> <br>
-<a href="https://www.cartv.es/aragonradio/podcast/emision/y-si-la-temperatura-sube-tres-grados-mas"> Entrevista en Aragón Radio </a></p>
-
-<p><i>Entrevista a Víctor Resco</i> <br>
-<a href="https://www.ua1.cat/?podcast=280984">Ua1 Lleida </a></p>
-
-<p><i>Guitarras en peligro de extinción (25/02/2021)</i> <br>
-<a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
-
-<p><i>Incendios en Sudamérica (26/09/2020)</i> <br>
-<a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
-
-<p><i>Incendios y cambio climático (31/07/2020)</i> <br>
-<a href="https://www.mixcloud.com/radiocultura979/31-07-2020-cuestiòn-ambiental/">Cuestión Ambiental, Radio Cultura  (Argentina)</a></p>
-
-<p><i>Incendios en Australia (10/01/2020)</i> <br>
-<a href="http://www.rtve.es/alacarta/audios/longitud-de-onda/longitud-onda-australia-llamas-10-01-20/5480869/">Longitud de Onda (Radio Clásica)</a></p>
-
-<p><i>Reforestaciones y cambio climático (8/2/2020)</i> <br>
-<a href="https://www.mixcloud.com/LaOnceDiez/victor-resco-de-dios-en-sábado-verde-08-02-20/">Sábado verde (Radio Buenos Aires)</a> </p>
-
-<p><i>La historia de los incendios en Australia y el posible fin del invierno (21/11/2019)</i> <br>
-<a href="https://sptnkne.ws/A2yp">Entrevista de radio para Sputnik Mundo (Uruguay)</a> </p>
-</div>
-
-<div class="main" id="tv">
-  <h3>Televisión</h3>
-
-
-<p><em> Declaraciones en RTVE (13/09/2021)</em><br>
-<a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
-
-<p><em>Entrevista en RTVE (13/09/2021)</em><br>
-<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-sexta-generacion-son-cada-vez-mas-comunes-peninsula-iberica/6093918/">La Tarde en 24h</a> </p>
-
-<p><em>Entrevista en RTVE (13/09/2021)</em><br>
-<a href="https://www.rtve.es/play/videos/la-hora-de-la-1/hora-actualidad-13-09-21/6093508/">La Hora de la 1 (minuto 1 hora 25)</a> </p>
-
-<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
-<a href="https://www.lasexta.com/noticias/sociedad/esto-solo-principio-aviso-expertos-incendio-sierra-bermeja_20210913613f51a869e5350001298813.html"> la Sexta Noticias</a> </p>
-
-<p><em> Entrevista en la Sexta (13/09/2021)</em><br>
-<a href="https://www.lasexta.com/programas/al-rojo-vivo/que-incendio-sexta-generacion-que-tan-dificil-extinguir-sierra-bermeja_20210913613f271b9b465a0001b054f7.html"> Al Rojo Vivo</a> </p>
-
-<p><em>Entrevista en TRECE TV (13/09/2021)</em><br>
-<a href="https://www.cope.es/trecetv/programas/trece-al-dia/videos/trece-dia-septiembre-2021-20210913_1571563">TRECE al día (minuto 2:50)</a> </p>
-
-<p><em>Entrevista en Telemadrid (13/09/2021)</em><br>
-<a href="https://www.telemadrid.es/programas/120-minutos/minutos-Parte-uno-2-2377582254--20210913054812.html">120 minutos (minuto 53)</a> </p>
-
-<p><em>Entrevista en ETB (13/09/2021)</em><br>
-<a href="https://www.eitb.eus/es/television/programas/en-jake/videos/detalle/8310346/video-estamos-entrando-en-era-de-incendios-que-no-podemos-apagar-tenemos-que-centrarnos-en-prevencion/">En Jake</a> </p>
-
-<p><em>Entrevista en Antena 3 (12/09/2021)</em><br>
-<a href="https://www.antena3.com/noticias/sociedad/que-incendio-sexta-generacion-tan-peligroso-como-sierra-bermeja_20210912613e632269e535000128d267.html">A3 Noticias</a> </p>
-
-<p><em>Entrevista en RTVE (14/08/2021)</em><br>
-<a href="https://www.rtve.es/play/videos/telediario/riesgo-incendios-ola-calor/6058858/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1628957140">Telediario</a> </p>
-
-<p><em>Entrevista en RTVE (14/08/2021)</em><br>
-<a href="https://twitter.com/rtvenoticies/status/1426827651625410563">Informatiu TVE Catalunya</a> </p>
-
-<p><em>Entrevista en RTVE (10/08/2021)</em><br>
-<a href="https://www.rtve.es/play/videos/la-tarde-en-24-horas/incendios-mas-voraces-estamos-viendo-trailer-va-venir/6051608/">La tarde en 24h</a> </p>
-
-<p><em>Entrevista en la Sexta (8/08/2021)</em><br>
-<a href="https://www.lasexta.com/noticias/internacional/incendios-grecia-devoran-56000-hectareas-mientras-cientos-evacuados-dejan-hogar-lagrimas_20210808610ff98ba2c6e00001178b5d.html">la Sexta Noticias</a> </p>
-  
-<p><em>Entrevista en la Sexta (7/08/2021)</em><br>
-<a href="https://www.lasexta.com/noticias/internacional/dramatica-imagen-incendios-grecia-cientos-evacuados-contemplan-como-fuego-devora-sus-hogares_20210807610e790f5e57db0001e16ba0.html">la Sexta Noticias</a> </p>
-
-<p><em>Entrevista en RTVE (25/07/2018)</em><br>
-<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
-
-<p><em>Entrevista en LLeida TV (12/03/2020)</em><br>
-<a href="http://lleidatv.alacarta.cat/diaridenitnoticies/capitol/dijous-12032020"> Diari de Nit - Notícies </a> </p>
-
-<p><em>Entrevista en LLeida TV (13/01/2020)</em><br>
-<a href="http://lleidatv.alacarta.cat/el-debat-de-lleida-activa/capitol/la-udl-vigila-tots-els-boscos-del-mon-des-de-lleida"> El Debat de Lleida Activa  </a> </p>
-
-</div>
-
 <div class="main" id="yt">
   <h2>Ponencias</h2>
 
