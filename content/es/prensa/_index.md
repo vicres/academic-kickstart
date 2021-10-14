@@ -210,7 +210,7 @@ subtitle = ""
 
 <div class="main" id="entrevistas">
   <h2>Entrevistas</h2>
- <a href="#tv">Televisión</a>  | <a href="#radio">Radio</a> |<a href="#entrevistas_prensa">Prensa</a>
+ <a href="#tv">Televisión</a>  | <a href="#radio">Radio</a> | <a href="#entrevistas_prensa">Prensa</a>
 </div>
 
 <div class="main" id="tv">
