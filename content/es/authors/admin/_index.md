@@ -51,7 +51,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy catedrático en la _Southwest University of Science and Technology_ y mantengo una afiliación con la _Universidad de Lérida_. 
+Soy profesor en la _Universidad de Lérida_. 
 Mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
 
 He escrito un centenar de [artículos científicos](https://www.rescodedios.com/es/publication/), un libro sobre 

@@ -66,7 +66,8 @@ subtitle = ""
 
 <p><i>Cómo un estudio publicado en una revista científica de prestigio puede acabar en un genocidio</i> <br>
 <a href="https://theconversation.com/como-un-estudio-publicado-en-una-revista-cientifica-de-prestigio-puede-acabar-en-un-genocidio-170290"> The Conversation</a> |
-<a href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2021/10/21/estudio-publicado-revista-cientifica-prestigio-acabar-genocidio-504754-3241.html"> Diario de Navarra </a> 
+<a href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2021/10/21/estudio-publicado-revista-cientifica-prestigio-acabar-genocidio-504754-3241.html"> Diario de Navarra </a> |
+<a href="https://www.lanacion.com.ar/sociedad/como-un-estudio-publicado-en-una-revista-cientifica-puede-terminar-en-un-genocidio-nid24102021/"> La Nación (Argentina) </a> 
 </p>
 
 
@@ -332,6 +333,9 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>Por qué plantar árboles es la peor medida para frenar la deforestación del planeta (1/11/2021)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2021-11-01/errores-onu-reforestar-planeta-ciencia_3315171/">Declaraciones para El Confidencial</a></p>
 
 <p><i>El de Málaga es solo el primero: la nueva era de incendios forestales 'imposibles' de apagar (17/09/2021)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2021-09-17/incendio-malaga-sierra-bermeja-biomasa-sexta-generacion_3290711/">Declaraciones para El Confidencial</a></p>
