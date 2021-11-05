@@ -52,7 +52,7 @@ user_groups:
 - Principal Investigators
 ---
 
-#I am a Professor at _Southwest University of Science and Technology_ and I also hold an affiliation with _University of Lleida_. 
+
 My current research revolves around: 
 
 1)  **Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
