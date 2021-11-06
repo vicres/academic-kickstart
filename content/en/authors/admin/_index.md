@@ -59,3 +59,5 @@ My current research revolves around:
 2) **Pyrophysiology:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
+
+I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other publications are listed [here](https://www.rescodedios.com/publication/).
