@@ -51,17 +51,17 @@ user_groups:
 - Principal Investigators
 ---
 
-Víctor Resco de Dios es doctor por la  _Universidad de Wyoming_ (2008) y profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
+Víctor Resco de Dios es doctor por la  _Universidad de Wyoming_  y profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y actualmente es uno de 
- los científicos más citados del mundo en el campo de la biología según el ranking de la base de datos 
+ los científicos más citados del mundo en el campo de la biología según la base de datos 
  bibliométrica [Scopus](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
 
-Su programa busca anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
-de los bosques. El objetivo final de su investigación es el desarrollo de estrategias de gestión del 
-territorio para garantizar el desarrollo normal de las actividades socio-económicas junto con la 
-persistencia de los bosques.
+Su programa de investigación busca anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
+de los bosques. El objetivo de su investigación es informar sobre la gestión del 
+territorio para asegurar conjuntamente el desarrollo normal de las actividades socio-económicas junto con la 
+persistencia de los bosques en un mundo cambiante.
 
 Es miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137),
  [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees Structure and Function](https://www.springer.com/journal/468)) 
