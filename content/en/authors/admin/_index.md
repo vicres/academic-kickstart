@@ -53,11 +53,22 @@ user_groups:
 ---
 
 
-My current research revolves around: 
+Dr Resco de Dios is a professor on Forest Fires and Global Change. He earned his PhD from the University of Wyoming (2008) 
+and has obtained several prestigious fellowships, including a Marie Curie (2007-2008), a Ramón y Cajal (2014-2019) and others. 
+He has written 1 book about [Plant-Fire Interactions](https://link.springer.com/book/10.1007/978-3-030-41192-3), over 100 [scientific articles](https://www.rescodedios.com/es/publication/)
+ and is currently listed as a highly cited scientist in Biology in the [Scopus ranking](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
-1)  **Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
-2) **Pyrophysiology:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
+He is primarily interested on how plants regulate the trade-off between carbon acquisition and water losses and on the implications of this regulation 
+for a variety of processes ranging from plant growth, to changes in wildfire activity. his two main lines of research are:
 
-I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
+**Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors.
 
-I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other publications are listed [here](https://www.rescodedios.com/publication/).
+**Pyrophysiology:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function.
+
+He is a member of the editorial boards of seven international journals (including [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), 
+[Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468)) 
+and was invited to collaborate in the last two Assessment Reports from the IPCC. He is external adviser for a company of space technologies (AISTECH). 
+He regularly writes popular science articles, which have been published by BBC World, El País, ABC and other major newspapers. He is regularly asked for comment on forests and wildfire issues globally.
+
+
+His popular science articles (mostly in Spanish) are available [here](https://www.rescodedios.com/es/prensa/) and his scientific publications are listed [here](https://www.rescodedios.com/publication/).
