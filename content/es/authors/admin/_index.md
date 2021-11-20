@@ -51,7 +51,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Bienvenido a mi página web. Soy doctor por la _Universidad de Wyoming_ y profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
+Bienvenido a mi página web. Soy doctor por la _Universidad de Wyoming_ y profesor de ingeniería forestal en la _Universidad de Lérida_. 
 He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
  [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de
@@ -72,6 +72,7 @@ que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/no
 
 Soy miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
 y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
- y me invitaron a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
+e invitado a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
 (AISTECH).
 
+[Aquí](https://www.rescodedios.com/es/prensa/) encontrará mis columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) mis artículos científicos
