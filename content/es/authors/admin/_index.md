@@ -51,15 +51,30 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy profesor en la _Universidad de Lérida_. 
-Mi investigación se centra en las interacciones entre cambio climático, bosques e incendios. 
+El Dr Resco de Dios es profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
+Obtuvo su doctorado en la _Universidad de Wyoming_ (2008) y ha logrado varias de las becas de investigación 
+más prestigiosas, tales como la Marie Curie (2007-2008) o la Ramón y Cajal (2014-2019) entre otras. 
+Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
+ más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y actualmente es uno de 
+ los científicos más citados del mundo en el campo de la biología según el ranking de la base de datos 
+ bibliométrica [Scopus](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
-He escrito un centenar de [artículos científicos](https://www.rescodedios.com/es/publication/), un libro sobre 
-[incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y una veintena de artículos 
-[de divulgación](https://www.rescodedios.com/es/prensa/) en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), [El Español](https://www.elespanol.com/ciencia/medio-ambiente/20210324/talar-arboles-malo-bulos-contado-bosques/567944008_0.html) o [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
+Su programa de investigación ha demostrado como los incendios forestales se están convirtiendo en un 
+problema de protección civil, salud pública y seguridad nacional de primer orden. Por ello, busca 
+anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
+de los bosques. El objetivo final de su investigación es el desarrollo de estrategias de gestión del 
+territorio para garantizar el desarrollo normal de las actividades socio-económicas junto con la 
+persistencia de los bosques.
 
-He colaborado con el [IPCC](https://www.ipcc.ch/assessment-report/ar6/) en sus dos últimos informes sobre cambio climático y formo parte de los 
-Consejos Editoriales de varias revistas internacionales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137) o [Regional Environmental Change](https://www.springer.com/journal/10113). 
+Es miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137),
+ [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees Structure and Function](https://www.springer.com/journal/468)) 
+ y fue invitado a colaborar en los dos últimos informes de evaluación del IPCC. Es asesor externo para una compañía de tecnologías espaciales 
+(AISTECH). Escribe [columnas científicas](https://www.rescodedios.com/es/prensa/) de forma regular, 
+que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
+[ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
+[El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
+Es contactado regularmente por distintos medios de comunicación para comentar aspectos relacionados con 
+los incendios y los bosques a nivel global.
 
-Mis artículos de divulgación están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y mis artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
+Las columnas de ciencia están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y los artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
 
