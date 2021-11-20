@@ -53,7 +53,7 @@ user_groups:
 ---
 
 
-Dr Resco de Dios is a professor on Forest Fires and Global Change. He earned his PhD from the University of Wyoming (2008). 
+Dr Resco de Dios is a professor on Forest Fires and Global Change. He obtained his PhD from the University of Wyoming (2008). 
 He has written a book about [Plant-Fire Interactions](https://link.springer.com/book/10.1007/978-3-030-41192-3), over 100 [scientific articles](https://www.rescodedios.com/es/publication/)
  and is currently listed as a highly cited scientist in Biology in the [Scopus ranking](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
