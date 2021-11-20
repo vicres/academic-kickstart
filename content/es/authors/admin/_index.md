@@ -59,18 +59,16 @@ Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/
 
 
 Su programa de investigación busca anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
-de los bosques. El objetivo de su investigación es informar sobre la gestión del 
-territorio para asegurar conjuntamente el desarrollo normal de las actividades socio-económicas junto con la 
-persistencia de los bosques en un mundo cambiante.
+de los bosques. 
 
 Es miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137),
  [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees Structure and Function](https://www.springer.com/journal/468)) 
- y fue invitado a colaborar en los dos últimos informes de evaluación del IPCC. Es asesor externo para una compañía de tecnologías espaciales 
+ y fue invitado a colaborar en los dos últimos informes de evaluación del IPCC. Es también asesor externo para una compañía de tecnologías espaciales 
 (AISTECH). Escribe [columnas científicas](https://www.rescodedios.com/es/prensa/) de forma regular, 
 que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
-Es contactado regularmente por distintos medios de comunicación para comentar aspectos relacionados con 
+Atiende de forma regular a distintos medios de comunicación para explicar aspectos relacionados con 
 los incendios y los bosques a nivel global.
 
 Las columnas de ciencia están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y los artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
