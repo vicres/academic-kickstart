@@ -53,8 +53,8 @@ user_groups:
 ---
 
 
-Welcome to my site. I am a professor of  Forest Fires and Global Change. I am primarily interested on how plants regulate the trade-off between carbon 
-acquisition and water losses and on the implications of this regulation for a variety of processes ranging from plant growth, to changes in wildfire activity. My two main lines of research are:
+Welcome to my site. I am a professor of  Forest Fires and Global Change. My research essentially revolves around how plants regulate the trade-off between carbon 
+acquisition and water losses and on the implications of this regulation across scales: from plant growth, to changes in wildfire activity. More specifically, my two main lines of research are:
 
 
 1)  **Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
