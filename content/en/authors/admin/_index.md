@@ -62,6 +62,6 @@ acquisition and water losses and on the implications of this regulation across s
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
-I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other publications are listed [here](https://www.rescodedios.com/publication/).
+I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other scientific publications are listed [here](https://www.rescodedios.com/publication/).
 
 I also collaborate with industry, assessing the space technologies company AISTECH, and I've written a few [popular science articles (but mostly in Spanish)](https://www.rescodedios.com/es/prensa/)
