@@ -67,7 +67,7 @@ for a variety of processes ranging from plant growth, to changes in wildfire act
 He is a member of the editorial boards of seven international journals (including [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), 
 [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468)) 
 and was invited to collaborate in the last two Assessment Reports from the IPCC. He is external adviser for a company of space technologies (AISTECH). 
-He regularly writes popular science articles, which have been published by BBC World, El País, ABC and other major newspapers. He is regularly asked for comment on forests and wildfire issues globally.
+He regularly writes popular science articles, which have been published by BBC World, El País, ABC, Infobae and other major newspapers in Spain and Latin America. He is regularly asked for comment on forests and wildfire issues globally.
 
 
 His popular science articles (mostly in Spanish) are available [here](https://www.rescodedios.com/es/prensa/) and his scientific publications are listed [here](https://www.rescodedios.com/publication/).
