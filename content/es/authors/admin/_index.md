@@ -53,12 +53,11 @@ user_groups:
 
 Bienvenido a mi página web. Soy doctor por la _Universidad de Wyoming_ y profesor de ingeniería forestal en la _Universidad de Lérida_. 
 He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
- más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
+ más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
  [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de
  los científicos más citados del mundo en el campo de la biología. 
 
-Mi investigación gira en torno a los efectos del cambio global sobre los regímenes de incendios y sobre la función y estructura de los bosques. 
-Más específicamente, mis dos líneas principales de investigación son:
+Mi investigación gira en torno a:
 
 **1.	Bosques y regulación climática:** sobre la regulación de los ritmos diurnos, estacionales y anuales del sumidero terrestre de carbono y su consumo de agua.
 
@@ -75,4 +74,4 @@ y [Regional Environmental Change](https://www.springer.com/journal/10113))
 e invitado a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
 (AISTECH).
 
-[Aquí](https://www.rescodedios.com/es/prensa/) encontrará mis columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) mis artículos científicos
+[Aquí](https://www.rescodedios.com/es/prensa/) encontrará mis columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) mis artículos científicos.
