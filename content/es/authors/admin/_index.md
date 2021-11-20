@@ -51,24 +51,28 @@ user_groups:
 - Principal Investigators
 ---
 
-Víctor Resco de Dios es doctor por la  _Universidad de Wyoming_  y profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
-Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
- más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y actualmente es uno de 
- los científicos más citados del mundo en el campo de la biología según la base de datos 
- bibliométrica [Scopus](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
+Bienvenido a mi página web. Soy doctor por la _Universidad de Wyoming_ y profesor de ingeniería forestal en la _Universidad de Lérida_. 
+Mi investigación gira en torno a los efectos del cambio global sobre los regímenes de incendios y sobre la función y estructura de los bosques. 
+Más específicamente, mis dos líneas principales de investigación son:
+
+**1.	Bosques y regulación climática:** sobre la regulación de los ritmos diurnos, estacionales y anuales del sumidero terrestre de carbono y su consumo de agua.
+**2.	Incendios forestales:** sobre los procesos fisiológicos que rigen la actividad del fuego y cómo los incendios conforman la estructura y función de las especies forestales.
 
 
-Su programa de investigación busca anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
-de los bosques. 
+He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
+ más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y, según la base de datos 
+ bibliométrica [Scopus](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de 
+ los científicos más citados del mundo en el campo de la biología. 
 
-Es miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137),
+
+Soy miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137),
  [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees Structure and Function](https://www.springer.com/journal/468)) 
- y fue invitado a colaborar en los dos últimos informes de evaluación del IPCC. Es también asesor externo para una compañía de tecnologías espaciales 
-(AISTECH). Escribe [columnas científicas](https://www.rescodedios.com/es/prensa/) habitualmente, 
+ y me invitaron a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
+(AISTECH). Soy escritor habitual de [columnas periodísticas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
 que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
-Atiende de forma regular a distintos medios de comunicación para explicar aspectos relacionados con 
+También atiendo de forma regular a distintos medios de comunicación para explicar aspectos relacionados con 
 los incendios y los bosques a nivel global.
 
 Las columnas de ciencia están disponibles [aquí](https://www.rescodedios.com/es/prensa/) y los artículos científicos [aquí](https://www.rescodedios.com/es/publication/). 
