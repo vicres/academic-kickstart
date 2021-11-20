@@ -51,17 +51,14 @@ user_groups:
 - Principal Investigators
 ---
 
-El Dr Resco de Dios es profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
-Obtuvo su doctorado en la _Universidad de Wyoming_ (2008) y ha logrado varias de las becas de investigación 
-más prestigiosas, tales como la Marie Curie (2007-2008) o la Ramón y Cajal (2014-2019) entre otras. 
+Víctor Resco de Dios es doctor por la  _Universidad de Wyoming_ (2008) y profesor de incendios forestales y cambio global en la _Universidad de Lérida_. 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos científicos](https://www.rescodedios.com/es/publication/) y actualmente es uno de 
  los científicos más citados del mundo en el campo de la biología según el ranking de la base de datos 
  bibliométrica [Scopus](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
-Su programa de investigación ha demostrado como los incendios forestales se están convirtiendo en un 
-problema de protección civil, salud pública y seguridad nacional de primer orden. Por ello, busca 
-anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
+
+Su programa busca anticipar los efectos del cambio global sobre los regímenes de incendios y sobre la estructura y función 
 de los bosques. El objetivo final de su investigación es el desarrollo de estrategias de gestión del 
 territorio para garantizar el desarrollo normal de las actividades socio-económicas junto con la 
 persistencia de los bosques.
