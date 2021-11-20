@@ -53,13 +53,12 @@ user_groups:
 ---
 
 
-Dr Resco de Dios is a professor on Forest Fires and Global Change. He earned his PhD from the University of Wyoming (2008) 
-and has obtained several prestigious fellowships, including a Marie Curie (2007-2008), a Ramón y Cajal (2014-2019) and others. 
-He has written 1 book about [Plant-Fire Interactions](https://link.springer.com/book/10.1007/978-3-030-41192-3), over 100 [scientific articles](https://www.rescodedios.com/es/publication/)
+Dr Resco de Dios is a professor on Forest Fires and Global Change. He earned his PhD from the University of Wyoming (2008). 
+He has written a book about [Plant-Fire Interactions](https://link.springer.com/book/10.1007/978-3-030-41192-3), over 100 [scientific articles](https://www.rescodedios.com/es/publication/)
  and is currently listed as a highly cited scientist in Biology in the [Scopus ranking](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3). 
 
 He is primarily interested on how plants regulate the trade-off between carbon acquisition and water losses and on the implications of this regulation 
-for a variety of processes ranging from plant growth, to changes in wildfire activity. his two main lines of research are:
+for a variety of processes ranging from plant growth, to changes in wildfire activity. His two main lines of research are:
 
 **Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors.
 
