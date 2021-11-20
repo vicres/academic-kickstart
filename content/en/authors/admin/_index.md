@@ -64,4 +64,4 @@ I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelib
 
 I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other publications are listed [here](https://www.rescodedios.com/publication/).
 
-I also collaborate with industry, assessing the space technologies company AISTECH, and I've written a few [popular science articles (but mostly in Spanish)] (https://www.rescodedios.com/es/prensa/)
+I also collaborate with industry, assessing the space technologies company AISTECH, and I've written a few [popular science articles (but mostly in Spanish)](https://www.rescodedios.com/es/prensa/)
