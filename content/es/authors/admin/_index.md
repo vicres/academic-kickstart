@@ -61,17 +61,17 @@ Mi investigación gira en torno a los efectos del cambio global sobre los regím
 Más específicamente, mis dos líneas principales de investigación son:
 
 **1.	Bosques y regulación climática:** sobre la regulación de los ritmos diurnos, estacionales y anuales del sumidero terrestre de carbono y su consumo de agua.
+
+
 **2.	Incendios forestales:** sobre los procesos fisiológicos que rigen la actividad del fuego y cómo los incendios conforman la estructura y función de las especies forestales.
 
-Escribo habitualmente [columnas periodísticas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
+Escribo habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
 que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
-También atiendo de forma regular a distintos medios de comunicación para explicar aspectos relacionados con 
-los incendios y los bosques a nivel global.
 
-Soy miembro de los consejos editoriales de siete revistas internacionales (tales como [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
-o [Regional Environmental Change](https://www.springer.com/journal/10113) o [Trees Structure and Function](https://www.springer.com/journal/468)) 
+Soy miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
+y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
  y me invitaron a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
 (AISTECH).
 
