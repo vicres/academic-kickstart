@@ -20,9 +20,9 @@ interests:
 - Interacciones vegetación-incendios
 - Cambio climático
 organizations:
-- name: Southwest University of Science and Technology & UdL
+- name: 
   url: ""
-role: Profesor de Biología Forestal
+role: Profesor de Ingeniería Forestal
 social:
 - icon: envelope
   icon_pack: fas
@@ -62,7 +62,7 @@ Los dos ejes centrales de mi investigación son:
 **1.	Bosques y regulación climática:** sobre la regulación de los ritmos diurnos, estacionales y anuales del sumidero terrestre de carbono y su consumo de agua.
 
 
-**2.	Incendios forestales:** sobre los procesos fisiológicos que rigen la actividad del fuego y cómo los incendios conforman la estructura y función de las especies forestales.
+**2.	Incendios forestales:** sobre los procesos fisiológicos que rigen la actividad del fuego y cómo los incendios afectan a la estructura y función de las especies forestales.
 
 Escribo habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
 que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
