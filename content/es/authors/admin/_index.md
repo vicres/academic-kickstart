@@ -51,7 +51,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy doctor por la _Universidad de Wyoming_ y profesor de ingeniería forestal en la _Universidad de Lérida_. 
+Bienvenido a mi página personal. Soy doctor por la _Universidad de Wyoming_ y profesor de ingeniería forestal en la _Universidad de Lérida_. 
 He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
  [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de
