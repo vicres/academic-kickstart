@@ -64,6 +64,11 @@ subtitle = ""
 
 <p> <font color= "brown"> 2021 </font> </p>		
 
+<p><i>Los incendios forestales de 2021 han sido catastróficos, pero no de récord (por ahora)</i> <br>
+<a href="https://www.climatica.lamarea.com/incendios-forestales-catastroficos-2021/"> Climática - la Marea </a> 
+</p>
+
+
 <p><i>Cómo un estudio publicado en una revista científica de prestigio puede acabar en un genocidio</i> <br>
 <a href="https://theconversation.com/como-un-estudio-publicado-en-una-revista-cientifica-de-prestigio-puede-acabar-en-un-genocidio-170290"> The Conversation</a> |
 <a href="https://www.diariodenavarra.es/noticias/vivir/ciencia/2021/10/21/estudio-publicado-revista-cientifica-prestigio-acabar-genocidio-504754-3241.html"> Diario de Navarra </a> |
