@@ -63,6 +63,11 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2021 </font> </p>		
+<p><i>Los magnates editoriales que impusieron el prestigio en las publicaciones científicas</i> <br>
+<a href="https://theconversation.com/los-magnates-editoriales-que-impusieron-el-prestigio-en-las-publicaciones-cientificas-174249"> The Conversation </a> | 
+<a href="https://www.infobae.com/cultura/2022/01/13/quienes-son-los-magnates-detras-de-las-publicaciones-cientificas/"> Infobae (Argentina) </a> | 
+<a href="https://theobjective.com/sociedad/2022-01-10/editoriales-impusieron-prestigio-publicaciones-cientificas/"> The Objective </a> </p>
+
 
 <p><i>Los incendios forestales de 2021 han sido catastróficos, pero no de récord (por ahora)</i> <br>
 <a href="https://www.climatica.lamarea.com/incendios-forestales-catastroficos-2021/"> Climática - la Marea </a> 
