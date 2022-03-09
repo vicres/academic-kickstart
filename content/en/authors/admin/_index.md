@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Professor of Tree Biology @ SWUST-UdL. 
+bio: Professor of Forest Science @ UdL. 
 
 education:
   courses:
