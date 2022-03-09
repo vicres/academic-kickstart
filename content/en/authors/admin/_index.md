@@ -20,9 +20,9 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: Southwest University of Science and Technology & UdL
+- name: University of Lleida
   url: ""
-role: Professor of Tree Biology
+role: Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
