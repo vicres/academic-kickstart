@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Professor of Forest Science @ UdL. 
+bio: Professor of Forest Science. 
 
 education:
   courses:
@@ -20,9 +20,9 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: University of Lleida
+- name: SWUST & UdL
   url: ""
-role: Associate Professor
+role:  Professor of Tree Biology
 social:
 - icon: envelope
   icon_pack: fas
