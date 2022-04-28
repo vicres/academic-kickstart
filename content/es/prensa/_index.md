@@ -62,6 +62,21 @@ subtitle = ""
 
 </body>
 
+<p> <font color= "brown"> 2022 </font> </p>		
+<p><i>El aprovechamiento forestal como cuna de la historia y de la cultura: una introducción</i> <br>
+<a href="https://blog.ingenierosdemontes.org/2022/04/el-aprovechamiento-forestal-como-cuna-de-la-historia-y-de-la-cultura-una-introduccion/"> Blog del Colegio Oficial de Ingenieros de Montes </a> </p>
+
+
+<p><i>La evolución de las plantas: una chapuza maravillosa</i> <br>
+<a href="https://theconversation.com/la-evolucion-de-las-plantas-una-chapuza-maravillosa-178086"> The Conversation </a> </p>
+
+<p><i>Las repercusiones climáticas de una guerra nuclear</i> <br>
+<a href="https://theconversation.com/las-repercusiones-climaticas-de-una-guerra-nuclear-179216"> The Conversation </a> | 
+<a href="https://www.infobae.com/america/mundo/2022/03/16/las-repercusiones-climaticas-de-una-guerra-nuclear/"> Infobae (Argentina) </a> | 
+<a href="https://www.nationalgeographic.com.es/ciencia/asi-afectaria-guerra-nuclear-clima-mundial_17999"> National Geographic </a> | 
+<a href="https://www.climatica.lamarea.com/misiles-clima-nuclear-hambruna-global/"> La Marea</a> </p>
+
+
 <p> <font color= "brown"> 2021 </font> </p>		
 <p><i>Los magnates editoriales que impusieron el prestigio en las publicaciones científicas</i> <br>
 <a href="https://theconversation.com/los-magnates-editoriales-que-impusieron-el-prestigio-en-las-publicaciones-cientificas-174249"> The Conversation </a> | 
