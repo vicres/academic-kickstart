@@ -59,7 +59,7 @@ He escrito un libro sobre [incendios forestales](https://link.springer.com/book/
 
 Los dos ejes centrales de mi investigación son:
 
-**1.	Bosques y regulación climática:** sobre la regulación de los ritmos diurnos, estacionales y anuales del sumidero terrestre de carbono y su consumo de agua.
+**1.	Bosques y regulación climática:** : sobre la regulación del sumidero terrestre de carbono y de cómo los bosques alteran el balance energético terrestre.
 
 
 **2.	Incendios forestales:** sobre los procesos fisiológicos que rigen la actividad del fuego y cómo los incendios afectan a la estructura y función de las especies forestales.
