@@ -63,6 +63,10 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2022 </font> </p>		
+<p><i>Gigaincendios forestales en Australia en 2019/20: ¿Hubieran sido evitables con gestión forestal? – Parte 1ª</i> <br>
+<a href="https://blog.ingenierosdemontes.org/2022/05/gigaincendios-forestales-en-australia-en-2019-20-hubieran-sido-evitables-con-gestion-forestal-parte-1a/"> Blog del Colegio Oficial de Ingenieros de Montes </a> </p>
+
+
 <p><i>El aprovechamiento forestal como cuna de la historia y de la cultura: una introducción</i> <br>
 <a href="https://blog.ingenierosdemontes.org/2022/04/el-aprovechamiento-forestal-como-cuna-de-la-historia-y-de-la-cultura-una-introduccion/"> Blog del Colegio Oficial de Ingenieros de Montes </a> </p>
 
