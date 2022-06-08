@@ -363,6 +363,9 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>El precio de una escalada nuclear es la seguridad alimentaria (9/05/2022)</i> <br>
+<a href="https://www.cambio16.com/victor-resco-de-dios-el-precio-de-una-escalada-nuclear-es-la-seguridad-alimentaria/">Entrevista para Cambio16</a></p>
+
 <p><i>Por qué plantar árboles es la peor medida para frenar la deforestación del planeta (1/11/2021)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2021-11-01/errores-onu-reforestar-planeta-ciencia_3315171/">Declaraciones para El Confidencial</a></p>
 
