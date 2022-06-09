@@ -63,6 +63,10 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2022 </font> </p>		
+<p><i>La influencia científica y política del creador de ‘Jurassic Park’</i> <br>
+<a href="https://theconversation.com/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park-184088"> The Conversation </a> | 
+</p>
+
 <p><i>Gigaincendios forestales en Australia en 2019/20: ¿Hubieran sido evitables con gestión forestal? – Parte 1ª</i> <br>
 <a href="https://blog.ingenierosdemontes.org/2022/05/gigaincendios-forestales-en-australia-en-2019-20-hubieran-sido-evitables-con-gestion-forestal-parte-1a/"> Blog del Colegio Oficial de Ingenieros de Montes </a> </p>
 
