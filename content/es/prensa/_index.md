@@ -65,6 +65,9 @@ subtitle = ""
 <p> <font color= "brown"> 2022 </font> </p>		
 <p><i>La influencia científica y política del creador de ‘Jurassic Park’</i> <br>
 <a href="https://theconversation.com/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park-184088"> The Conversation </a> | 
+<a href="https://www.climatica.lamarea.com/crichton-retardismo-jurassic-park/"> Climática (La Marea) </a> | 
+<a href="https://www.lanacion.com.ar/lifestyle/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park-quien-relativizo-el-cambio-nid09062022/"> La Nación (Argentina) </a> | 
+<a href="https://www.confidencial.com.ni/revista-niu/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park/"> Confidencial (Nicaragua) </a>
 </p>
 
 <p><i>Gigaincendios forestales en Australia en 2019/20: ¿Hubieran sido evitables con gestión forestal? – Parte 1ª</i> <br>
