@@ -63,11 +63,21 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2022 </font> </p>		
+
+<p><i>Tormentas de fuego: qué hacer frente a los incendios de potencia atómica</i> <br>
+<a href="https://theconversation.com/tormentas-de-fuego-que-hacer-frente-a-los-incendios-de-potencia-atomica-185529"> The Conversation </a> | 
+<a href="https://www.elperiodico.com/es/the-conversation/20220623/tormentas-fuego-incendios-combatir-13919068/"> El Periódico </a> | 
+<a href="https://www.publico.es/sociedad/tormentas-fuego-frente-incendios-potencia-atomica.html"> Diario Público </a> | 
+<a href="https://theobjective.com/sociedad/medioambiente/2022-06-24/incendios-fuego/"> The Objective </a>
+</p>
+
+
 <p><i>La influencia científica y política del creador de ‘Jurassic Park’</i> <br>
 <a href="https://theconversation.com/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park-184088"> The Conversation </a> | 
 <a href="https://www.climatica.lamarea.com/crichton-retardismo-jurassic-park/"> Climática (La Marea) </a> | 
 <a href="https://www.lanacion.com.ar/lifestyle/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park-quien-relativizo-el-cambio-nid09062022/"> La Nación (Argentina) </a> | 
-<a href="https://www.confidencial.com.ni/revista-niu/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park/"> Confidencial (Nicaragua) </a>
+<a href="https://www.confidencial.com.ni/revista-niu/la-influencia-cientifica-y-politica-del-creador-de-jurassic-park/"> Confidencial (Nicaragua) |
+<a href="https://interessenacional.com.br/edicoes-posts/a-influencia-cientifica-e-politica-do-criador-de-jurassic-park/"> Interesse Nacional (Brasil) </a>
 </p>
 
 <p><i>Gigaincendios forestales en Australia en 2019/20: ¿Hubieran sido evitables con gestión forestal? – Parte 1ª</i> <br>
@@ -263,6 +273,9 @@ subtitle = ""
   <h3>Televisión</h3>
 
 
+<p><em> Entrevista en TV3 (16/06/2022)</em><br>
+<a href="https://www.ccma.cat/tv3/alacarta/planta-baixa/victor-resco-no-tenim-massa-boscos-tenim-massa-arbres-a-dins-i-per-aixo-hem-de-fomentar-ne-la-gestio/video/6164259/?ext=SMA_TW_F4_CE24_">Plant Baixa</a> </p>
+
 <p><em> Declaraciones en RTVE (13/09/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
 
@@ -319,6 +332,15 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i> Entrevista en Hora 25 (18/06/2022)</i> <br>
+<a href="https://play.cadenaser.com/audio/cadenaser_hora25_20220618_230000_233000/"> Cadena Ser (minuto 20)</a></p>
+
+<p><i> Víctor Resco: "No arreglarem el canvi climàtic plantant arbres" (18/06/2022)</i> <br>
+<a href="https://www.ccma.cat/catradio/alacarta/el-suplement/victor-resco-no-arreglarem-el-canvi-climatic-plantant-arbres/audio/1139098/"> El Suplement - Catalunya Ràdio</a></p>
+
+<p><i> Els experts reclamen una gestió forestal eficient per fer front als incendis (17/06/2022)</i> <br>
+<a href="https://www.rtve.es/play/audios/serveis-informatius-radio-4/bona-gestio-forestal/6628680/"> RNE4 </a></p>
+
 <p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
 <a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
 
@@ -369,6 +391,12 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>"Más bosques, pero más débiles"(17/06/2022)</i> <br>
+<a href="https://www.segre.com/es/noticias/comarcas/2022/06/17/mas_bosques_pero_mas_debiles_174701_1091.html?utm_source=twitter.com">Entrevista para el Segre</a></p>
+
+<p><i>"Molts dels incendis actuals no es poden extingir"(17/06/2022)</i> <br>
+<a href="https://www.diaridebarcelona.cat/w/victor-resco-molts-dels-incendis-actuals-no-es-poden-extingir?redirect=%2F">Entrevista para Diari de Barcelona</a></p>
 
 <p><i>El precio de una escalada nuclear es la seguridad alimentaria (9/05/2022)</i> <br>
 <a href="https://www.cambio16.com/victor-resco-de-dios-el-precio-de-una-escalada-nuclear-es-la-seguridad-alimentaria/">Entrevista para Cambio16</a></p>
