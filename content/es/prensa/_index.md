@@ -392,6 +392,12 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>"Cómo la crisis climática agrava los incendios forestales: causas, futuros escenarios y medidas para prevenirlos"(28/06/2022)</i> <br>
+<a href="https://maldita.es/clima/20220628/incendios-forestales-cambio-climatico-ola-calor/">Declaraciones para Maldita</a></p>
+
+<p><i>"Por qué se produce ahora el peor incendio de la historia de España: esto es lo que viene"(26/06/2022)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2022-06-26/produce-ahora-peor-incendio-historia-espana_3449799/">Declaraciones para el Confidencial</a></p>
+
 <p><i>"Más bosques, pero más débiles"(17/06/2022)</i> <br>
 <a href="https://www.segre.com/es/noticias/comarcas/2022/06/17/mas_bosques_pero_mas_debiles_174701_1091.html?utm_source=twitter.com">Entrevista para el Segre</a></p>
 
