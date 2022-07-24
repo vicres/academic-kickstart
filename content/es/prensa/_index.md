@@ -65,12 +65,14 @@ subtitle = ""
 <p> <font color= "brown"> 2022 </font> </p>		
 
 <p><i>Los incendios forestales son un problema político</i> <br>
-<a href="https://www.climatica.lamarea.com/incendios-forestales-problema-politico/"> Climática-la Marea </a> | 
+<a href="https://www.climatica.lamarea.com/incendios-forestales-problema-politico/"> Climática-la Marea </a> 
+</p>
 
 <p><i>Ola de incendios en Europa: la anomalía que será la norma</i> <br>
 <a href="https://theconversation.com/ola-de-incendios-en-europa-la-anomalia-que-sera-la-norma-187150"> The Conversation </a> | 
 <a href="https://www.eldiario.es/sociedad/ola-incendios-europa-anomalia-sera-norma_1_9178901.html"> eldiario.es</a> | 
-<a href="https://www.climatica.lamarea.com/ola-incendios-europa-anomalia-norma/"> Climática-la Marea </a>
+<a href="https://www.niusdiario.es/sociedad/medio-ambiente/20220718/ola-incendios-europa-anomalia-sera-norma_18_07041679.html"> Nius Diario </a> |
+<a href="https://www.internazionale.it/magazine/victor-resco-de-dios/2022/07/21/la-nuova-generazione-di-incendi"> Internazionale (Itaia) </a>
 </p>
 
 <p><i>Tormentas de fuego: qué hacer frente a los incendios de potencia atómica</i> <br>
