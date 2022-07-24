@@ -64,10 +64,19 @@ subtitle = ""
 
 <p> <font color= "brown"> 2022 </font> </p>		
 
+<p><i>Los incendios forestales son un problema político</i> <br>
+<a href="https://www.climatica.lamarea.com/incendios-forestales-problema-politico/"> Climática-la Marea </a> | 
+
+<p><i>Ola de incendios en Europa: la anomalía que será la norma</i> <br>
+<a href="https://theconversation.com/ola-de-incendios-en-europa-la-anomalia-que-sera-la-norma-187150"> The Conversation </a> | 
+<a href="https://www.eldiario.es/sociedad/ola-incendios-europa-anomalia-sera-norma_1_9178901.html"> eldiario.es</a> | 
+<a href="https://www.climatica.lamarea.com/ola-incendios-europa-anomalia-norma/"> Climática-la Marea </a>
+</p>
+
 <p><i>Tormentas de fuego: qué hacer frente a los incendios de potencia atómica</i> <br>
 <a href="https://theconversation.com/tormentas-de-fuego-que-hacer-frente-a-los-incendios-de-potencia-atomica-185529"> The Conversation </a> | 
-<a href="https://www.elperiodico.com/es/the-conversation/20220623/tormentas-fuego-incendios-combatir-13919068/"> El Periódico </a> | 
-<a href="https://www.publico.es/sociedad/tormentas-fuego-frente-incendios-potencia-atomica.html"> Diario Público </a> | 
+<a href="https://www.elperiodico.com/es/the-conversation/20220623/tormentas-fuego-incendios-combatir-13919068"> El Periódico </a> | 
+<a href="https://www.abc.es/ciencia/abci-tormentas-fuego-cuando-llamaradas-tienen-tanta-potencia-como-varias-bombas-atomicas-202207061712_noticia.html#vca=rrss&vmc=abc-es&vso=tw&vli=cm-general&_tcode=amVwa3Ay"> ABC </a> | 
 <a href="https://theobjective.com/sociedad/medioambiente/2022-06-24/incendios-fuego/"> The Objective </a>
 </p>
 
@@ -272,6 +281,26 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Declaraciones para RTVE (22/07/2022)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/negocio-reforestacion-incendios-ventajas-desventajas/6655511/?utm_medium=Social&utm_source=Twitter#Echobox=1658499941"> El Telediario</a> </p>
+
+<p><em> Entrevista en Antena 3 (21/07/2022)</em><br>
+<a href="https://www.antena3.com/programas/espejo-publico/noticias/incendios-espana-estamos-viendo-trailer-mundo-que-vamos-dejar-nuestros-hijos_2022072162d919a86e10ad0001605db0.html?so=so%3Asour-twitter%3Acn-espejopublico"> Espejo Público</a> </p>
+
+<p><em> Declaraciones para RTVE (20/07/2022)</em><br>
+<a href="https://www.rtve.es/play/videos/telediario/ola-calor-mas-intensa-registros-aemet/6653695/?utm_medium=Social&utm_source=Twitter#Echobox=1658328228"> El Telediario</a> </p>
+
+<p><em> Entrevista en la Sexta (19/07/2022)</em><br>
+<a href="https://twitter.com/sextaNoticias/status/1549754362179866628?s=20&t=Mtb7nTzwCBloSaL9GLCyXA"> La Sexta Noticias </a> </p>
+
+<p><em> Entrevista en RTVE (19/07/2022)</em><br>
+<a href="https://https://www.rtve.es/play/videos/diario-24/19-07-22-2/6652762/"> Diario 24</a>  (a partir del minuto 63)</p>
+
+<p><em> Entrevista en la Sexta (19/07/2022)</em><br>
+<a href="https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/julio-2022/19-07-22-el-estremecedor-video-de-un-hombre-envuelto-en-llamas-huyendo-del-incendio-de-zamora_62d69f7bb12eb0e49265ef33/"> Al Rojo Vivo</a>  (a partir del minuto 88)</p>
+
+<p><em> Entrevista en Telemadrid (19/07/2022)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-19072022-Parte-2-2-2470272987--20220719062333.html"> 120 minutos</a>  (a partir del minuto 13)</p>
 
 <p><em> Entrevista en TV3 (16/06/2022)</em><br>
 <a href="https://www.ccma.cat/tv3/alacarta/planta-baixa/victor-resco-no-tenim-massa-boscos-tenim-massa-arbres-a-dins-i-per-aixo-hem-de-fomentar-ne-la-gestio/video/6164259/?ext=SMA_TW_F4_CE24_">Plant Baixa</a> </p>
@@ -332,6 +361,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i> Entrevista en La Tarde en Cope (21/07/2022)</i> <br>
+<a href="https://www.ivoox.com/escucha-la-tarde-21-07-2022-8211-18h-a-19h-audios-mp3_rf_90101873_1.html"> la Cope (minuto 13)</a></p>
+
 <p><i> Entrevista en Hora 25 (18/06/2022)</i> <br>
 <a href="https://play.cadenaser.com/audio/cadenaser_hora25_20220618_230000_233000/"> Cadena Ser (minuto 20)</a></p>
 
@@ -391,6 +423,10 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+
+<p><i>"La prevención, clave para frenar unos incendios cada vez más destructivos: "Esto es un tráiler de lo que pasará en el futuro""(19/07/2022)</i> <br>
+<a href="https://www.rtve.es/noticias/20220719/prevencion-frenar-incendios-destructivos/2389236.shtml">Declaraciones para RTVE</a></p>
 
 <p><i>"Cómo la crisis climática agrava los incendios forestales: causas, futuros escenarios y medidas para prevenirlos"(28/06/2022)</i> <br>
 <a href="https://maldita.es/clima/20220628/incendios-forestales-cambio-climatico-ola-calor/">Declaraciones para Maldita</a></p>
