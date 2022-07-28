@@ -283,6 +283,12 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista en la Sexta (26/07/2022)</em><br>
+<a href="https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/julio-2022/26-07-22-europa-debate-hoy-suavizar-el-plan-gasistico_62dfd976b353b0e4c1c20a05/"> Al Rojo Vivo</a>  (a partir del minuto 38)</p>
+
+<p><em> Entrevista en Telemadrid (19/07/2022)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-19072022-Parte-2-2-2470272987--20220719062333.html"> 120 minutos</a>  (a partir del minuto 13)</p>
+
 <p><em> Declaraciones para RTVE (22/07/2022)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/negocio-reforestacion-incendios-ventajas-desventajas/6655511/?utm_medium=Social&utm_source=Twitter#Echobox=1658499941"> El Telediario</a> </p>
 
