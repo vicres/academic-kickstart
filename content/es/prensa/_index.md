@@ -283,6 +283,12 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Declaraciones para RTVE (01/08/2022)</em><br>
+<a href=" https://www.youtube.com/watch?v=0WJhMJGZWmo"> RTVE Noticias</a> </p>
+
+<p><em> Entrevista en la Televisión del Principado de Asturias (27/07/2022)</em><br>
+<a href="  https://www.rtpa.es/noticias-asturias:El-abandono-de-los-montes-y-el-cambio-climatico,-causantes-de-los-grandes-incendios_111658915494.html/"> Informativo </a> </p>
+
 <p><em> Entrevista en la Sexta (26/07/2022)</em><br>
 <a href="https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/julio-2022/26-07-22-europa-debate-hoy-suavizar-el-plan-gasistico_62dfd976b353b0e4c1c20a05/"> Al Rojo Vivo</a>  (a partir del minuto 38)</p>
 
@@ -432,6 +438,18 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+
+<p><i>"How do we fight wildfires as the planet heats up?"(06/08/2022)</i> <br>
+<a href="https://www.dw.com/en/how-do-we-fight-wildfires-as-the-planet-heats-up/a-62725149?maca=en-Twitter-sharing">Declaraciones para DW (Alemania)</a></p>
+
+<p><i>"Wildfires in Europe burn second-biggest area on record"(04/08/2022)</i> <br>
+<a href="https://t.co/vkTMVPJ4Po">Declaraciones para Reuters</a></p>
+
+<p><i>"Expect more wildfires — in Europe and beyond — as society grapples with warming climate"(23/07/2022)</i> <br>
+<a href="https://www.cbc.ca/news/world/europe-wildfires-threat-climate-mitigation-1.6527977?__vfz=medium%3Dsharebar">Declaraciones para CBC News (Canadá)</a></p>
+
+<p><i>"Explainer: How climate change drives heatwaves and wildfires in Europe"(19/07/2022)</i> <br>
+<a href="https://www.reuters.com/world/europe/how-climate-change-drives-heatwaves-wildfires-europe-2022-07-19/">Declaraciones para Reuters</a></p>
 
 <p><i>"La prevención, clave para frenar unos incendios cada vez más destructivos: "Esto es un tráiler de lo que pasará en el futuro""(19/07/2022)</i> <br>
 <a href="https://www.rtve.es/noticias/20220719/prevencion-frenar-incendios-destructivos/2389236.shtml">Declaraciones para RTVE</a></p>

@@ -57,8 +57,20 @@ subtitle = ""
 
 <p> <font color= "brown"> <strong>Press and SciComm</strong></font></p>
 
-<p> Statements to Science Magazine on the 2020 US West Coast fires 
- <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species"> here </a>
+<p><i>"How do we fight wildfires as the planet heats up?"(06/08/2022)</i> <br>
+<a href="https://www.dw.com/en/how-do-we-fight-wildfires-as-the-planet-heats-up/a-62725149?maca=en-Twitter-sharing">Statements for DW (Germany)</a></p>
+
+<p><i>"Wildfires in Europe burn second-biggest area on record"(04/08/2022)</i> <br>
+<a href="https://t.co/vkTMVPJ4Po">Statements for Reuters</a></p>
+
+<p><i>"Expect more wildfires — in Europe and beyond — as society grapples with warming climate"(23/07/2022)</i> <br>
+<a href="https://www.cbc.ca/news/world/europe-wildfires-threat-climate-mitigation-1.6527977?__vfz=medium%3Dsharebar">Statements for CBC News (Canadá)</a></p>
+
+<p><i>"Explainer: How climate change drives heatwaves and wildfires in Europe"(19/07/2022)</i> <br>
+<a href="https://www.reuters.com/world/europe/how-climate-change-drives-heatwaves-wildfires-europe-2022-07-19/">Statements for Reuters</a></p>
+
+<p> 2020 US West Coast fires 
+ <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species"> Statements for Science Magazine </a>
 
 <p> I do write lots of SciComm papers for the mainstream press, but mostly in Spanish. They can be accessed  
  <a href="https://www.rescodedios.com/es/prensa/"> here </a>
