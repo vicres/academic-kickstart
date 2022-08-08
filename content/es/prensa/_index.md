@@ -375,6 +375,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i> Declaraciones para De vuelta en Radio 5 (8/08/2022)</i> <br>
+<a href="https://www.rtve.es/play/audios/de-vuelta-en-radio-5/220807-seccion-juan-incendios-2022-08-07t14-33-29690/6665623/"> RNE 5</a></p>
+
 <p><i> Entrevista en La Tarde en Cope (21/07/2022)</i> <br>
 <a href="https://www.ivoox.com/escucha-la-tarde-21-07-2022-8211-18h-a-19h-audios-mp3_rf_90101873_1.html"> la Cope (minuto 13)</a></p>
 
