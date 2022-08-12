@@ -283,20 +283,23 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista en Telemadrid (26/07/2022)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-12082022-parte-1-2-2477472268--20220812061533.html"> 120 minutos</a>  (a partir del minuto 58)</p>
+
 <p><em> Entrevista en El Cascabel (09/08/2022)</em><br>
 <a href="https://www.cope.es/trecetv/programas/el-cascabel/videos/cascabel-agosto-2022-20220808_2025241"> TRECE TV (a partir del minuto 59)</a> </p>
 
 <p><em> Declaraciones para RTVE (01/08/2022)</em><br>
 <a href=" https://www.youtube.com/watch?v=0WJhMJGZWmo"> RTVE Noticias</a> </p>
 
+<p><em> Entrevista en Telemadrid (26/07/2022)</em><br>
+<a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-26072022-Parte-1-2-2472372771--20220726112023.html"> 120 minutos</a>  (a partir del minuto 31)</p>
+
 <p><em> Entrevista en la Televisión del Principado de Asturias (27/07/2022)</em><br>
 <a href="  https://www.rtpa.es/noticias-asturias:El-abandono-de-los-montes-y-el-cambio-climatico,-causantes-de-los-grandes-incendios_111658915494.html/"> Informativo </a> </p>
 
 <p><em> Entrevista en la Sexta (26/07/2022)</em><br>
 <a href="https://www.atresplayer.com/lasexta/programas/al-rojo-vivo/julio-2022/26-07-22-europa-debate-hoy-suavizar-el-plan-gasistico_62dfd976b353b0e4c1c20a05/"> Al Rojo Vivo</a>  (a partir del minuto 38)</p>
-
-<p><em> Entrevista en Telemadrid (19/07/2022)</em><br>
-<a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-19072022-Parte-2-2-2470272987--20220719062333.html"> 120 minutos</a>  (a partir del minuto 13)</p>
 
 <p><em> Declaraciones para RTVE (22/07/2022)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/negocio-reforestacion-incendios-ventajas-desventajas/6655511/?utm_medium=Social&utm_source=Twitter#Echobox=1658499941"> El Telediario</a> </p>
