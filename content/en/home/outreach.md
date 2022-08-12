@@ -57,6 +57,9 @@ subtitle = ""
 
 <p> <font color= "brown"> <strong>Press and SciComm</strong></font></p>
 
+<p><i>"Fires sweep a sweltering Europe. How is the EU fighting back?"(11/08/2022)</i> <br>
+<a href="https://www.csmonitor.com/World/Europe/2022/0811/Fires-sweep-a-sweltering-Europe.-How-is-the-EU-fighting-back">Statements for Christian Science Monitor (USA)</a></p>
+
 <p><i>"How do we fight wildfires as the planet heats up?"(06/08/2022)</i> <br>
 <a href="https://www.dw.com/en/how-do-we-fight-wildfires-as-the-planet-heats-up/a-62725149?maca=en-Twitter-sharing">Statements for DW (Germany)</a></p>
 

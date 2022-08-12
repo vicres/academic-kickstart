@@ -283,6 +283,9 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista en El Cascabel (09/08/2022)</em><br>
+<a href="https://www.cope.es/trecetv/programas/el-cascabel/videos/cascabel-agosto-2022-20220808_2025241"> TRECE TV (a partir del minuto 59)</a> </p>
+
 <p><em> Declaraciones para RTVE (01/08/2022)</em><br>
 <a href=" https://www.youtube.com/watch?v=0WJhMJGZWmo"> RTVE Noticias</a> </p>
 
@@ -441,6 +444,9 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+
+<p><i>"Fires sweep a sweltering Europe. How is the EU fighting back?"(11/08/2022)</i> <br>
+<a href="https://www.csmonitor.com/World/Europe/2022/0811/Fires-sweep-a-sweltering-Europe.-How-is-the-EU-fighting-back">Declaraciones para Christian Science Monitor (EEUU)</a></p>
 
 <p><i>"How do we fight wildfires as the planet heats up?"(06/08/2022)</i> <br>
 <a href="https://www.dw.com/en/how-do-we-fight-wildfires-as-the-planet-heats-up/a-62725149?maca=en-Twitter-sharing">Declaraciones para DW (Alemania)</a></p>
