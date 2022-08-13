@@ -283,7 +283,7 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
-<p><em> Entrevista en Telemadrid (26/07/2022)</em><br>
+<p><em> Entrevista en Telemadrid (12/08/2022)</em><br>
 <a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-12082022-parte-1-2-2477472268--20220812061533.html"> 120 minutos</a>  (a partir del minuto 58)</p>
 
 <p><em> Entrevista en El Cascabel (09/08/2022)</em><br>
