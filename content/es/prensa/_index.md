@@ -64,6 +64,13 @@ subtitle = ""
 
 <p> <font color= "brown"> 2022 </font> </p>		
 
+<p><i>Y tras los incendios, matorrales: cómo recuperar los bosques y hacerlos más resistentes al fuego</i> <br>
+<a href="https://theconversation.com/y-tras-los-incendios-matorrales-como-recuperar-los-bosques-y-hacerlos-mas-resistentes-al-fuego-188557"> The Conversation </a>  | 
+<a href="https://www.diariosur.es/sociedad/tras-incendios-matorrales-20220818095143-ntrc.html"> Diario Sur </a>  | 
+<a href="https://www.diariodenavarra.es/noticias/vivir/medio-ambiente/2022/08/18/incendios-matorrales-recuperar-bosques-hacerlos-resistentes-fuego-538228-3281.html"> Diario de Navarra </a>  | 
+<a href="https://www.elcorreo.com/sociedad/tras-incendios-matorrales-20220818095143-ntrc.html</p>"> El Correo </a>  
+</p>
+
 <p><i>Los incendios forestales son un problema político</i> <br>
 <a href="https://www.climatica.lamarea.com/incendios-forestales-problema-politico/"> Climática-la Marea </a> 
 </p>
@@ -381,6 +388,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i> La Entrevista de Radio 5 (14/09/2022)</i> <br>
+<a href="https://www.rtve.es/play/audios/la-entrevista-de-radio-5/entrevista-radio-5-victor-resco/6688158/"> RNE 5</a></p>
+
 <p><i> Declaraciones para De vuelta en Radio 5 (8/08/2022)</i> <br>
 <a href="https://www.rtve.es/play/audios/de-vuelta-en-radio-5/220807-seccion-juan-incendios-2022-08-07t14-33-29690/6665623/"> RNE 5</a></p>
 
@@ -447,6 +457,11 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>"https://www.newtral.es/eucaliptos-incendios-espana/20220917/"(17/09/2022)</i> <br>
+<a href="https://www.newtral.es/eucaliptos-incendios-espana/20220917/">Newtral</a></p>
+
+<p><i>"Three ways climate change makes adventure tourism riskier"(10/09/2022)</i> <br>
+<a href="https://www.bbc.com/news/world-62850313">Declaraciones para la BBC (GB)</a></p>
 
 <p><i>"Fires sweep a sweltering Europe. How is the EU fighting back?"(11/08/2022)</i> <br>
 <a href="https://www.csmonitor.com/World/Europe/2022/0811/Fires-sweep-a-sweltering-Europe.-How-is-the-EU-fighting-back">Declaraciones para Christian Science Monitor (EEUU)</a></p>
