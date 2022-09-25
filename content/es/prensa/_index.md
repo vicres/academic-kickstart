@@ -457,8 +457,14 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
-<p><i>"https://www.newtral.es/eucaliptos-incendios-espana/20220917/"(17/09/2022)</i> <br>
-<a href="https://www.newtral.es/eucaliptos-incendios-espana/20220917/">Newtral</a></p>
+<p><i>"El cambio climático desata a las termitas (y viceversa)"(23/09/2022)</i> <br>
+<a href="https://www.climatica.lamarea.com/cambio-climatico-termitas-estudio/">Declaraciones para Climática</a></p>
+
+<p><i>"La invasión de las termitas: por qué se van a multiplicar y van a cambiar el planeta/"(22/09/2022)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2022-09-22/invasion-termitas-multiplicar-planeta_3494855/">Declaraciones para El confidencial</a></p>
+
+<p><i>"Los eucaliptos acaparan el crecimiento de la madera en España pese a los señalamientos por el riesgo de incendios/"(17/09/2022)</i> <br>
+<a href="https://www.newtral.es/eucaliptos-incendios-espana/20220917/">Declaraciones para Newtral</a></p>
 
 <p><i>"Three ways climate change makes adventure tourism riskier"(10/09/2022)</i> <br>
 <a href="https://www.bbc.com/news/world-62850313">Declaraciones para la BBC (GB)</a></p>
