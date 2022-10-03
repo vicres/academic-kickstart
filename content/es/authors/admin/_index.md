@@ -71,7 +71,6 @@ que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/no
 
 Soy miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
 y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
-e invitado a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para una compañía de tecnologías espaciales 
-(AISTECH).
+e invitado a colaborar en los dos últimos informes de evaluación del IPCC. También soy asesor externo para diferentes compañías.
 
 [Aquí](https://www.rescodedios.com/es/prensa/) encontrará mis columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) mis artículos científicos.
