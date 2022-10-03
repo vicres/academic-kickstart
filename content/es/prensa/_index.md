@@ -388,6 +388,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>  Els tèrmits i el canvi climàtic amb Victor Resco de Dios (26/09/2022)</i> <br>
+<a href="https://www.rtve.es/play/audios/avui-sortim/termits-canvi-climatic/6700123/"> Avui sortim - RNE 4</a></p>
+
 <p><i> La Entrevista de Radio 5 (14/09/2022)</i> <br>
 <a href="https://www.rtve.es/play/audios/la-entrevista-de-radio-5/entrevista-radio-5-victor-resco/6688158/"> RNE 5</a></p>
 
