@@ -57,8 +57,8 @@ Welcome to my site. I am a professor of  Forest Fires and Global Change. My rese
 acquisition and water losses and on the implications of this regulation across scales: from plant growth to changes in wildfire activity. More specifically, my two main lines of research are:
 
 
-1)  **Rhythmic ecology:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
-2) **Pyrophysiology:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
+1)  **Forests and gas exchange:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
+2) **Fire science and management:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
