@@ -53,15 +53,18 @@ user_groups:
 ---
 
 
-Welcome to my site. I am a professor of  Forest Fires and Global Change. My research mainly revolves around how plants regulate the trade-off between carbon 
-acquisition and water losses and on the implications of this regulation across scales: from plant growth to changes in wildfire activity. More specifically, my two main lines of research are:
+Welcome to my site. I obtained my PhD at the University of Wyoming and I am a professor of  Forestry. I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/),
+over 100 [scientific papers ](https://www.rescodedios.com/publication/) and, according to the Stanford ranking, I am a highly cited scientist in the field of biology.
 
 
-1)  **Forests and gas exchange:** Exploring diurnal, seasonal and annual rhythms in plant growth, reproduction and gas exchange and how they are driven by the interplay between circadian vs exogenous factors. 
-2) **Fire science and management:** Trying to understand the physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
+My two main lines of research are:
+
+
+1)  **Forests and climate change:** On the relationship between forests, CO2 and climate change effects. 
+2) **Fire science and management:** On  physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
+
+I am currently coordinating the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio (JRU CTFC-AGROTECNIO).
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
-
-I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/) and my other scientific publications are listed [here](https://www.rescodedios.com/publication/).
 
 I also collaborate with industry, assessing the space technologies company AISTECH, and I've written a few [popular science articles (but mostly in Spanish)](https://www.rescodedios.com/es/prensa/)

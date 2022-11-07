@@ -64,6 +64,21 @@ subtitle = ""
 
 <p> <font color= "brown"> 2022 </font> </p>		
 
+<p><i>COP27: What to expect</i> <br>
+<a href="https://theconversation.com/cop27-what-to-expect-193556"> The Conversation </a>  | 
+<a href="https://www.stuff.co.nz/environment/climate-news/300732619/what-to-expect-out-of-cop27"> Stuff (NZ)</a>  | 
+<a href="https://videnskab.dk/forskerzonen/kultur-samfund/cop27-hvad-kan-vi-forvente"> Videnskab (DE) </a>  
+</p>
+
+
+<p><i>COP27: ¿Qué podemos esperar de la conferencia climática de este año?</i> <br>
+<a href="https://theconversation.com/cop27-que-podemos-esperar-de-la-conferencia-climatica-de-este-ano-192675"> The Conversation </a>  | 
+<a href="https://www.abc.es/antropia/abci-cop27-que-podemos-esperar-20221031092807_noticia.html"> ABC</a>  | 
+<a href="https://www.huffingtonpost.es/entry/cop27_es_635fadc9e4b023ac31c7579e"> HuffPost |
+<a href="https://www.climatica.lamarea.com/cop27-claves-a-tener-en-cuenta/"> Climática - La Marea </a>  
+</p>
+
+
 <p><i>Y tras los incendios, matorrales: cómo recuperar los bosques y hacerlos más resistentes al fuego</i> <br>
 <a href="https://theconversation.com/y-tras-los-incendios-matorrales-como-recuperar-los-bosques-y-hacerlos-mas-resistentes-al-fuego-188557"> The Conversation </a>  | 
 <a href="https://www.diariosur.es/sociedad/tras-incendios-matorrales-20220818095143-ntrc.html"> Diario Sur </a>  | 
