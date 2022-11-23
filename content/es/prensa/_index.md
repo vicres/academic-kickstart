@@ -64,6 +64,12 @@ subtitle = ""
 
 <p> <font color= "brown"> 2022 </font> </p>		
 
+<p><i>Los hongos que comen chapapote</i> <br>
+<a href="https://theconversation.com/los-hongos-que-comen-chapapote-194746"> The Conversation </a>  | 
+<a href="https://www.vozpopuli.com/next/hongos-chapapote-biorremediacion.html"> Voz Populi </a>
+</p>
+
+
 <p><i>COP27: What to expect</i> <br>
 <a href="https://theconversation.com/cop27-what-to-expect-193556"> The Conversation </a>  | 
 <a href="https://www.stuff.co.nz/environment/climate-news/300732619/what-to-expect-out-of-cop27"> Stuff (NZ)</a>  | 
