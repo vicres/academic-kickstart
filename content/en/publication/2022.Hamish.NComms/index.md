@@ -1,6 +1,6 @@
 ---
 title: "Forest fire threatens global carbon sinks and population centres under rising atmospheric water demand"
-date: 2022-11-01
+date: 2022-12-31
 publishDate: 2022-11-23T14:06:36.840644Z
 authors: ["Hamish Clarke", "Rachael H. Nolan", "Victor Resco De Dios", "Ross Bradstock", "Anne Griebel", "Shiva Khanal", "Matthias M. Boer"]
 publication_types: ["2"]
