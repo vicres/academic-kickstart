@@ -481,6 +481,10 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>"La sequía favorece una temporada extrema de incendios en el suroeste de Europa" (27/11/2022)</i> <br>
+<a href="https://www.elperiodico.com/es/sociedad/20221124/sequia-favorece-temporada-extrema-incendios-europa-79030758">Declaraciones para El Periódico</a></p>
+
+
 <p><i>"El cambio climático desata a las termitas (y viceversa)" (23/09/2022)</i> <br>
 <a href="https://www.climatica.lamarea.com/cambio-climatico-termitas-estudio/">Declaraciones para Climática</a></p>
 
