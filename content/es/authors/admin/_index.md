@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Profesor de Biología Forestal @ SWUST-UdL. 
+bio: Profesor de Ingeniería Forestal @ SWUST-UdL. 
 
 education:
   courses:
