@@ -51,7 +51,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy doctor por la _Universidad de Wyoming_, profesor de ingeniería forestal en la _Universidad de Lérida_ y coordino la _Unidad Mixta_ entre el _Centro Tecnológico Forestal de Cataluña_ y _Agrotecnio_ [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
+Soy doctor por la Universidad de Wyoming, profesor de ingeniería forestal en la Universidad de Lérida y coordino la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
 He sido investigador Ramón y Cajal (2014-2019) y profesor en el Hawkesbury Institute for the Environment de la Western Sydney University (2011-2014). 
 He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
