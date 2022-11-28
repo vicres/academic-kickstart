@@ -55,13 +55,13 @@ user_groups:
 
 I am an Associate Professor on Forest Science and Global Change at the University of Lleida and also the coordinator of the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat).
 I was a Ramón y Cajal Fellow (2014-2019) and a faculty member at the Hawkesbury Institute for the Environment at Western Sydney University (2011-2014). 
-I have been included in the Stanford ranking of highly cited scientists since 2021. I obtained my PhD from the University of Wyoming. I have written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/), over 100 [scientific papers ](https://www.rescodedios.com/publication/). 
+I have been included in the Stanford ranking of highly cited scientists since 2021. 
 
-My two main lines of research are:
+I have written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/), over 100 [scientific papers ](https://www.rescodedios.com/publication/). My two main lines of research are:
 
 
 1)  **Forests and climate change:** On the relationship between forests, CO2 and climate change effects. 
-2) **Fire science and management:** On  physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
+2) **Fire science and management:** On the effects of climate change on the fire regimes and its consequences for health, safety and terrestrial ecosystems. 
 
 
 

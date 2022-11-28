@@ -62,7 +62,7 @@ Los dos ejes centrales de mi investigación son:
 
 **1.	Bosques y cambio climático:** sobre la relación entre bosques, cambio climático y sumideros de carbono.
 
-**2.	Incendios forestales:** sobre los los efectos del cambio global en el régimen de incendios, así como sus efectos sobre la salud, la seguridad y la biodiversidad.
+**2.	Incendios forestales:** sobre los los efectos del cambio global en el régimen de incendios y sus consecuencias sobre la salud, la seguridad y la biodiversidad.
 
 Soy miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
 y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
