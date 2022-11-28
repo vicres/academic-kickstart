@@ -53,10 +53,10 @@ user_groups:
 
 Soy doctor por la Universidad de Wyoming, profesor de ingeniería forestal en la Universidad de Lérida y coordino la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
 He sido investigador Ramón y Cajal (2014-2019) y profesor en el Hawkesbury Institute for the Environment de la Western Sydney University (2011-2014). 
+
 He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
  más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
- [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de
- los científicos más citados del mundo en el campo de la biología. 
+ [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de los científicos más citados del mundo en el campo de la biología. 
 
 Los dos ejes centrales de mi investigación son:
 
