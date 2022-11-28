@@ -53,9 +53,11 @@ user_groups:
 ---
 
 
-I obtained my PhD at the University of Wyoming and I am a professor of  Forestry. I've written a book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/),
-over 100 [scientific papers ](https://www.rescodedios.com/publication/) and, according to the Stanford ranking, I am a highly cited scientist in the field of biology.
+I am an Associate Professor on Forest Science and Global Change at the University of Lleida. I obtained my PhD from the 
+University of Wyoming and I was a Ramón y Cajal Fellow (2014-2019). Prior to Lleida, I was a faculty at the Hawkesbury Institute for the Environment at Western Sydney University (2011-2014). 
+I have written 1 book about [Plant-Fire Interactions](https://www.rescodedios.com/publication/rescode-dios-2020/), over 100 [scientific papers ](https://www.rescodedios.com/publication/) and, according to the Stanford ranking, I am a highly cited scientist in the field of biology. 
 
+I am currently coordinating the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat).
 
 My two main lines of research are:
 
@@ -63,7 +65,7 @@ My two main lines of research are:
 1)  **Forests and climate change:** On the relationship between forests, CO2 and climate change effects. 
 2) **Fire science and management:** On  physiological mechanisms that affect fire activity and, at the same time, how fires shape plant species structure and function. 
 
-I am currently coordinating the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio [(JRU CTFC-AGROTECNIO](https://jru.agrotecnio.ctfc.cat)).
+
 
 I am a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
