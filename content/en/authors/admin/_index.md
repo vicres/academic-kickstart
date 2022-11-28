@@ -53,7 +53,7 @@ user_groups:
 ---
 
 
-I am an Associate Professor on Forest Science and Global Change at the University of Lleida and also the coordinator of the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat).
+I am an Associate Professor on Forest Science and Global Change at the University of Lleida and coordinator of the Joint Research Unit between the Forest Technology Center of Catalonia and Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat).
 I was a Ramón y Cajal Fellow (2014-2019) and a faculty member at the Hawkesbury Institute for the Environment at Western Sydney University (2011-2014). 
 I have been included in the Stanford ranking of highly cited scientists since 2021. 
 
