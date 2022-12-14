@@ -53,10 +53,10 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Divulgación científica</h1></font>
 
-<a href="#prensa">Artículos escritos</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
+<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
 <div class="main" id="prensa">
-<font color= "green">  <h2>Artículos escritos</h2></font>
+<font color= "green">  <h2>Columnas</h2></font>
 
 
 
@@ -64,20 +64,35 @@ subtitle = ""
 
 <p> <font color= "brown"> 2022 </font> </p>		
 
+<p><i>These are the implications of the latest wave of mega-fires for the European Green Deal</i> (con Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco) <br>
+<a href="https://theconversation.com/these-are-the-implications-of-the-latest-wave-of-mega-fires-for-the-european-green-deal-195982"> The Conversation </a>  | 
+<a href="https://phys.org/news/2022-12-implications-latest-mega-fires-european-green.html/"> Phys.org </a>
+</p>
+
+<p><i>Hemos identificado las verdaderas causas de la última ola de megaincendios en Europa</i> (con Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco)<br>
+<a href="https://theconversation.com/profiles/victor-resco-de-dios-767249/articles"> The Conversation </a>  | 
+<a href="https://theobjective.com/espana/politica/2022-12-03/incendios-europa-area-protegida/"> The Objective </a>
+</p>
+
+<p><i>Many forests will become highly flammable for at least 30 extra days per year unless we cut emissions, research finds</i> (with Hamish Clarke, Rachael Nolan, Anne Griebel, Matthias Boer) <br>
+<a href="https://theconversation.com/many-forests-will-become-highly-flammable-for-at-least-30-extra-days-per-year-unless-we-cut-emissions-research-finds-195546"> The Conversation </a>  | 
+<a href="https://www.sciencealert.com/forests-at-risk-of-burning-an-extra-30-days-a-year-without-climate-action"> Science Alert </a>
+</p>
+
 <p><i>Los hongos que comen chapapote</i> <br>
 <a href="https://theconversation.com/los-hongos-que-comen-chapapote-194746"> The Conversation </a>  | 
 <a href="https://www.vozpopuli.com/next/hongos-chapapote-biorremediacion.html"> Voz Populi </a>
 </p>
 
 
-<p><i>COP27: What to expect</i> <br>
+<p><i>COP27: What to expect</i> (con Miguel Ángel Zavala)<br>
 <a href="https://theconversation.com/cop27-what-to-expect-193556"> The Conversation </a>  | 
 <a href="https://www.stuff.co.nz/environment/climate-news/300732619/what-to-expect-out-of-cop27"> Stuff (NZ)</a>  | 
 <a href="https://videnskab.dk/forskerzonen/kultur-samfund/cop27-hvad-kan-vi-forvente"> Videnskab (DE) </a>  
 </p>
 
 
-<p><i>COP27: ¿Qué podemos esperar de la conferencia climática de este año?</i> <br>
+<p><i>COP27: ¿Qué podemos esperar de la conferencia climática de este año?</i> (con Miguel Ángel Zavala) <br>
 <a href="https://theconversation.com/cop27-que-podemos-esperar-de-la-conferencia-climatica-de-este-ano-192675"> The Conversation </a>  | 
 <a href="https://www.abc.es/antropia/abci-cop27-que-podemos-esperar-20221031092807_noticia.html"> ABC</a>  | 
 <a href="https://www.huffingtonpost.es/entry/cop27_es_635fadc9e4b023ac31c7579e"> HuffPost |
@@ -103,7 +118,7 @@ subtitle = ""
 <a href="https://www.internazionale.it/magazine/victor-resco-de-dios/2022/07/21/la-nuova-generazione-di-incendi"> Internazionale (Itaia) </a>
 </p>
 
-<p><i>Tormentas de fuego: qué hacer frente a los incendios de potencia atómica</i> <br>
+<p><i>Tormentas de fuego: qué hacer frente a los incendios de potencia atómica</i> (con Paulo Fernandes) <br>
 <a href="https://theconversation.com/tormentas-de-fuego-que-hacer-frente-a-los-incendios-de-potencia-atomica-185529"> The Conversation </a> | 
 <a href="https://www.elperiodico.com/es/the-conversation/20220623/tormentas-fuego-incendios-combatir-13919068"> El Periódico </a> | 
 <a href="https://www.abc.es/ciencia/abci-tormentas-fuego-cuando-llamaradas-tienen-tanta-potencia-como-varias-bombas-atomicas-202207061712_noticia.html#vca=rrss&vmc=abc-es&vso=tw&vli=cm-general&_tcode=amVwa3Ay"> ABC </a> | 
@@ -127,7 +142,7 @@ subtitle = ""
 <a href="https://blog.ingenierosdemontes.org/2022/04/el-aprovechamiento-forestal-como-cuna-de-la-historia-y-de-la-cultura-una-introduccion/"> Blog del Colegio Oficial de Ingenieros de Montes </a> </p>
 
 
-<p><i>La evolución de las plantas: una chapuza maravillosa</i> <br>
+<p><i>La evolución de las plantas: una chapuza maravillosa</i> (con Elena Granda)<br>
 <a href="https://theconversation.com/la-evolucion-de-las-plantas-una-chapuza-maravillosa-178086"> The Conversation </a> </p>
 
 <p><i>Las repercusiones climáticas de una guerra nuclear</i> <br>
@@ -160,7 +175,7 @@ subtitle = ""
 <a href="https://www.climatica.lamarea.com/cop15-biodiversidad-inversores/"> Climática - la Marea </a> 
 </p>
 
-<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> <br>
+<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> (con Rachael Nolan, Mark Ooi, Tim Curran, Andrea Leigh, Ross Bradstock, Tom Fairman) <br>
 <a href="https://theconversation.com/climate-change-is-testing-the-resilience-of-native-plants-to-fire-from-ash-forests-to-gymea-lilies-167367"> The Conversation</a> |
 <a href="https://phys.org/news/2021-09-climate-resilience-native-ash-forests.html"> phys.org </a> 
 </p>
@@ -480,6 +495,9 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>"Researchers Predict More Intense Wildfires in Europe" (8/12/2022)</i> <br>
+<a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Entrevista para Olive Oil Times</a></p>
 
 <p><i>"La sequía favorece una temporada extrema de incendios en el suroeste de Europa" (27/11/2022)</i> <br>
 <a href="https://www.elperiodico.com/es/sociedad/20221124/sequia-favorece-temporada-extrema-incendios-europa-79030758">Declaraciones para El Periódico</a></p>
