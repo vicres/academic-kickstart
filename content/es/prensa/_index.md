@@ -175,7 +175,7 @@ subtitle = ""
 <a href="https://www.climatica.lamarea.com/cop15-biodiversidad-inversores/"> Climática - la Marea </a> 
 </p>
 
-<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> (con Rachael Nolan, Mark Ooi, Tim Curran, Andrea Leigh, Ross Bradstock, Tom Fairman) <br>
+<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> aiintensi <br>
 <a href="https://theconversation.com/climate-change-is-testing-the-resilience-of-native-plants-to-fire-from-ash-forests-to-gymea-lilies-167367"> The Conversation</a> |
 <a href="https://phys.org/news/2021-09-climate-resilience-native-ash-forests.html"> phys.org </a> 
 </p>
@@ -424,6 +424,12 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>  Grandes incendios forestales: nuevos desafíos (7/01/2023)</i> <br>
+<a href="https://t.co/9ZqkifyGVo"> Radio Cooperative - Chile</a></p>
+
+<p><i>  Tormentas de rayo y vientos: cómo entender los incendios de sexta generación (26/09/2022)</i> <br>
+<a href="https://www.spreaker.com/user/cooperativafm/tormentas-de-rayo-y-vientos-como-entende"> Avui sortim - RNE 4</a></p>
+
 <p><i>  Els tèrmits i el canvi climàtic amb Victor Resco de Dios (26/09/2022)</i> <br>
 <a href="https://www.rtve.es/play/audios/avui-sortim/termits-canvi-climatic/6700123/"> Avui sortim - RNE 4</a></p>
 
@@ -631,6 +637,10 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 </div>
 <div class="main" id="yt">
   <h2>Ponencias</h2>
+
+<p><em>Foro sobre Incendios Forestales: Fundación Felipe González y Gobierno de Aragón</em><br>
+<a href="http://youtu.be/EM9U7e_mm9M">El desafío de los grandes incendios forestales</a> </p>
+{{< youtube EM9U7e_mm9M >}}
 
 <p><em>Forests Talks</em><br>
 <a href="https://youtu.be/uDx2zljyaXs">Boscos post COVID-19</a> </p>
