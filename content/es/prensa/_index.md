@@ -506,8 +506,10 @@ subtitle = ""
 <h3>Prensa</h3>
 
 <p><i>"La fórmula más eficiente de prevención de los incendios forestales son las quemas prescritas" (29/01/2023)</i> <br>
-<a href="https://www.elperiodicodearagon.com/aragon/2023/01/29/formula-eficiente-prevencion-incendios-forestales-82094719.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">Entrevista para Olive Oil Times</a></p>
+<a href="https://www.elperiodicodearagon.com/aragon/2023/01/29/formula-eficiente-prevencion-incendios-forestales-82094719.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">Entrevista para El Periódico</a></p>
 
+<p><i>"El canvi climàtic allargarà 45 dies la campanya d'incendis" (17/01/2023)</i> <br>
+<a href="https://www.naciodigital.cat/noticia/251490/canvi-climatic-allargara-45-dies-campanya-incendis-mediterrania">Nació Digital</a></p>
 
 <p><i>"Researchers Predict More Intense Wildfires in Europe" (8/12/2022)</i> <br>
 <a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Entrevista para Olive Oil Times</a></p>
