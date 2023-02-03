@@ -424,8 +424,11 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>  La Brújula de Aragón (25/01/2023)</i> <br>
+<a href="https://www.ondacero.es/emisoras/aragon/audios-podcast/brujula/brujula-aragon-25012023_2023012563d1788deb5eb6000198b51a.html"> La Brújula - Onda Cero</a></p>
+
 <p><i>  Grandes incendios forestales: nuevos desafíos (7/01/2023)</i> <br>
-<a href="https://t.co/9ZqkifyGVo"> Radio Cooperative - Chile</a></p>
+<a href="https://t.co/9ZqkifyGVo"> Radio Cooperativa - Chile</a></p>
 
 <p><i>  Tormentas de rayo y vientos: cómo entender los incendios de sexta generación (26/09/2022)</i> <br>
 <a href="https://www.spreaker.com/user/cooperativafm/tormentas-de-rayo-y-vientos-como-entende"> Avui sortim - RNE 4</a></p>
@@ -501,6 +504,10 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>"La fórmula más eficiente de prevención de los incendios forestales son las quemas prescritas" (29/01/2023)</i> <br>
+<a href="https://www.elperiodicodearagon.com/aragon/2023/01/29/formula-eficiente-prevencion-incendios-forestales-82094719.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">Entrevista para Olive Oil Times</a></p>
+
 
 <p><i>"Researchers Predict More Intense Wildfires in Europe" (8/12/2022)</i> <br>
 <a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Entrevista para Olive Oil Times</a></p>
