@@ -51,26 +51,29 @@ user_groups:
 - Principal Investigators
 ---
 
-Soy doctor por la Universidad de Wyoming, profesor de ingeniería forestal en la Universidad de Lérida y coordino la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
-He sido investigador Ramón y Cajal (2014-2019) y profesor en el Hawkesbury Institute for the Environment de la Western Sydney University (2011-2014). 
+Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
+Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la Universidad de Lérida y actualmente es uno de los científicos más citados del mundo en los campos de la fisiología vegetal y de la ecología.
 
-He escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3),
- más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/) y, según el ranking de la editorial 
- [Elsevier](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3), soy uno de los científicos más citados del mundo en el campo de la biología. 
+Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3), más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/).
 
-Los dos ejes centrales de mi investigación son:
+En la actualidad coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
+Anteriormente ejerció como profesor en las Western Sydney University (Australia), Southwest University of Science and Technology (China) y ha sido investigador Ramón y Cajal. 
+
+Los dos ejes centrales de su investigación son:
 
 **1.	Bosques y cambio climático:** sobre la relación entre bosques, cambio climático y sumideros de carbono.
 
 **2.	Incendios forestales:** sobre los los efectos del cambio global en el régimen de incendios y sus consecuencias sobre la salud, la seguridad y los ecosistemas terrestres.
 
-Soy miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
+**3.  Biorremediación:** sobre el uso de plantas y microorganismos para eliminar la contaminación por metales pesados y petróleo.
+
+Es miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
 y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
 e invitado a colaborar en los dos últimos informes de evaluación del IPCC.
 
-Escribo habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
+Escribe habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
 que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
 
-[Aquí](https://www.rescodedios.com/es/prensa/) encontrará mis columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) mis artículos científicos.
+[Aquí](https://www.rescodedios.com/es/prensa/) encontrará sus columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
