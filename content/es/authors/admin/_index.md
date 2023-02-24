@@ -56,10 +56,9 @@ Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la 
 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3), más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/).
 
-En la actualidad coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat). 
-Anteriormente ejerció como profesor en las Western Sydney University (Australia), Southwest University of Science and Technology (China) y ha sido investigador Ramón y Cajal. 
+Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en las Western Sydney University (Australia), Southwest University of Science and Technology (China) y ha sido investigador Ramón y Cajal. 
 
-Los dos ejes centrales de su investigación son:
+Los  ejes centrales de su investigación son:
 
 **1.	Bosques y cambio climático:** sobre la relación entre bosques, cambio climático y sumideros de carbono.
 
@@ -72,7 +71,7 @@ y [Regional Environmental Change](https://www.springer.com/journal/10113))
 e invitado a colaborar en los dos últimos informes de evaluación del IPCC.
 
 Escribe habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
-que han sido publicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
+que han sido republicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
 
