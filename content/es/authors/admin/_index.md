@@ -52,7 +52,7 @@ user_groups:
 ---
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
-Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la Universidad de Lérida y actualmente es uno de los científicos más citados del mundo en los campos de la fisiología vegetal y de la ecología.
+Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la Universidad de Lérida y uno de los científicos más citados en los campos de la fisiología vegetal y de la ecología.
 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3), más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/).
 
