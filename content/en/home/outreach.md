@@ -50,8 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-<p> <font color= "brown"> <strong>Press and SciComm</strong></font></p>
-
 <p> <font color= "brown"> <strong>Articles</strong></font></p>
 
 <p><i>These are the implications of the latest wave of mega-fires for the European Green Deal</i> (with Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco) <br>
