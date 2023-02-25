@@ -50,12 +50,36 @@ subtitle = ""
  css_class = ""
 +++
 
-<p> <font color= "brown"> <strong>Organization of conferences for scientific outreach: </strong></font> </p>		
-								
-<p> <a href="http://igenium.cat/">iGenium'17: Engineering Meeting Point.</a> Conference on Engineering and climate change.</p>
-<p> <a href="http://www.conama.org/web/index.php">Conama 2016: National Environmental Science Conference.</a> Oranizing session on Carbon sinks.</p>
-
 <p> <font color= "brown"> <strong>Press and SciComm</strong></font></p>
+
+<p> <font color= "brown"> <strong>Articles</strong></font></p>
+
+<p><i>These are the implications of the latest wave of mega-fires for the European Green Deal</i> (with Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco) <br>
+<a href="https://theconversation.com/these-are-the-implications-of-the-latest-wave-of-mega-fires-for-the-european-green-deal-195982"> The Conversation </a>  | 
+<a href="https://phys.org/news/2022-12-implications-latest-mega-fires-european-green.html/"> Phys.org </a>
+</p>
+
+<p><i>Many forests will become highly flammable for at least 30 extra days per year unless we cut emissions, research finds</i> (with Hamish Clarke, Rachael Nolan, Anne Griebel, Matthias Boer) <br>
+<a href="https://theconversation.com/many-forests-will-become-highly-flammable-for-at-least-30-extra-days-per-year-unless-we-cut-emissions-research-finds-195546"> The Conversation </a>  | 
+<a href="https://www.sciencealert.com/forests-at-risk-of-burning-an-extra-30-days-a-year-without-climate-action"> Science Alert </a>
+</p>
+
+<p><i>COP27: What to expect</i> (with Miguel Ángel Zavala)<br>
+<a href="https://theconversation.com/cop27-what-to-expect-193556"> The Conversation </a>  | 
+<a href="https://www.stuff.co.nz/environment/climate-news/300732619/what-to-expect-out-of-cop27"> Stuff (NZ)</a>  | 
+<a href="https://videnskab.dk/forskerzonen/kultur-samfund/cop27-hvad-kan-vi-forvente"> Videnskab (DE) </a>  
+</p>
+
+<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> (with Rachael Nolan, Andrea Leigh, Mark Ooi, Ross Bradstock, Tim Curran and Tom Fairman)  <br>
+<a href="https://theconversation.com/climate-change-is-testing-the-resilience-of-native-plants-to-fire-from-ash-forests-to-gymea-lilies-167367"> The Conversation</a> |
+<a href="https://phys.org/news/2021-09-climate-resilience-native-ash-forests.html"> phys.org </a> 
+</p>
+
+
+<p> <font color= "brown"> <strong>Press interviews and statements</strong></font></p>
+
+<p><i>"Researchers Predict More Intense Wildfires in Europe""(08/12/2022)</i> <br>
+<a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Statements for Olive Oil Times (USA)</a></p>
 
 <p><i>"Fires sweep a sweltering Europe. How is the EU fighting back?"(11/08/2022)</i> <br>
 <a href="https://www.csmonitor.com/World/Europe/2022/0811/Fires-sweep-a-sweltering-Europe.-How-is-the-EU-fighting-back">Statements for Christian Science Monitor (USA)</a></p>
@@ -77,31 +101,4 @@ subtitle = ""
 
 <p> I do write lots of SciComm papers for the mainstream press, but mostly in Spanish. They can be accessed  
  <a href="https://www.rescodedios.com/es/prensa/"> here </a>
-
-<p> <font color= "brown"> <strong>Articles:</strong></font></p>
-
-<p> Chowdhury FI, Barua I, Chowdhury AI, Resco de Dios V, Shafiul M. 2020. 
-Agroforestry shows higher potential than reforestation for soil restoration after slash-and-burn: a case study from Bangladesh. 
-Geology, Ecology, and Landscapes DOI: 10.1080/24749508.2020.1743528. 
- <a href="https://www.tandfonline.com/doi/pdf/10.1080/24749508.2020.1743528?needAccess=true"> [pdf] </a>
-
-
-<p> Resco de Dios V, Karavani A, Boer MM, Baudena M, Colinas C, Díaz-Sierra R,
-Pemán J, de Luís M, Enríquez-de-Salamanza A. 2018. Deforestación inducida por el fuego en bosques 
-mediterráneos sometidos a sequía. Foresta 70: 56-64. </p>
-
-<p> Gessler A, Bugmann H, Bigler C, Edwards P, della Guistina C, Kueffer C, Roy J, Resco de Dios V. 
-2017. Light as a source of information in ecosystems in Changing perspectives on daylight: Science, 
-technology, and culture. Science 358: 680. <a href="http://science.sciencemag.org/content/358/6363/680.2"> [pdf] </a> </p>
-
-<p>Rey A, Resco de Dios V. 2015. El papel de los estomas en la regulación del clima. Naturalmente - La revista del Museo Nacional de Ciencias Naturales - 8: 27-31 </p>
-
-<p>Paredes E, Cerera T, Resco de Dios V, Larrañaga A. 2015. Planificació territorial per a la prevenció de grans incendis forestals. Aplicació pràctica a la conca de Madrona (Solsonès). Silvicultura 72: 17-20 </p>
-
-<p>Resco V. 2010, Fundamentos teóricos para el uso de isótopos estables en ecología terrestre. Ecosistemas 19: 1-5 </p>
-
-<p>Vidal Cerdeiros C, Resco V. 2008. La lectora de montes. Profor-ES 1: 86-89. </p>
-
-<p>Resco de Dios, V. 2004. Efectos de la gestión en la dinámica de las masas forestales japonesas. Forestalia 9, 82-87.</p>
-
 

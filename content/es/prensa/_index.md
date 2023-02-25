@@ -175,7 +175,7 @@ subtitle = ""
 <a href="https://www.climatica.lamarea.com/cop15-biodiversidad-inversores/"> Climática - la Marea </a> 
 </p>
 
-<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> aiintensi <br>
+<p><i>Climate change is testing the resilience of native plants to fire, from ash forests to gymea lilies</i> (with Rachael Nolan, Andrea Leigh, Mark Ooi, Ross Bradstock, Tim Curran and Tom Fairman) <br>
 <a href="https://theconversation.com/climate-change-is-testing-the-resilience-of-native-plants-to-fire-from-ash-forests-to-gymea-lilies-167367"> The Conversation</a> |
 <a href="https://phys.org/news/2021-09-climate-resilience-native-ash-forests.html"> phys.org </a> 
 </p>
