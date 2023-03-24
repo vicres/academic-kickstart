@@ -77,7 +77,7 @@ subtitle = ""
 <p> <font color= "brown"> <strong>Press interviews and statements</strong></font></p>
 
 <p><i>"A ‘monster wildfire’ ravaged France last summer. It’s still burning"(01/03/2023)</i> <br>
-<a href="https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/">Statements for Washington Post(USA)</a></p>
+<a href="https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/">Statements for Washington Post (USA)</a></p>
 
 <p><i>"Researchers Predict More Intense Wildfires in Europe"(08/12/2022)</i> <br>
 <a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Statements for Olive Oil Times (USA)</a></p>

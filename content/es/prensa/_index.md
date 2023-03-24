@@ -326,6 +326,9 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista en TVE (15/03/2023)</em><br>
+<a href="https://www.rtve.es/play/videos/noticias-de-extremadura/segunda-edicion-15-03-2023/6835199/"> Noticias de Extremadura </a>  (a partir del minuto 15.30)</p>
+
 <p><em> Entrevista en Telemadrid (12/08/2022)</em><br>
 <a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-12082022-parte-1-2-2477472268--20220812061533.html"> 120 minutos</a>  (a partir del minuto 58)</p>
 
