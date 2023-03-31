@@ -63,7 +63,8 @@ subtitle = ""
 </body>
 <p> <font color= "brown"> 2023 </font> </p>		
 <p><i>These are the implications of the latest wave of mega-fires for the European Green Deal</i> (con Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco) <br>
-<a href="https://telos.fundaciontelefonica.com/emergencia-y-miopia-climaticas/"> Revista TELOS</p>
+<a href="https://telos.fundaciontelefonica.com/emergencia-y-miopia-climaticas/"> Revista TELOS </a>
+</p>
 
 <p><i>Hemos identificado las verdaderas causas de la última ola de megaincendios en Europa</i> (con Julien Ruffault, Marcos Rodrigues, Rodrigo Balaguer-Romano, Paulo Fernandes, Francisco Castañares y Celso Coco)<br>
 <a href="https://theconversation.com/incendios-forestales-estamos-a-tiempo-de-evitar-un-2023-catastrofico-202810"> The Conversation </a>  | 
