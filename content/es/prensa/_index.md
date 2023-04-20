@@ -62,6 +62,12 @@ subtitle = ""
 
 </body>
 <p> <font color= "brown"> 2023 </font> </p>		
+<p><i>Por qué no funcionan las actuales medidas contra el cambio climático</i>  <br>
+<a href="https://theconversation.com/por-que-no-funcionan-las-actuales-medidas-contra-el-cambio-climatico-203720"> The Conversation </a> | 
+<a href="https://catalunyadiari.com/actualitat/que-no-funcionen-actuals-mesures-contra-canvi-climatic"> Catalunya Diari </a> |
+<a href="https://www.14ymedio.com/cuba/funcionan-actuales-medidas-cambio-climatico_0_3513248649.html"> 14 y medio (Cuba) </a> 
+</p>
+
 <p><i>Emergencia y miopía climáticas</i>  <br>
 <a href="https://telos.fundaciontelefonica.com/emergencia-y-miopia-climaticas/"> Revista TELOS </a>
 </p>
@@ -335,6 +341,10 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+
+<p><em> Entrevista en Euskal Telebista (18/04/2023)</em><br>
+<a href="https://www.eitb.eus/es/nahieran/actualidad/en-jake/18-04-2023/detalle/5328/207893/?t=7774"> En Jake </a>  (a partir del minuto 129)</p>
+
 <p><em> Entrevista en TVE (15/03/2023)</em><br>
 <a href="https://www.rtve.es/play/videos/noticias-de-extremadura/segunda-edicion-15-03-2023/6835199/"> Noticias de Extremadura </a>  (a partir del minuto 15.30)</p>
 
@@ -435,6 +445,9 @@ subtitle = ""
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+
+<p><i>  ¿Están sirviendo las medidas para frenar el cambio climático? (20/04/2023)</i> <br>
+<a href="https://www.cartv.es/aragonradio/podcast/emision/estan-sirviendo-las-medidas-para-frenar-el-cambio-climatico"> Despierta Aragón - Aragón Radio </a></p>
 
 <p><i>  La Brújula de Aragón (25/01/2023)</i> <br>
 <a href="https://www.ondacero.es/emisoras/aragon/audios-podcast/brujula/brujula-aragon-25012023_2023012563d1788deb5eb6000198b51a.html"> La Brújula - Onda Cero</a></p>
