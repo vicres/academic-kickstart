@@ -342,6 +342,12 @@ subtitle = ""
   <h3>Televisión</h3>
 
 
+<p><em> Entrevista para Sonda Internacional (4/05/2023)</em><br>
+<a href="https://www.youtube.com/watch?v=Ml5PhOH691E"> ¿Qué es un megaincendio? </a> </p>
+
+<p><em> Interview for TRT World (4/05/2023)</em><br>
+<a href="https://twitter.com/The_Newsmakers/status/1654138251991568385?s=20"> The Newsmakers </a> </p>
+
 <p><em> Entrevista en Euskal Telebista (18/04/2023)</em><br>
 <a href="https://www.eitb.eus/es/nahieran/actualidad/en-jake/18-04-2023/detalle/5328/207893/?t=7774"> En Jake </a>  (a partir del minuto 129)</p>
 
