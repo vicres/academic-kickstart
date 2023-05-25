@@ -62,6 +62,12 @@ subtitle = ""
 
 </body>
 <p> <font color= "brown"> 2023 </font> </p>		
+<p><i>Colapso en la extinción de incendios forestales: cómo evitar una catástrofe</i>  <br>
+<a href="https://theconversation.com/colapso-en-la-extincion-de-incendios-forestales-como-evitar-una-catastrofe-204979"> The Conversation </a> | 
+<a href="https://www.elperiodico.com/es/sociedad/20230516/colapso-extincion-incendios-forestales-evitar-87444143"> El Periódico </a>  
+</p>
+
+
 <p><i>Por qué no funcionan las actuales medidas contra el cambio climático</i>  <br>
 <a href="https://theconversation.com/por-que-no-funcionan-las-actuales-medidas-contra-el-cambio-climatico-203720"> The Conversation </a> | 
 <a href="https://catalunyadiari.com/actualitat/que-no-funcionen-actuals-mesures-contra-canvi-climatic"> Catalunya Diari </a> |
@@ -451,6 +457,9 @@ subtitle = ""
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+
+<p><i>  Entrevista a Víctor Resco de Dios: Hablamos de ingeniería forestal (21/04/2023)</i> <br>
+<a href="https://culturaenlatierra.com/victor-resco-de-dios/"> Espacio Cocul - COPE Cultura </a></p>
 
 <p><i>  ¿Están sirviendo las medidas para frenar el cambio climático? (20/04/2023)</i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/estan-sirviendo-las-medidas-para-frenar-el-cambio-climatico"> Despierta Aragón - Aragón Radio </a></p>

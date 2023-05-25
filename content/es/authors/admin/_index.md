@@ -55,7 +55,7 @@ Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de l
 Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la Universidad de Lérida y uno de los científicos más citados en los campos de la fisiología vegetal y de la ecología.
 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
-Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en las Western Sydney University (Australia) y Southwest University of Science and Technology (China). 
+Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en la Western Sydney University (Australia) y la Southwest University of Science and Technology (China). 
 
 Los  ejes centrales de su investigación son:
 
