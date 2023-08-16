@@ -471,6 +471,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>  Víctor Resco: "Hemos llegado al límite en las medidas de extinción, ahora hay que trabajar en la prevención de incendios" (11/08/2023)</i> <br>
+<a href="https://www.orm.es/programas/tarde-abierta/victor-resco-hemos-llegado-al-limite-en-las-medidas-de-extincion-ahora-hay-que-trabajar-en-la-prevencion-de-incendios/"> Onda Regional de Murcia </a></p>
+
 <p><i>  Entrevista a Víctor Resco de Dios: Hablamos de ingeniería forestal (21/04/2023)</i> <br>
 <a href="https://culturaenlatierra.com/victor-resco-de-dios/"> Espacio Cocul - COPE Cultura </a></p>
 
