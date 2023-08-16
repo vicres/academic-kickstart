@@ -61,7 +61,20 @@ subtitle = ""
 
 
 </body>
+
 <p> <font color= "brown"> 2023 </font> </p>		
+<p><i>Piroceno: nos adentramos en la Edad del Fuego</i>  <br>
+<a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation </a> 
+</p>
+
+
+
+<p><i>Incendios en el Mediterráneo: seguimos sin aprender de los errores</i>  <br>
+<a href="https://theconversation.com/incendios-en-el-mediterraneo-seguimos-sin-aprender-de-los-errores-210505"> The Conversation </a> 
+</p>
+
+
+
 <p><i>Colapso en la extinción de incendios forestales: cómo evitar una catástrofe</i>  <br>
 <a href="https://theconversation.com/colapso-en-la-extincion-de-incendios-forestales-como-evitar-una-catastrofe-204979"> The Conversation </a> | 
 <a href="https://www.elperiodico.com/es/sociedad/20230516/colapso-extincion-incendios-forestales-evitar-87444143"> El Periódico </a>  
@@ -544,6 +557,13 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+
+<p><i>"España se libra de los incendios forestales este julio... pero “no se puede cantar victoria”" (02/08/2023)</i> <br>
+<a href="https://www.infobae.com/espana/2023/08/02/espana-se-libra-de-los-incendios-forestales-este-julio-pero-no-se-puede-cantar-victoria/">Entrevista para Infobae</a></p>
+
+<p><i>¿Son los incendios forestales cada vez más incontrolables y destructivos ?" (27/07/2023)</i> <br>
+<a href=""https://efeverde.com/son-los-incendios-forestales-cada-vez-mas-incontrolables-y-destructivos/">Entrevista para EFE Verde</a></p>
 
 <p><i>"La fórmula más eficiente de prevención de los incendios forestales son las quemas prescritas" (29/01/2023)</i> <br>
 <a href="https://www.elperiodicodearagon.com/aragon/2023/01/29/formula-eficiente-prevencion-incendios-forestales-82094719.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">Entrevista para El Periódico</a></p>
