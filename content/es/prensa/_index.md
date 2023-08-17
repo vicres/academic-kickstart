@@ -64,7 +64,9 @@ subtitle = ""
 
 <p> <font color= "brown"> 2023 </font> </p>		
 <p><i>Piroceno: nos adentramos en la Edad del Fuego</i>  <br>
-<a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation </a> 
+<a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation | </a> 
+<a href="https://www.climatica.lamarea.com/piroceno-edad-fuego-incendios-forestales/"> Climática - La Marea | </a> 
+<a href="https://www.elfinanciero.com.mx/ciencia/2023/08/16/llegamos-a-la-edad-del-fuego-incendios-forestales-sin-control-cambiarian-el-ambiente/"> El Financiero (México) </a> 
 </p>
 
 
