@@ -65,6 +65,8 @@ subtitle = ""
 <p> <font color= "brown"> 2023 </font> </p>		
 <p><i>Piroceno: nos adentramos en la Edad del Fuego</i>  <br>
 <a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation | </a> 
+<a href="https://www.bbc.com/portuguese/articles/cv21m0xz8yvo.amp"> BBC | </a> 
+<a href="https://www.elperiodico.com/es/sociedad/20230817/piroceno-adentramos-edad-fuego-91050927"> El Periódico | </a> 
 <a href="https://www.climatica.lamarea.com/piroceno-edad-fuego-incendios-forestales/"> Climática - La Marea | </a> 
 <a href="https://www.elfinanciero.com.mx/ciencia/2023/08/16/llegamos-a-la-edad-del-fuego-incendios-forestales-sin-control-cambiarian-el-ambiente/"> El Financiero (México) </a> 
 </p>
@@ -362,6 +364,11 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista para Levante TV (29/08/2023)</em><br>
+<a href="https://www.levante-emv.com/videos/levante-tv/2023/08/28/cved-desafios-lucha-incendios-profesor-91439746.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">  Desafíos en lucha contra incendios con el profesor de ingeniería forestal Víctor Resco </a> </p>
+
+<p><em> Entrevista para Radio Televisión Canaria (23/08/2023)</em><br>
+<a href="https://twitter.com/RTVCes/status/1694402370523086962?s=20"> Lo que estamos viendo es un tráiler de lo que está por llegar </a> </p>
 
 <p><em> Entrevista para Sonda Internacional (4/05/2023)</em><br>
 <a href="https://www.youtube.com/watch?v=Ml5PhOH691E"> ¿Qué es un megaincendio? </a> </p>
@@ -476,11 +483,17 @@ subtitle = ""
 <p><i>  Víctor Resco: "Hemos llegado al límite en las medidas de extinción, ahora hay que trabajar en la prevención de incendios" (11/08/2023)</i> <br>
 <a href="https://www.orm.es/programas/tarde-abierta/victor-resco-hemos-llegado-al-limite-en-las-medidas-de-extincion-ahora-hay-que-trabajar-en-la-prevencion-de-incendios/"> Onda Regional de Murcia </a></p>
 
+<p><i>  El factor que acelera el riesgo de aparición de incendios: "Aumenta las condiciones meteorológicas" (11/08/2023)</i> <br>
+<a href="https://www.cope.es/programas/la-tarde/noticias/factor-que-acelera-riesgo-aparicion-incendios-aumenta-las-condiciones-meteorologicas-20230726_2831997""> La Tarde COPE </a></p>
+
 <p><i>  Entrevista a Víctor Resco de Dios: Hablamos de ingeniería forestal (21/04/2023)</i> <br>
 <a href="https://culturaenlatierra.com/victor-resco-de-dios/"> Espacio Cocul - COPE Cultura </a></p>
 
 <p><i>  ¿Están sirviendo las medidas para frenar el cambio climático? (20/04/2023)</i> <br>
 <a href="https://www.cartv.es/aragonradio/podcast/emision/estan-sirviendo-las-medidas-para-frenar-el-cambio-climatico"> Despierta Aragón - Aragón Radio </a></p>
+
+<p><i>  Un ingeniero forestal advierte sobre la situación que podemos tener en España con los incendios este verano (27/03/2023)</i> <br>
+<a href="https://www.cope.es/programas/la-tarde/noticias/ingeniero-forestal-advierte-sobre-situacion-que-podemos-tener-espana-con-los-incendios-este-verano-20230327_2627452"> La Tarde - COPE </a></p>
 
 <p><i>  La Brújula de Aragón (25/01/2023)</i> <br>
 <a href="https://www.ondacero.es/emisoras/aragon/audios-podcast/brujula/brujula-aragon-25012023_2023012563d1788deb5eb6000198b51a.html"> La Brújula - Onda Cero</a></p>
@@ -563,6 +576,11 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>"Europe’s largest fire on record sparks hunt for scapegoats in Greece" (29/08/2023)</i> <br>
+<a href="https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/">Declaraciones para POLITICO</a></p>
+
+<p><i>"España se libra de los incendios forestales este julio... pero “no se puede cantar victoria”" (02/08/2023)</i> <br>
+<a href="https://www.politico.eu/article/eu-wildfires-global-warming-climate-change-land-management-trees-deforestation/">Declaraciones para POLITICO</a></p>
 
 <p><i>"España se libra de los incendios forestales este julio... pero “no se puede cantar victoria”" (02/08/2023)</i> <br>
 <a href="https://www.infobae.com/espana/2023/08/02/espana-se-libra-de-los-incendios-forestales-este-julio-pero-no-se-puede-cantar-victoria/">Entrevista para Infobae</a></p>

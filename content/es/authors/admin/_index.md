@@ -70,7 +70,7 @@ y [Regional Environmental Change](https://www.springer.com/journal/10113))
 e invitado a colaborar en los dos últimos informes de evaluación del IPCC.
 
 Escribe habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
-que han sido republicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/noticias-america-latina-54249424), 
+que han sido republicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo), 
 [ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
 [El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
 
