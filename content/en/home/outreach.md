@@ -76,6 +76,12 @@ subtitle = ""
 
 <p> <font color= "brown"> <strong>Press interviews and statements</strong></font></p>
 
+<p><i>"Europe’s largest fire on record sparks hunt for scapegoats in Greece" (29/08/2023)</i> <br>
+<a href="https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/">Statements for POLITICO</a></p>
+
+<p><i>"How to live on a Continent on fire" (03/08/2023)</i> <br>
+<a href="https://www.politico.eu/article/eu-wildfires-global-warming-climate-change-land-management-trees-deforestation/">Statements for POLITICO</a></p>
+
 <p><i>"A ‘monster wildfire’ ravaged France last summer. It’s still burning"(01/03/2023)</i> <br>
 <a href="https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/">Statements for Washington Post (USA)</a></p>
 

@@ -579,7 +579,7 @@ subtitle = ""
 <p><i>"Europe’s largest fire on record sparks hunt for scapegoats in Greece" (29/08/2023)</i> <br>
 <a href="https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/">Declaraciones para POLITICO</a></p>
 
-<p><i>"España se libra de los incendios forestales este julio... pero “no se puede cantar victoria”" (02/08/2023)</i> <br>
+<p><i>"How to live on a Continent on fire" (03/08/2023)</i> <br>
 <a href="https://www.politico.eu/article/eu-wildfires-global-warming-climate-change-land-management-trees-deforestation/">Declaraciones para POLITICO</a></p>
 
 <p><i>"España se libra de los incendios forestales este julio... pero “no se puede cantar victoria”" (02/08/2023)</i> <br>
@@ -587,6 +587,9 @@ subtitle = ""
 
 <p><i>¿Son los incendios forestales cada vez más incontrolables y destructivos ?" (27/07/2023)</i> <br>
 <a href=""https://efeverde.com/son-los-incendios-forestales-cada-vez-mas-incontrolables-y-destructivos/">Entrevista para EFE Verde</a></p>
+
+<p><i>"A ‘monster wildfire’ ravaged France last summer. It’s still burning"(01/03/2023)</i> <br>
+<a href="https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/">Declaraciones para Washington Post (USA)</a></p>
 
 <p><i>"La fórmula más eficiente de prevención de los incendios forestales son las quemas prescritas" (29/01/2023)</i> <br>
 <a href="https://www.elperiodicodearagon.com/aragon/2023/01/29/formula-eficiente-prevencion-incendios-forestales-82094719.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">Entrevista para El Periódico</a></p>
