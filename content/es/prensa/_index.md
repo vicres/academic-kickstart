@@ -480,6 +480,9 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>  Un experto explica en 'La Tarde' cómo se producen los incendios zombi (05/10/2023)</i> <br>
+<a href="https://www.cope.es/programas/la-tarde/noticias/experto-explica-tarde-como-producen-los-incendios-zombi-20231005_2934209"> La Tarde - COPE  </a></p>
+
 <p><i>  Víctor Resco: "Hemos llegado al límite en las medidas de extinción, ahora hay que trabajar en la prevención de incendios" (11/08/2023)</i> <br>
 <a href="https://www.orm.es/programas/tarde-abierta/victor-resco-hemos-llegado-al-limite-en-las-medidas-de-extincion-ahora-hay-que-trabajar-en-la-prevencion-de-incendios/"> Onda Regional de Murcia </a></p>
 
