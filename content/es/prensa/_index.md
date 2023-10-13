@@ -66,7 +66,7 @@ subtitle = ""
 
 <p><i>Las palabras que perdemos debido al abandono rura</i>  <br>
 <a href="https://theconversation.com/las-palabras-que-perdemos-debido-al-abandono-rural-214332"> The Conversation | </a> 
-<a href="https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/espana/2023/09/26/las-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo/?amp_gsa=1&amp_js_v=a9&outputType=amp-type&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Fwww.infobae.com%2Fespana%2F2023%2F09%2F26%2Flas-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo%2F"> Infobae | </a> 
+<a href="https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/espana/2023/09/26/las-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo/?amp_gsa=1&amp_js_v=a9&outputType=amp-type&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Fwww.infobae.com%2Fespana%2F2023%2F09%2F26%2Flas-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo%2F"> Infobae </a> 
 </p>
 
 
