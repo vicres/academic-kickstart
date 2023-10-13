@@ -63,6 +63,13 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2023 </font> </p>		
+
+<p><i>Las palabras que perdemos debido al abandono rura</i>  <br>
+<a href="https://theconversation.com/las-palabras-que-perdemos-debido-al-abandono-rural-214332"> The Conversation | </a> 
+<a href="https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/espana/2023/09/26/las-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo/?amp_gsa=1&amp_js_v=a9&outputType=amp-type&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Fwww.infobae.com%2Fespana%2F2023%2F09%2F26%2Flas-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo%2F"> Infobae | </a> 
+</p>
+
+
 <p><i>Piroceno: nos adentramos en la Edad del Fuego</i>  <br>
 <a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation | </a> 
 <a href="https://www.bbc.com/portuguese/articles/cv21m0xz8yvo.amp"> BBC | </a> 
