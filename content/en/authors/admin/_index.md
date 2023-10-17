@@ -20,7 +20,7 @@ interests:
 - Plant-Fire interactions
 - Ecosystem development
 organizations:
-- name: SWUST & UdL
+- name: UdL
   url: ""
 role:  Professor of Tree Biology
 social:
