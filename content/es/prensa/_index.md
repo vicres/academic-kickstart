@@ -64,7 +64,17 @@ subtitle = ""
 
 <p> <font color= "brown"> 2023 </font> </p>		
 
-<p><i>Las palabras que perdemos debido al abandono rura</i>  <br>
+<p><i>La cumbre del clima y el “acuerdo histórico” de Dubái</i>  <br>
+<a href="https://es.e-noticies.cat/opinion/cumbre-del-clima-y-acuerdo-historico-dubai"> e-Notícies </a> | 
+</p>
+
+
+<p><i>Una ley para aniquilar a la naturaleza</i>  <br>
+<a href="https://es.e-noticies.cat/opinion/ley-aniquilar-naturaleza"> e-Notícies </a> | 
+</p>
+
+
+<p><i>Las palabras que perdemos debido al abandono rural</i>  <br>
 <a href="https://theconversation.com/las-palabras-que-perdemos-debido-al-abandono-rural-214332"> The Conversation </a> | 
 <a href="https://www-infobae-com.cdn.ampproject.org/v/s/www.infobae.com/espana/2023/09/26/las-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo/?amp_gsa=1&amp_js_v=a9&outputType=amp-type&usqp=mq331AQGsAEggAID#ampshare=https%3A%2F%2Fwww.infobae.com%2Fespana%2F2023%2F09%2F26%2Flas-palabras-que-desaparecen-en-espana-por-el-abandono-de-los-pueblos-de-chasca-a-barrujo%2F"> Infobae </a> 
 </p>
@@ -78,13 +88,9 @@ subtitle = ""
 <a href="https://www.elfinanciero.com.mx/ciencia/2023/08/16/llegamos-a-la-edad-del-fuego-incendios-forestales-sin-control-cambiarian-el-ambiente/"> El Financiero (México) </a> 
 </p>
 
-
-
 <p><i>Incendios en el Mediterráneo: seguimos sin aprender de los errores</i>  <br>
 <a href="https://theconversation.com/incendios-en-el-mediterraneo-seguimos-sin-aprender-de-los-errores-210505"> The Conversation </a> 
 </p>
-
-
 
 <p><i>Colapso en la extinción de incendios forestales: cómo evitar una catástrofe</i>  <br>
 <a href="https://theconversation.com/colapso-en-la-extincion-de-incendios-forestales-como-evitar-una-catastrofe-204979"> The Conversation </a> | 
@@ -589,6 +595,14 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>¿Plantar árboles es la gran solución climática? El desafío del CO2 y el colonialismo verde (04/12/2023)</i> <br>
+<a href="https://efeverde.com/plantar-arboles-solucion-climatica-desafio-co2-colonialismo-verde/">Entrevista para EFE Verde</a></p>
+
+<p><i>La surrealista experiencia de un español en Bruselas explica todo lo que falla en política (16/11/2023)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2023-11-16/agenda-politica-ciencia-bruselas-experiencia_3774051/">Entrevista para El Confidencial</a></p>
+
+ttps://www.elconfidencial.com/tecnologia/ciencia/2023-11-16/agenda-politica-ciencia-bruselas-experiencia_3774051/
 
 <p><i>"Europe’s largest fire on record sparks hunt for scapegoats in Greece" (29/08/2023)</i> <br>
 <a href="https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/">Declaraciones para POLITICO</a></p>
