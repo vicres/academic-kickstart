@@ -57,21 +57,21 @@ Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la 
 Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
 Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en la Western Sydney University (Australia) y la Southwest University of Science and Technology (China). 
 
-Los  ejes centrales de su investigación son:
-
-**1.	Bosques y cambio climático:** sobre la relación entre bosques, cambio climático y sumideros de carbono.
-
-**2.	Incendios forestales:** sobre los los efectos del cambio global en el régimen de incendios y sus consecuencias sobre la salud, la seguridad y los ecosistemas terrestres.
-
-**3.  Biorremediación:** sobre el uso de plantas y microorganismos para eliminar la contaminación por metales pesados y petróleo.
-
-Es miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
-y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
-e invitado a colaborar en los dos últimos informes de evaluación del IPCC.
-
 Escribe habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) 
 que han sido republicadas en diarios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo), 
-[ABC](https://www.abc.es/ciencia/abci-pueden-arboles-transgenicos-parar-desierto-sahara-202106041022_noticia.html) o 
-[El País](https://elpais.com/politica/2019/07/02/actualidad/1562064160_944305.html), entre otros. 
+[National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095) y fue portada de  
+[Science en 2022](https://www.science.org/toc/science/377/6613), entre otros. 
 
-[Aquí](https://www.rescodedios.com/es/prensa/) encontrará sus columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
+#[Aquí](https://www.rescodedios.com/es/prensa/) encontrará sus columnas científicas y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
+
+#Los  ejes centrales de su investigación son:
+
+#**1.	Bosques y cambio climático:** sobre la relación entre bosques, cambio climático y sumideros de carbono.
+
+#**2.	Incendios forestales:** sobre los los efectos del cambio global en el régimen de incendios y sus consecuencias sobre la salud, la seguridad y los ecosistemas terrestres.
+
+#**3.  Biorremediación:** sobre el uso de plantas y microorganismos para eliminar la contaminación por metales pesados y petróleo.
+
+#Es miembro de los consejos editoriales de siete revistas internacionales (incluyendo a [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)
+#y [Regional Environmental Change](https://www.springer.com/journal/10113)) 
+#e invitado a colaborar en los dos últimos informes de evaluación del IPCC.
