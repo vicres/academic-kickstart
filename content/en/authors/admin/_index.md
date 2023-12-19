@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: UdL
   url: ""
-role:  Professor of Tree Biology
+role:  Professor of Forest Science. 
 social:
 - icon: envelope
   icon_pack: fas
