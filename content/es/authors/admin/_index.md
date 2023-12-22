@@ -3,8 +3,8 @@ authors:
 - admin
 bio: Profesor de Ingeniería Forestal @ SWUST-UdL. 
 
-education:
-  courses:
+#education:
+#  courses:
  # - course: Dr en Rangeland Ecology & Watershed Management
   #  institution: University of Wyoming
    # year: 2008
@@ -15,7 +15,7 @@ education:
   #  institution: Universidad de Lérida
   #  year: 2000
 email: ""
-interests:
+#interests:
 #- Ecología y gestión forestal
 #- Interacciones vegetación-incendios
 #- Cambio climático
