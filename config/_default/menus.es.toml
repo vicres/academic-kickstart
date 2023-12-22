@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Columnas"
+  name = "Divulgación"
   url = "/prensa/"
   weight = 50
 
