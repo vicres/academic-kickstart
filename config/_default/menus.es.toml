@@ -7,9 +7,9 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
 [[main]]
-  name = "Mi último libro"
+  name = "Ecomitos"
   url = "#featured"
   weight = 20
 
@@ -24,7 +24,7 @@
 #  weight = 40
 
 [[main]]
-  name = "Divulgación"
+  name = "Columnas"
   url = "/prensa/"
   weight = 50
 
