@@ -5,20 +5,20 @@ bio: Profesor de Ingeniería Forestal @ SWUST-UdL.
 
 education:
   courses:
-  - course: Dr en Rangeland Ecology & Watershed Management
-    institution: University of Wyoming
-    year: 2008
-  - course: Ingeniero de Montes
-    institution: Universidad de Lérida
-    year: 2003
-  - course: Ingeniero Técnico Forestal
-    institution: Universidad de Lérida
-    year: 2000
+ # - course: Dr en Rangeland Ecology & Watershed Management
+  #  institution: University of Wyoming
+   # year: 2008
+ # - course: Ingeniero de Montes
+ #   institution: Universidad de Lérida
+  #  year: 2003
+  #- course: Ingeniero Técnico Forestal
+  #  institution: Universidad de Lérida
+  #  year: 2000
 email: ""
 interests:
-- Ecología y gestión forestal
-- Interacciones vegetación-incendios
-- Cambio climático
+#- Ecología y gestión forestal
+#- Interacciones vegetación-incendios
+#- Cambio climático
 organizations:
 - name: Universitat de Lleida y JRU-CTFC-AGROTECNIO
   url: ""
