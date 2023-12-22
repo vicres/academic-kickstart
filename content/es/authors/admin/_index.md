@@ -49,6 +49,12 @@ superuser: true
 title: Víctor Resco de Dios
 user_groups:
 - Principal Investigators
+image:
+  placement: 
+  caption: ''
+  focal_point: "Center"
+  preview_only: false
+
 ---
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 

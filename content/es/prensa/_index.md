@@ -65,12 +65,12 @@ subtitle = ""
 <p> <font color= "brown"> 2023 </font> </p>		
 
 <p><i>La cumbre del clima y el “acuerdo histórico” de Dubái</i>  <br>
-<a href="https://es.e-noticies.cat/opinion/cumbre-del-clima-y-acuerdo-historico-dubai"> e-Notícies </a> | 
+<a href="https://es.e-noticies.cat/opinion/cumbre-del-clima-y-acuerdo-historico-dubai"> e-Notícies </a>
 </p>
 
 
 <p><i>Una ley para aniquilar a la naturaleza</i>  <br>
-<a href="https://es.e-noticies.cat/opinion/ley-aniquilar-naturaleza"> e-Notícies </a> | 
+<a href="https://es.e-noticies.cat/opinion/ley-aniquilar-naturaleza"> e-Notícies </a>
 </p>
 
 
