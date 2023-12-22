@@ -20,7 +20,7 @@ interests:
 - Interacciones vegetación-incendios
 - Cambio climático
 organizations:
-- name: 
+- name: Universitat de Lleida y JRU-CTFC-AGROTECNIO
   url: ""
 role: Profesor de Ingeniería Forestal
 social:
