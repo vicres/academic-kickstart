@@ -68,9 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[Aquí están mis artículos científicos]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
-{{% alert note %}}
-[Aquí están mis artículos de divulgación]({{< ref "/prensa/_index.md" >}}).
+[Ver todos mis artículos científicos]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
