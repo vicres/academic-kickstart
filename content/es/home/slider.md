@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Ecomitos"
+  title = "Ecomitos: Los bulos ecológico que agravan la crisis ambiental global"
   content = "Los bulos ecológico que agravan la crisis ambiental global"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -32,21 +32,21 @@ height = ""
   cta_label = "Consiga el libro"
   cta_url = "https://www.plataformaeditorial.com/libro/9910-ecomitos"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "book"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+ # title = "Left"
+ # content = "I am left aligned :smile:"
+ # align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  #title = "Right"
+  #content = "I am right aligned :smile:"
+  #align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
