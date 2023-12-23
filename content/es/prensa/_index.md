@@ -58,11 +58,14 @@ subtitle = ""
 <div class="libros" id="Libros">
 <font color= "green">  <h2>Libros</h2></font>
 
-[Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos)
+<font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental global </h3></font> 
+
+A nadie se le escapa que estamos inmersos en una grave crisis ambiental global. En un intento por paliar sus efectos más adversos, Gobiernos de todo el mundo están promoviendo un Pacto Verde, una nueva revolución industrial con el obietivo de descarbonizar la economía, apelando a medidas como gravar las emisiones, plantaciones masivas de árboles, instalaciones de paneles solares a mansalva y aumento de las áreas protegidas, entre otras. Pero ¿es esto realmente útil? La crisis ambiental no ha hecho más que acentuarse, lo que nos indica que algo está fallando. En este lúcido ensayo, el reconocido científico Víctor Resco de Dios arroja algo de luz sobre muchas de las propuestas que se han implementado, o que están sobre la mesa, y nos demuestra que son, en realidad, ecomitos: falsas creencias sobre cuestiones ecológicas y ambientales que se han asentado en el imaginario colectivo, y que no solucionan, sino que empeoran, la crisis ambiental global.
+De una forma clara, valiente y sin concesiones, Ecomitos deshace los nudos de esta telaraña, creada -con más o menos intención- por una inesperada coalición de conglomerados empresariales, entidades ecologistas y Gobiernos, que ha pervertido a la opinión pública hasta el punto de impedir una respuesta efectiva a este problema. Apoyándose en el conocimiento que nos aportan la ciencia, la ingeniería y las humanidades, este libro parte de una premisa tan sencilla como dramática: «Necesitamos con urgencia nuevos líderes de conocimiento». Esta obra es, sin duda, un acertado primer paso en esa dirección.
  
  <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos.jpg" width=30%/></a>
  
- <img style="max-width: 30%;" src="/img/Ecomitos.jpg">
+ #<img style="max-width: 30%;" src="/img/Ecomitos.jpg">
   
 </div>
 
