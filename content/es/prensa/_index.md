@@ -62,6 +62,8 @@ subtitle = ""
 
 </body>
 
+![Example image](/static/img/Ecomitos.png)
+
 <p> <font color= "brown"> 2023 </font> </p>		
 
 <p><i>La cumbre del clima y el “acuerdo histórico” de Dubái</i>  <br>
