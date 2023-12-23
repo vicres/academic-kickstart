@@ -54,6 +54,8 @@ user_groups:
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y es uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo. 
-![Example image]("Ecomitos.png")
+
 Acaba de publicar su primer libro para un público general: [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos) y publica regularmente columnas científicas en medios de prestigio internacional entre los que se encuentran [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095). También coordina la [Unidad Mixta de Investigación](https://jru.agrotecnio.ctfc.cat) entre el Centro Tecnológico Forestal de Cataluña y Agrotectnio.
+
+ <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos.jpg" width=30%/></a>
