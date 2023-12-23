@@ -16,7 +16,7 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Ecomitos: Los bulos ecológico que agravan la crisis ambiental global"
+  title = "Ecomitos: Los bulos ecológicos que agravan la crisis ambiental global"
   content = "¿Cuánto de lo que hacemos en nombre de la ecología sirve de algo? Ecomitos, el primer libro de divulgación del profesor Víctor Resco, es un libro para reflexionar y descubrir la verdadera forma de ayudar al planeta."
   align = "center"  # Choose `center`, `left`, or `right`.
   color= "#131212"
@@ -30,7 +30,12 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Consiga el libro"
+  cta_label = "Más información"
+  cta_url = "https://www.plataformaeditorial.com/libro/9910-ecomitos"
+  cta_icon_pack = "fas"
+  cta_icon = "book"
+
+  cta_label = "Conseguir el libro"
   cta_url = "https://www.plataformaeditorial.com/libro/9910-ecomitos"
   cta_icon_pack = "fas"
   cta_icon = "book"
