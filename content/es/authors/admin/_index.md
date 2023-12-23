@@ -5,7 +5,6 @@ bio: Profesor de Ingeniería Forestal UdL.
 
 #education:
 #  courses:
-<<<<<<< Updated upstream
  # - course: Dr en Rangeland Ecology & Watershed Management
   #  institution: University of Wyoming
    # year: 2008
@@ -15,17 +14,6 @@ bio: Profesor de Ingeniería Forestal UdL.
   #- course: Ingeniero Técnico Forestal
   #  institution: Universidad de Lérida
   #  year: 2000
-=======
-#  - course: Dr en Rangeland Ecology & Watershed Management
- #   institution: University of Wyoming
- #   year: 2008
- # - course: Ingeniero de Montes
- #   institution: Universidad de Lérida
-#    year: 2003
-#  - course: Ingeniero Técnico Forestal
-#    institution: Universidad de Lérida
-#    year: 2000
->>>>>>> Stashed changes
 email: ""
 #interests:
 #- Ecología y gestión forestal
@@ -65,18 +53,9 @@ user_groups:
 ---
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
-
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y publica regularmente columnas científicas en medios de prestigio internacional entre los que se encuentran [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095).
-=======
-Doctor por la Universidad de Wyoming, es profesor de ingeniería forestal en la Universidad de Lleida y uno de los científicos más citados en los campos de la  biología y ciencias ambientales.
 
-Es autor de [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos),  donde explora cómo estamos gestionando la crisis ambiental y las posibles consecuencias negativas de algunas medidas que, aunque bienintencionadas, pueden generar un mal aún mayor. 
-También ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
-Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente fue profesor en Western Sydney University (Australia) y  Southwest University of Science and Technology (China). 
-
-Escribe habitualmente [columnas sobre asuntos científicos](https://www.rescodedios.com/es/prensa/) que han aparecido en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
-[National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095) y es habitualmente consultado por diversos medios 
-de prestigio internacional entre los que se incluyen [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
-[Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/) o [POLITICO](https://www.politico.eu/article/eu-wildfires-global-warming-climate-change-land-management-trees-deforestation/). Fue [portada de  
-Science](https://www.science.org/toc/science/377/6613) en 2022. 
+Acaba de publicar su primer libro para un público general: [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos) 
+y, con más de [150 artículos científicos escritos](https://www.rescodedios.com/es/publication/), es uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo en el campo de la biología.
+También coordina la [Unidad Mixta de Investigación](https://jru.agrotecnio.ctfc.cat) entre el Centro Tecnológico Forestal de Cataluña y Agrotectnio.
