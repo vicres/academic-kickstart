@@ -5,8 +5,13 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#slider"
   weight = 10
+
+#[[main]]
+#  name = "Home"
+ # url = "#about"
+ # weight = 10
 
 [[main]]
   name = "Libros"
