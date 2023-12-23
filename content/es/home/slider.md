@@ -17,13 +17,13 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Ecomitos: Los bulos ecológico que agravan la crisis ambiental global"
-  content = "Nuestro planeta muestra un claro deterioro ambiental: cambio climático, crisis energética, agotamiento del modelo de consumo… Uno de los primeros pasos que debemos dar para revertir esta situación es reconocer y evitar las ecomentiras o ecomitos: las falsas creencias medioambientales que están instaladas en el imaginario popular como la efectividad de las cuotas en las emisiones de CO2, la exaltación de fuentes de energía alternativas que quizá no son todo lo beneficiosas que parecen o un amplio abanico de medidas que tiene más sustento político que científico."
+  content = "Nuestro planeta muestra un claro deterioro ambiental: cambio climático, crisis energética… Uno de los primeros pasos que debemos dar para revertir esta situación es reconocer y evitar los ecomitos: las falsas creencias medioambientales instaladas en el imaginario popular."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "Ecomitos_04.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "Ecomitos.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
