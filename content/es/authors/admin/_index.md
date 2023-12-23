@@ -56,11 +56,12 @@ Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de l
 
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y es uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo. También coordina la [Unidad Mixta de Investigación](https://jru.agrotecnio.ctfc.cat) entre el Centro Tecnológico Forestal de Cataluña y Agrotectnio.
 
-Acaba de publicar su primer libro para un público general, titulado [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos). Publica regularmente columnas científicas en medios de prestigio internacional entre los que se encuentran [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
+Acaba de publicar su primer libro para un público general, titulado [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos). 
+Escribe regularmente columnas científicas en medios de prestigio internacional entre los que se encuentran [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), y
 es entrevistado frecuentemente por diversos medios de comunicación nacionales e internacionales, como [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
 [Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/), o 
 [POLITICO](https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/), sobre cuestiones relativas a los impactos del cambio climático.
 
-
+[Aquí](https://www.rescodedios.com/es/prensa/) encontrará su actividad divulgadora y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
  
