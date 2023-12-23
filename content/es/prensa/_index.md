@@ -62,7 +62,7 @@ subtitle = ""
 
 </body>
 
-![Example image](/img/Ecomitos.png)
+![Ecomitos](/img/Ecomitos.png)
 
 <p> <font color= "brown"> 2023 </font> </p>		
 
