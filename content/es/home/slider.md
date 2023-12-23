@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Ecomitos: Los bulos ecológico que agravan la crisis ambiental global"
-  content = "Nuestro planeta muestra un claro deterioro ambiental: cambio climático, crisis energética… Uno de los primeros pasos que debemos dar para revertir esta situación es reconocer y evitar los ecomitos: las falsas creencias medioambientales instaladas en el imaginario popular."
+  content = "¿Cuánto de lo que hacemos en nombre de la ecología sirve de algo? Un libro para reflexionar y descubrir la verdadera forma de ayudar al planeta."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
