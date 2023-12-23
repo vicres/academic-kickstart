@@ -30,7 +30,7 @@ height = ""
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Más información"
+  cta_label = "Más información/Conseguir el libro"
   cta_url = "https://www.plataformaeditorial.com/libro/9910-ecomitos"
   cta_icon_pack = "fas"
   cta_icon = "book"
