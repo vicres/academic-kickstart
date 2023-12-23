@@ -35,11 +35,6 @@ height = ""
   cta_icon_pack = "fas"
   cta_icon = "book"
 
-  cta_label = "Conseguir el libro"
-  cta_url = "https://www.plataformaeditorial.com/libro/9910-ecomitos"
-  cta_icon_pack = "fas"
-  cta_icon = "book"
-
 [[item]]
  # title = "Left"
  # content = "I am left aligned :smile:"
