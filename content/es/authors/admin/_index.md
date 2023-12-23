@@ -58,4 +58,4 @@ Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la 
 Acaba de publicar su primer libro para un público general: [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos) y publica regularmente columnas científicas en medios de prestigio internacional entre los que se encuentran [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095). También coordina la [Unidad Mixta de Investigación](https://jru.agrotecnio.ctfc.cat) entre el Centro Tecnológico Forestal de Cataluña y Agrotectnio.
 
- <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos.jpg" width=30%/></a>
+ <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_02.png" width=30%/></a>
