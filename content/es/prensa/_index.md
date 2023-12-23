@@ -61,7 +61,8 @@ subtitle = ""
 
 
 </body>
-
+ <img style="max-width: 10%;" src="/img/Ecomitos.jpg">
+      <br />
 ![Ecomitos](/img/Ecomitos.png)
 
 <p> <font color= "brown"> 2023 </font> </p>		
