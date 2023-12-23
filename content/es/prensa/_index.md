@@ -60,7 +60,7 @@ subtitle = ""
 
 [Ecomitos: Los bulos que agravan la crisis ambiental global](https://www.plataformaeditorial.com/libro/9910-ecomitos)
  
- <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos.jpg" style="max-width: 30%/></a>
+ <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos.jpg" width=30%/></a>
  
  <img style="max-width: 30%;" src="/img/Ecomitos.jpg">
   
