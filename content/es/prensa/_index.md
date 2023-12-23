@@ -53,7 +53,12 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Divulgación científica</h1></font>
 
-<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
+<a href="#libros">Libros</a> |<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
+
+<div class="libros" id="Libros">
+ <img style="max-width: 30%;" src="/img/Ecomitos.jpg">
+  
+</div>
 
 <div class="main" id="prensa">
 <font color= "green">  <h2>Columnas</h2></font>
@@ -61,8 +66,6 @@ subtitle = ""
 
 
 </body>
- <img style="max-width: 30%;" src="/img/Ecomitos.jpg">
-      <br />
 
 
 <p> <font color= "brown"> 2023 </font> </p>		
