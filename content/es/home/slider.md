@@ -36,9 +36,9 @@ height = ""
   cta_icon = "book"
 
 [[item]]
- title = "Qué es el "Piroceno:""
- content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control"
- align = "left"
+ # title = "Qué es el "Piroceno:""
+ # content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control"
+ # align = "left"
 
   overlay_color = "#555"  # An HTML color value.
   overlay_img = "BBC.jpg"  # Image path relative to your `static/img/` folder.
@@ -50,16 +50,11 @@ height = ""
   cta_icon = "newspaper"
 
 [[item]]
-  title = "Guerra nuclear"
-  content = "y sus catastróficas consecuenciaspara el clima"
-  align = "right"
+  #title = "Right"
+  #content = "I am right aligned :smile:"
+  #align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "nuclear.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-  
-  cta_label = "Artículo en National Geographic"
-  cta_url = "https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999"
-  cta_icon_pack = "fas"
-  cta_icon = "newspaper"
 +++
