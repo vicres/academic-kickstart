@@ -11,7 +11,7 @@
   weight = 10
 
 [[main]]
-  name = "New Book!"
+  name = "Books"
   url = "#featured"
   weight = 20
 
