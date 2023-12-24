@@ -53,7 +53,7 @@ height = ""
 [[item]]
   title = "Una guerra nuclear"
   content = " también tendría consecuencias catastróficas para el clima"
-  align = "right"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "nuclear.jpg"  # Image path relative to your `static/img/` folder.
