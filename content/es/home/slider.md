@@ -51,13 +51,16 @@ height = ""
   cta_icon = "newspaper"
 
 [[item]]
-  #title = "Right"
-  #content = "I am right aligned :smile:"
+  #title = "Una guerra nuclear"
+  #content = " también tendría consecuencias catastróficas para el clima"
   #align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  
+  cta_label = "Artículo en National Geographic"
+  cta_url = "https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999"
+  cta_icon_pack = "fas"
+  cta_icon = "newspaper"
 +++
