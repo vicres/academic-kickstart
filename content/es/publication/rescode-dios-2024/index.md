@@ -9,7 +9,7 @@ abstract: "Nuestro planeta muestra un claro deterioro ambiental: cambio climáti
 featured: true
 publication: "*Plataforma Actual*"
 url_pdf: "https://www.plataformaeditorial.com/libro/9910-ecomitos"
-doi: "https://www.plataformaeditorial.com/libro/9910-ecomitos"
+#doi: "https://www.plataformaeditorial.com/libro/9910-ecomitos"
 image:
   placement: 
   caption: ''
