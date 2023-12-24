@@ -50,16 +50,16 @@ height = ""
   cta_icon = "newspaper"
 
 [[item]]
-  title = "Guerra nuclear"
-  content = "y sus catastróficas consecuencias para el clima"
-  align = "right"
+  #title = "Guerra nuclear"
+  #content = "y sus catastróficas consecuencias para el clima"
+  #align = "right"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "nuclear.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Artículo en National Geographic"
-  cta_url = "https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999"
-  cta_icon_pack = "fas"
-  cta_icon = "newspaper"
+  #cta_label = "Artículo en National Geographic"
+  #cta_url = "https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999"
+  #cta_icon_pack = "fas"
+  #cta_icon = "newspaper"
 +++
