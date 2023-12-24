@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Ecomitos: Los bulos ecológicos que agravan la crisis ambiental global"
-  content = "¿Cuánto de lo que hacemos en nombre de la ecología sirve de algo? Ecomitos, el primer libro de divulgación del profesor Víctor Resco, es un libro para reflexionar y descubrir la verdadera forma de ayudar al planeta."
+  content = "¿Cuánto de lo que hacemos en nombre de la ecología sirve de algo? Ecomitos es un libro para reflexionar y descubrir la verdadera forma de ayudar al planeta."
   align = "center"  # Choose `center`, `left`, or `right`.
   color= "#131212"
 
