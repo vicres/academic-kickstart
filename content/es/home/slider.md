@@ -52,7 +52,7 @@ height = ""
 
 [[item]]
   title = "Una guerra nuclear"
-  content = " también tendría consecuencias catastróficas para el clima"
+  content = " también tendría consecuencias catastróficas para el clima y la producción de alimentos"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
