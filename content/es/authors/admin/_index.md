@@ -56,13 +56,13 @@ Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de l
 
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida, y uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo.
 
-Escribe regularmente columnas científicas que han sido publicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
+Escribe regularmente columnas científicas republicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), 
-y es consultado habitualmente, sobre cuestiones relativas a los impactos del cambio climático, por medios nacionales e internacionales entre los que se incluyen el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
+y es consultado habitualmente, sobre cuestiones relativas a los impactos del cambio climático, por medios nacionales e internacionales incluyendo el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
 [Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/), o 
 [POLITICO](https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/).
 
-Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
+En 2024 publica [Ecomitos: los bulos ecológicos que agravan la crisis ambiental](https://www.plataformaeditorial.com/libro/9910-ecomitos), su primer libro para un público general. También ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
 Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en la Western Sydney University (Australia) y la Southwest University of Science and Technology (China). 
 
 [Aquí](https://www.rescodedios.com/es/prensa/) encontrará su actividad divulgadora y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
