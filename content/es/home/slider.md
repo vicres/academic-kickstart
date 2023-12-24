@@ -36,7 +36,7 @@ height = ""
   cta_icon = "book"
 
 [[item]]
- title = "Qué es el "Piroceno:""
+ title = "Qué es el "Piroceno:"
  content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control"
  align = "left"
 
@@ -57,4 +57,6 @@ height = ""
   overlay_color = "#333"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  
 +++
