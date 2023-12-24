@@ -59,9 +59,12 @@ subtitle = ""
 <font color= "green">  <h2>Libros</h2></font>
 
 <font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental  </h3></font> 
+
+Disponible a partir del 10 de enero (aunque ya se puede reservar a través de las grandes plataformas y de su librería de proximidad).
+
  <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=100%/></a>
 
-El libro se podrá adquirir a partir del 10 de enero, aunque ya se puede reservar a través de las grandes plataformas y de su librería de proximidad.
+
 
   
 </div>
