@@ -36,8 +36,8 @@ height = ""
   cta_icon = "book"
 
 [[item]]
-  title = "Ecomitos: Los bulos ecológicos que agravan la crisis ambiental global"
-  content = "¿Cuánto de lo que hacemos en nombre de la ecología sirve de algo? Ecomitos, el primer libro de divulgación del profesor Víctor Resco, es un libro para reflexionar y descubrir la verdadera forma de ayudar al planeta."
+  title = "Qué es el Piroceno:"
+  content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control."
   align = "center"  # Choose `center`, `left`, or `right`.
   color= "#131212"
 
