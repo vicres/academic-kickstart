@@ -56,7 +56,7 @@ Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de l
 
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida, y uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo.
 
-Escribe regularmente columnas científicas republicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
+Escribe regularmente columnas científicas que han aparecido en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), 
 y es consultado habitualmente, sobre cuestiones relativas a los impactos del cambio climático, por medios nacionales e internacionales incluyendo el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
 [Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/), o 
