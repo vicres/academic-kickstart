@@ -54,15 +54,17 @@ user_groups:
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
 
-Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y uno de los científicos 
-[más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo. 
-Ha sido profesor en distintas universidades de Australia y China, y también coordina la [Unidad Mixta de Investigación](https://jru.agrotecnio.ctfc.cat) entre el Centro Tecnológico Forestal de Cataluña y Agrotectnio.
+Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida, y antes lo fue en diferentes universidades australianas, chinas y norteamericanas. 
+Actualmente es uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo en los campos de la biología y ciencias ambientales, y coordina la Unidad Mixta de Investigación entre el Centro de Ciencia y Tecnología Forestal de Cataluña y Agrotecnio.
 
 Escribe regularmente columnas científicas que han sido publicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
-[National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095).
-Su investigación ha tenido una amplia repercusión mediática, en medios nacionales  es entrevistado frecuentemente por diversos medios de comunicación nacionales e internacionales, incluyendo el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
+[National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), 
+y es habitualmente consultado sobre cuestiones relativas a los impactos del cambio climático por diversos medios de nacionales e internacionales entre los que se incluyen el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
 [Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/), o 
-[POLITICO](https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/), sobre cuestiones relativas a los impactos del cambio climático.
+[POLITICO](https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/).
+
+Ha escrito un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3) y más de 100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/). 
+Coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en la Western Sydney University (Australia) y la Southwest University of Science and Technology (China). 
 
 [Aquí](https://www.rescodedios.com/es/prensa/) encontrará su actividad divulgadora y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
  
