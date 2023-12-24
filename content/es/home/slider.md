@@ -36,7 +36,7 @@ height = ""
   cta_icon = "book"
 
 [[item]]
- title = "Qué es el "Piroceno:""
+ title = "Qué es el "Piroceno:"
  content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control"
  align = "left"
 
@@ -51,7 +51,7 @@ height = ""
 
 [[item]]
   title = "Guerra nuclear"
-  content = "y sus catastróficas consecuenciaspara el clima"
+  content = "y sus catastróficas consecuencias para el clima"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
