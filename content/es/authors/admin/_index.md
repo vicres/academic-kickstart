@@ -54,8 +54,7 @@ user_groups:
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
 
-Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida, y antes lo fue en diferentes universidades australianas, chinas y norteamericanas. 
-Actualmente es uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo en los campos de la biología y ciencias ambientales, y coordina la Unidad Mixta de Investigación entre el Centro de Ciencia y Tecnología Forestal de Cataluña y Agrotecnio.
+Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida, y uno de los científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo.
 
 Escribe regularmente columnas científicas que han sido publicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), 
