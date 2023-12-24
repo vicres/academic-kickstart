@@ -36,13 +36,18 @@ height = ""
   cta_icon = "book"
 
 [[item]]
- # title = "Left"
- # content = "I am left aligned :smile:"
+ # title = "Qué es el "Piroceno:""
+ # content = "la Edad de Fuego en la que vivimos, y cómo evitar que se siga saliendo de control"
  # align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "BBC.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  
+  cta_label = "Artículo en BBC Mundo"
+  cta_url = "https://www.bbc.com/mundo/articles/c89584wljzlo"
+  cta_icon_pack = "fas"
+  cta_icon = "newspaper"
 
 [[item]]
   #title = "Right"
