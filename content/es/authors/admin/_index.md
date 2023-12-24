@@ -58,7 +58,7 @@ Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la 
 
 Escribe regularmente columnas científicas que han sido publicadas en medios como [BBC Mundo](https://www.bbc.com/mundo/articles/c89584wljzlo) o 
 [National Geographic](https://www.nationalgeographic.com.es/naturaleza/australia-llamas-catastrofe-para-salud-economia-y-biodiversidad_15095), 
-y es habitualmente consultado sobre cuestiones relativas a los impactos del cambio climático por diversos medios de nacionales e internacionales entre los que se incluyen el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
+y es consultado habitualmente, sobre cuestiones relativas a los impactos del cambio climático, por medios nacionales e internacionales entre los que se incluyen el [Washington Post](https://www.washingtonpost.com/world/2023/03/01/france-wildfire-zombie-fire-drought-mine/), 
 [Reuters](https://www.reuters.com/business/environment/how-climate-change-drives-heatwaves-wildfires-europe-2023-08-17/), o 
 [POLITICO](https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/).
 
