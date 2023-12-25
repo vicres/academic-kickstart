@@ -45,7 +45,7 @@ height = ""
   overlay_img = "BBC.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Artículo en BBC Mundo"
+  cta_label = "Leer el artículo en BBC Mundo"
   cta_url = "https://www.bbc.com/mundo/articles/c89584wljzlo"
   cta_icon_pack = "fas"
   cta_icon = "newspaper"
@@ -59,7 +59,7 @@ height = ""
   overlay_img = "nuclear.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
   
-  cta_label = "Artículo en National Geographic"
+  cta_label = "Leer el artículo en National Geographic"
   cta_url = "https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999"
   cta_icon_pack = "fas"
   cta_icon = "newspaper"
