@@ -1,6 +1,6 @@
 ---
-title: Flowdash-Bio
-summary: Workflow dashboard for bioinformatics.
+title: Ecofisiología
+summary: Las plantas, como nosotros, tienen un reloj circadiano. Estudiamos 
 tags:
   - NGS
   - Database
