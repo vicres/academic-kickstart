@@ -21,21 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  [[content.filter_button]]
-     name = "Todos"
-     tag = "*"
+  #[[content.filter_button]]
+   #  name = "Todos"
+    # tag = "*"
 
-  [[content.filter_button]]
-     name = "Emisiones CO2"
-     tag = "Carbono"
+#  [[content.filter_button]]
+#     name = "Emisiones CO2"
+#     tag = "Carbono"
 
-  [[content.filter_button]]
-     name = "Megaincendios"
-     tag = "Megaincendios"
+#  [[content.filter_button]]
+#     name = "Megaincendios"
+#     tag = "Megaincendios"
 
-  [[content.filter_button]]
-     name = "Contaminación"
-     tag = "Contaminación"
+ # [[content.filter_button]]
+  #   name = "Contamina"
+   #  tag = "Contamina"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
