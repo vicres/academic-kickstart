@@ -1,5 +1,5 @@
 ---
-title: Ciclo del Carbono
+title: CO2
 summary: Los bosques mitigan el cambio climático porque almacenan el 30% de las emisiones de gases con efecto invernadero pero, ¿durante cuánto tiempo?
 tags:
   - CO2
