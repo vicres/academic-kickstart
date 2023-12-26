@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-     name = "All"
+     name = "Todos"
      tag = "*"
 
   [[content.filter_button]]
-     name = "Database"
-     tag = "Database"
+     name = "Ciclo del Carbono"
+     tag = "Carbono"
 
   [[content.filter_button]]
      name = "NGS"

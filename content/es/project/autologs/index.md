@@ -1,11 +1,11 @@
 ---
-title: Autologs
-summary: Automatically create release notes and a changelog.
+title: Ciclo de carbono
+summary: Portada Science 2022: como el cambio climático acelerará la descomposición al aumentar la actividad de las termitas.
 tags:
-  - Software Development
-  - Github
+  - Carbono
+
 date: "2021-02-18"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://ktmeaton.github.io/autologs/
+external_link: https://www.science.org/doi/10.1126/science.abo3856
 ---
