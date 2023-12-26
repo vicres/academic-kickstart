@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-     name = "All"
+     name = "Todos"
      tag = "*"
 
   [[content.filter_button]]
@@ -82,3 +82,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+[Ver todos mis artículos científicos]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
