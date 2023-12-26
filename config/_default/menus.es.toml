@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Ciencia"
-  url = "#publications"
+  url = "#projects"
   weight = 30
 
 #[[main]]
