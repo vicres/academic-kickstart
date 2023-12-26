@@ -1,6 +1,6 @@
 ---
 title: Contaminación
-summary: Mantenemos una línea de trabajo sobre el uso de microbios para eliminar la contaminación (biorremediación). Por ejemplo, hemos desarrollado un nuevo método para deshacerse del chapapote en las playas, a través de la biorremediación con hongos.
+summary: Los microbios pueden ayudarnos a eliminar la contaminación  a través de la biorremediación. Por ejemplo, hemos desarrollado un nuevo método para deshacerse del chapapote en las playas, a través de la biorremediación con hongos.
 tags:
   - Contaminación
 
