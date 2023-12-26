@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
 
   [[content.filter_button]]
-     name = "Ciclo del Carbono"
+     name = "Emisiones CO2"
      tag = "Carbono"
 
   [[content.filter_button]]

@@ -1,9 +1,9 @@
 ---
 title: Ciclo de carbono
-summary: El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada Science 2023)
+summary: El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada <i>Science</i> 2023)
 tags:
-  - Software Development
-  - Github
+  - Carbono
+
 date: "2021-02-18"
 
 # Optional external URL for project (replaces project detail page).
