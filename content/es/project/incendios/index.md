@@ -1,6 +1,6 @@
 ---
 title: Megaincendios
-summary: Una de nuestras principales líneas de trabajo está en explorar las causas y loa impactos de los megaincendios, así como su prevención y predicción.
+summary: Una de nuestras principales líneas de trabajo está en explorar las causas y los impactos de los megaincendios, así como su prevención y predicción.
 tags:
   - Megaincendios
 
