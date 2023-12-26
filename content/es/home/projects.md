@@ -30,8 +30,8 @@ subtitle = ""
      tag = "CO2"
 
   [[content.filter_button]]
-     name = "Megaincendios"
-     tag = "Megaincendios"
+     name = "NGS"
+     tag = "NGS"
 
   [[content.filter_button]]
      name = "Github"

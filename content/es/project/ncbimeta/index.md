@@ -1,8 +1,8 @@
 ---
-title: Megaincendios
-summary: Megaincendios forestales: causas, impactos, prevención y predicción
+title: NCBImeta
+summary: Efficient and comprehensive metadata acquisition from the NCBI databases.
 tags:
-  - Megaincendios
+  - Genomics
   - Database
 date: "2020-06-04"
 
