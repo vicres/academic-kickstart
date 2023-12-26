@@ -1,6 +1,6 @@
 ---
-title: Ecofisiología
-summary: Las plantas, como nosotros, tienen un reloj circadiano. Estudiamos cómo este mecanismo permite a las plantas adaptarse a los ciclos diurnos y estacionales. Hemos descrito como el reloj circadiano sincroniza el metabolismo de bosques enteros a escala global.
+title: Muerte de los bosques
+summary: A medida que avanza el cambio climático, estamos viendo una mortalidad cada vez mayor en nuestros bosques. Estudiamos los mecanismos fisiológicos detrás de este proceso, y cómo mitigarlo a través de la gestión forestal.
 tags:
   - Botánica
   - Database
