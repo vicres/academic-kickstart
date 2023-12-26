@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Líneas de investigación"
+title = "Projects"
 subtitle = ""
 
 [content]
@@ -21,22 +21,21 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-
   [[content.filter_button]]
-     name = "Todos"
+     name = "All"
      tag = "*"
 
   [[content.filter_button]]
-     name = "Emisiones CO2"
-     tag = "Carbono"
+     name = "Database"
+     tag = "Database"
 
   [[content.filter_button]]
-     name = "Megaincendios"
-     tag = "Megaincendios"
+     name = "NGS"
+     tag = "NGS"
 
   [[content.filter_button]]
-     name = "Contamina"
-     tag = "Contamina"
+     name = "Github"
+     tag = "Github"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -79,7 +78,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-[Ver todos mis artículos científicos]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
