@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
 
   [[content.filter_button]]
-     name = "Database"
-     tag = "Database"
+     name = "CO2"
+     tag = "CO2"
 
   [[content.filter_button]]
      name = "NGS"
