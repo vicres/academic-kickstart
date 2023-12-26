@@ -1,11 +1,12 @@
 ---
-title: Ciclo de carbono
-summary: El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada <i>Science</i> 2023)
+title: Plague
+summary: Global spread and evolution of the plague bacterium, Yersinia pestis.
 tags:
-  - Carbono
-
-date: "2021-02-18"
+  - Genomics
+  - Database
+  - Plague
+date: "2020-06-04"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.science.org/doi/10.1126/science.abo3856
+external_link: https://ktmeaton.github.io/plague-phylogeography/
 ---
