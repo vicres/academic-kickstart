@@ -30,12 +30,12 @@ subtitle = ""
      tag = "Carbono"
 
   [[content.filter_button]]
-     name = "NGS"
-     tag = "NGS"
+     name = "Megaincendios"
+     tag = "Megaincendios"
 
   [[content.filter_button]]
-     name = "Github"
-     tag = "Github"
+     name = "Contaminación"
+     tag = "Contaminación"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
