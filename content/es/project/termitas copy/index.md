@@ -1,6 +1,6 @@
 ---
-title: Megancendios
-summary: Megaincendios: causas, impactos, prevención y predicción
+title: Incendios
+summary: El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada <i>Science</i> 2023)
 tags:
   - Megaincendios
 
