@@ -26,7 +26,7 @@ role: Profesor de Ingeniería Forestal
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: 'mailto:victor.resco@udl.cat' 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rescodedios
