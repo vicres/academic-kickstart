@@ -1,6 +1,6 @@
 ---
 title: Ciclo de carbono
-summary: El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada <i>Science</i> 2023)
+summary:El cambio climático aumentará la distribución de las termitas, lo que catalizará aumentos en las emisiones (portada <i>Science</i> 2023)
 tags:
   - Carbono
 
