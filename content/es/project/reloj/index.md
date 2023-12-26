@@ -1,5 +1,5 @@
 ---
-title: Polución
+title: Ritmos circadianos
 summary: Las plantas, como nosotros, cuentan con un reloj circadiano. Estudiamos cómo este mecanismo permite a las plantas adaptarse a los ciclos diurnos y estacionales. Hemos descrito como el reloj circadiano sincroniza el metabolismo de bosques enteros a escala global.
 tags:
   - Botánica
