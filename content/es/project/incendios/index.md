@@ -1,6 +1,6 @@
 ---
 title: Megaincendios
-summary: Los incendios representan un riesgo creciente a nivel de salud pública y protección civil. Investigamos las causas y los impactos de los megaincendios, así como su prevención y predicción.
+summary: Los incendios representan un riesgo creciente a nivel de salud pública y protección civil. Estamos desarrollando nuevos métodos para su prevención y predicción.
 tags:
   - Megaincendios
 

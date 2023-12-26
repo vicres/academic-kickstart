@@ -34,12 +34,12 @@ subtitle = ""
      tag = "Incendios"
 
   [[content.filter_button]]
-     name = "Contaminación"
-     tag = "Contaminación"
+     name = "Polución"
+     tag = "Polución"
 
   [[content.filter_button]]
-     name = "Fisiología vegetal"
-     tag = "Fisiología vegetal"
+     name = "Botánica"
+     tag = "Botánica"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
