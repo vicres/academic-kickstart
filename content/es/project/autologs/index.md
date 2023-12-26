@@ -1,9 +1,9 @@
 ---
-title: Autologs
+title: Ciclo del Carbono
 summary: Automatically create release notes and a changelog.
 tags:
-  - Software Development
-  - Github
+  - Carbono
+  - Emisiones
 date: "2021-02-18"
 
 # Optional external URL for project (replaces project detail page).
