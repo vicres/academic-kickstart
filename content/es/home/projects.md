@@ -30,8 +30,8 @@ subtitle = ""
      tag = "CO2"
 
   [[content.filter_button]]
-     name = "Incendios"
-     tag = "Incendios"
+     name = "Megaincendios"
+     tag = "Megaincendios"
 
   [[content.filter_button]]
      name = "Contaminación"
