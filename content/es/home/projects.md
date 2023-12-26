@@ -50,7 +50,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
@@ -61,8 +61,8 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
-  Background color.
-  color = "navy"
+  # Background color.
+  # color = "navy"
 
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
