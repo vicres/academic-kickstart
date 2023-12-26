@@ -7,5 +7,5 @@ tags:
 date: "2024-02-18"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://ktmeaton.github.io/flowdash-bio/
+external_link: https://onlinelibrary.wiley.com/doi/10.1111/pce.14639
 ---
