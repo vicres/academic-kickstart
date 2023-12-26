@@ -1,6 +1,6 @@
 ---
-title: NCBImeta
-summary: Efficient and comprehensive metadata acquisition from the NCBI databases.
+title: Megaincendios
+summary: Megaincendios: causas, impactos, prevención y predicción.
 tags:
   - Genomics
   - Database
