@@ -1,7 +1,7 @@
 ---
 title: "ECOMITOS: Los bulos ambientales que agravan la crisis ambiental global"
 date: 2023-12-25
-publishDate: 2024-01-10T15:13:02.528610Z
+publishDate: 2023-12-10T15:13:02.528610Z
 authors: 
 - admin
 publication_types: ["5"]
