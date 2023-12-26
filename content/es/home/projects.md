@@ -79,6 +79,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-[Ver todos mis artículos científicos]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
