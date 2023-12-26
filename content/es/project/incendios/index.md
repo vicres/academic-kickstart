@@ -1,6 +1,6 @@
 ---
 title: Hola
-summary: Megaincendios: causas, impactos, prevención y predicción.
+summary: Megaincendios causas, impactos, prevención y predicción.
 tags:
   - Genomics
   - Database
