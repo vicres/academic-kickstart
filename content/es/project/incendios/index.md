@@ -1,10 +1,10 @@
 ---
-title: Hola
-summary: Megaincendios causas, impactos, prevención y predicción.
+title: Megaincendios
+summary: Una de nuestras principales líneas de trabajo está en explorar las causas y loa impactos de los megaincendios, así como su prevención y predicción.
 tags:
-  - Genomics
-  - Database
-date: "2020-06-04"
+  - Megaincendios
+
+date: "2023-12-26"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.sciencedirect.com/science/article/abs/pii/S0048969722074204?via%3Dihub
