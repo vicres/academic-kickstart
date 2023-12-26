@@ -34,8 +34,8 @@ subtitle = ""
      tag = "Incendios"
 
   [[content.filter_button]]
-     name = "Polución"
-     tag = "Polución"
+     name = "Contaminación"
+     tag = "Contaminación"
 
   [[content.filter_button]]
      name = "Botánica"
