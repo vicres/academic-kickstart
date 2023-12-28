@@ -79,6 +79,11 @@ Disponible a partir del 10 de enero:
 
 <p> <font color= "brown"> 2023 </font> </p>		
 
+
+<p><i>¿Son compatibles la explotación y la conservación de la naturaleza? Un debate con 175 años de historia</i>  <br>
+<a href="https://www.elperiodico.com/es/sociedad/20231228/son-compatibles-explotacion-conservacion-naturaleza-96325783"> El Periódico </a>
+</p>
+
 <p><i>La cumbre del clima y el “acuerdo histórico” de Dubái</i>  <br>
 <a href="https://es.e-noticies.cat/opinion/cumbre-del-clima-y-acuerdo-historico-dubai"> e-Notícies </a>
 </p>
