@@ -1,6 +1,6 @@
 ---
 title: Bosques 
-summary: A medida que avanza el cambio climático, observamos una mortalidad creciente en nuestros bosques. Estudiamos los mecanismos fisiológicos detrás de este proceso, y cómo mitigarlo a través de la gestión forestal.
+summary: A medida que avanza el cambio climático, observamos una mortalidad creciente en nuestros bosques. Estudiamos los mecanismos fisiológicos detrás de este proceso, y su mitigación a través de la gestión forestal.
 tags:
   - Botánica
 
