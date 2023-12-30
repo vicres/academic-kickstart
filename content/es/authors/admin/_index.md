@@ -67,5 +67,5 @@ También coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Catal
 [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en Western Sydney University 
 (Australia) y en Southwest University of Science and Technology (China). 
 
-[Aquí](/prensa/) encontrará su actividad divulgadora, [aquí](#projects) sus líneas de investigación y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
+[Aquí](https://www.rescodedios.com/es/prensa/) encontrará su actividad divulgadora, [aquí](#projects) sus líneas de investigación y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
  
