@@ -2,7 +2,7 @@
 title: Ritmos circadianos
 summary: Las plantas, al igual que nosotros, cuentan con un reloj circadiano. Estudiamos cómo este mecanismo les permite anticiparse y adaptarse a los ciclos diurnos y estacionales. Hemos descrito, por ejemplo, como el reloj circadiano sincroniza el metabolismo de bosques enteros.
 tags:
-  - Ecología
+  - Ecología 
 
 date: "2021-02-18"
 
