@@ -22,7 +22,7 @@ subtitle = ""
   filter_default = 0
 
   [[content.filter_button]]
-     name = "Todos"
+     name = "Todas"
      tag = "*"
 
   [[content.filter_button]]
@@ -38,8 +38,8 @@ subtitle = ""
      tag = "Contaminación"
 
   [[content.filter_button]]
-     name = "Botánica"
-     tag = "Botánica"
+     name = "Ecología"
+     tag = "Ecología"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
