@@ -60,8 +60,6 @@ subtitle = ""
 
 <font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental  </h3></font> 
 
-Disponible a partir del 10 de enero:
-
  <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=100%/></a>
 
 
@@ -102,7 +100,7 @@ Disponible a partir del 10 de enero:
 
 <p><i>Piroceno: nos adentramos en la Edad del Fuego</i>  <br>
 <a href="https://theconversation.com/piroceno-nos-adentramos-en-la-edad-del-fuego-211450"> The Conversation </a> | 
-<a href="https://www.bbc.com/portuguese/articles/cv21m0xz8yvo.amp"> BBC  </a> | 
+<a href="https://www.bbc.com/mundo/articles/c89584wljzlo"> BBC Mundo </a> | 
 <a href="https://www.elperiodico.com/es/sociedad/20230817/piroceno-adentramos-edad-fuego-91050927"> El Periódico </a> | 
 <a href="https://www.climatica.lamarea.com/piroceno-edad-fuego-incendios-forestales/"> Climática - La Marea </a> | 
 <a href="https://www.elfinanciero.com.mx/ciencia/2023/08/16/llegamos-a-la-edad-del-fuego-incendios-forestales-sin-control-cambiarian-el-ambiente/"> El Financiero (México) </a> 
