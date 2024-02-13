@@ -69,4 +69,4 @@ También coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Catal
 
 [Aquí](https://www.rescodedios.com/es/prensa/) encontrará su actividad divulgadora, [aquí](#projects) sus líneas de investigación y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
  
- <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=10%/></a>  <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=10%/></a>
+# <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=10%/></a>  <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=10%/></a>
