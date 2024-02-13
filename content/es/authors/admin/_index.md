@@ -57,8 +57,9 @@ Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de l
 Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y escribe regularmente 
 columnas científicas que han aparecido en medios como [BBC Mundo](https://www.bbc.com/mundo/noticias-50460981), entre otros. 
 
-Ha publicado un libro sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3), más de 
-100 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/), y es uno de los 
+En 2024 publica [Ecomitos](https://www.plataformaeditorial.com/libro/9910-ecomitos), su primer libro destinado a público general, sobre los bulos ecológicos que agravan la crisis ambiental global. También ha escrito un libro técnico 
+sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41192-3), más de 
+150 [artículos en revistas científicas](https://www.rescodedios.com/es/publication/), y es uno de los 
 científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo en los campos de la biología y 
 las ciencias ambientales. 
 
