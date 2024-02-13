@@ -1,0 +1,12 @@
+---
+title: "Physiological drought responses improve predictions of live fuel moisture dynamics in a Mediterranean forest"
+date: 2018-12-01
+publishDate: 2020-05-23T08:50:20.391084Z
+authors: ["Rachael H. Nolan", "Javier Hedo", "Caries Arteaga", "Tetsuto Sugai", "Victor Resco de Dios"]
+publication_types: ["2"]
+abstract: "The moisture content of live fuels is an important determinant of forest flammability. Current approaches for modelling live fuel moisture content typically focus on the use of drought indices. However, these have mixed success partly because of species-specific differences in drought responses. Here we seek to understand the physiological mechanisms driving changes in live fuel moisture content, and to investigate the potential for incorporating plant physiological traits into live fuel moisture models. We measured the dynamics of leaf moisture content, access to water resources (through stable isotope analyses) and physiological traits (including leaf water potential, stomatal conductance, and cellular osmotic and elastic adjustments) across a fire season in a Mediterranean mixed forest in Catalonia, NE Spain. We found that differences in both seasonal variation and minimum values of live fuel moisture content were a function of access to water resources and plant physiological traits. Specifically, those species with the lowest minimum moisture content and largest seasonal variation in moisture (Cistus albidus: 49-137% and Rognarinus officinalis: 47-144%) were most reliant on shallow soil water and had the lowest values of predawn leaf water potential. Species with the smallest variation in live fuel moisture content (Pinus nigra: 96-116% and Quercus ilex: 56-91%) exhibited isohydric behaviour (little variation in midday leaf water potential, and relatively tight regulation of stomata in response to soil drying). Of the traits measured, predawn leaf water potential provided the strongest predictor of live fuel moisture content (R-2 = 0.63, AIC = 249), outperforming two commonly used drought indices (both with R-2 = 0.49, AIC = 258). This is the first study to explicitly link fuel moisture with plant physiology and our findings demonstrate the potential and importance of incorporating ecophysiological plant traits to investigating seasonal changes in fuel moisture and, more broadly, forest flammability."
+featured: false
+publication: "*AGRICULTURAL AND FOREST METEOROLOGY*"
+doi: "10.1016/j.agrformet.2018.09.011"
+---
+
