@@ -8,15 +8,16 @@
   url = "#slider"
   weight = 10
 
-[[main]]
-  name = "Medios"
- url = "#media"
- weight = 10
 
 [[main]]
   name = "Libros"
   url = "#featured"
   weight = 20
+
+[[main]]
+  name = "Medios"
+ url = "#media"
+ weight = 10
 
 [[main]]
   name = "Ciencia"
