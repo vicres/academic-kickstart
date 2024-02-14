@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Tal vez me hayas visto en..."
+title = "En los medios..."
 subtitle = ""
 
 [content]
@@ -68,3 +68,6 @@ subtitle = ""
  css_class = ""
 +++
 
+{{% alert note %}}
+[Ver todos mis apariciones en medios aquí ->]({{< ref "/prensa/_index.md" >}})
+{{% /alert %}}
