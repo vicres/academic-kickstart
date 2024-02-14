@@ -8,10 +8,10 @@
   url = "#slider"
   weight = 10
 
-[[main]]
-  name = "Medios"
- url = "#media"
- weight = 10
+#[[main]]
+#  name = "Medios"
+# url = "#media"
+# weight = 10
 
 [[main]]
   name = "Libros"

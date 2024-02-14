@@ -453,7 +453,7 @@ subtitle = ""
 <a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-19072022-Parte-2-2-2470272987--20220719062333.html"> 120 minutos</a>  (a partir del minuto 13)</p>
 
 <p><em> Entrevista en TV3 (16/06/2022)</em><br>
-<a href="https://www.ccma.cat/tv3/alacarta/planta-baixa/victor-resco-no-tenim-massa-boscos-tenim-massa-arbres-a-dins-i-per-aixo-hem-de-fomentar-ne-la-gestio/video/6164259/?ext=SMA_TW_F4_CE24_">Plant Baixa</a> </p>
+<a href="https://www.ccma.cat/tv3/alacarta/planta-baixa/victor-resco-no-tenim-massa-boscos-tenim-massa-arbres-a-dins-i-per-aixo-hem-de-fomentar-ne-la-gestio/video/6164259/?ext=SMA_TW_F4_CE24_">Planta Baixa</a> </p>
 
 <p><em> Declaraciones en RTVE (13/09/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
@@ -619,8 +619,6 @@ subtitle = ""
 
 <p><i>La surrealista experiencia de un español en Bruselas explica todo lo que falla en política (16/11/2023)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2023-11-16/agenda-politica-ciencia-bruselas-experiencia_3774051/">Entrevista para El Confidencial</a></p>
-
-ttps://www.elconfidencial.com/tecnologia/ciencia/2023-11-16/agenda-politica-ciencia-bruselas-experiencia_3774051/
 
 <p><i>"Europe’s largest fire on record sparks hunt for scapegoats in Greece" (29/08/2023)</i> <br>
 <a href="https://www.politico.eu/article/europe-largest-fire-record-hunt-scapegoat-greece/">Declaraciones para POLITICO</a></p>
