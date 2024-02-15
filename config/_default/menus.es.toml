@@ -15,11 +15,6 @@
   weight = 20
 
 [[main]]
-  name = "Medios"
- url = "#media"
- weight = 10
-
-[[main]]
   name = "Ciencia"
   url = "#projects"
   weight = 30
@@ -31,7 +26,7 @@
 
 [[main]]
   name = "Divulgación"
-  url = "/prensa/"
+  url = "#media"
   weight = 50
 
 [[main]]
