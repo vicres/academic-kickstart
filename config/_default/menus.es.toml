@@ -14,10 +14,6 @@
   url = "#featured"
   weight = 20
 
-[[main]]
-  name = "Ciencia"
-  url = "#projects"
-  weight = 30
 
 #[[main]]
 #  name = "Blog"
@@ -28,6 +24,11 @@
   name = "Divulgación"
   url = "#media"
   weight = 50
+
+[[main]]
+  name = "Ciencia"
+  url = "#projects"
+  weight = 30
 
 [[main]]
   name = "Contacto"
