@@ -63,7 +63,7 @@ sobre [incendios forestales](https://link.springer.com/book/10.1007/978-3-030-41
 científicos [más citados](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/6) del mundo en los campos de la biología y 
 las ciencias ambientales. 
 
-También coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio 
+En la actualidad coordina la Unidad Mixta entre el Centro Tecnológico Forestal de Cataluña y Agrotecnio 
 [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en Western Sydney University 
 (Australia) y en Southwest University of Science and Technology (China). 
 
