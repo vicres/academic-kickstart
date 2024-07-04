@@ -75,6 +75,32 @@ subtitle = ""
 </body>
 
 
+<p> <font color= "brown"> 2024 </font> </p>		
+
+<p><i>Día Internacional del Libro: Cuide los bosques mientras lee</i>  <br>
+<a href="https://theconversation.com/cuide-los-bosques-mientras-lee-228450"> The Conversation </a>
+<a href="https://www.ondacero.es/noticias/cultura/dia-internacional-libro-cuide-bosques-mientras-lee_2024042366278fccc0b95c00010fe122.html"> Onda Cero </a>
+</p>
+
+
+<p><i>Cambio climático: los ciudadanos somos más víctimas que culpables</i>  <br>
+<a href="https://theconversation.com/cambio-climatico-los-ciudadanos-somos-mas-victimas-que-culpables-228298?utm_source=twitter&utm_medium=bylinetwitterbutton"> The Conversation </a>
+</p>
+
+
+<p><i>Sequía en Cataluña: más allá del cambio climático y los regadíos (27/02/2024)</i> <br>
+<a href="https://es.e-noticies.cat/opinion/emergencia-hidrica-y-los-nuevos-martires-libertad"> e-notícies </a>
+</p>
+
+
+<p><i>Sequía en Cataluña: más allá del cambio climático y los regadíos (26/02/2024)</i> <br>
+<a href="https://theconversation.com/sequia-en-cataluna-mas-alla-del-cambio-climatico-y-los-regadios-224193"> The Conversation | </a>
+<a href="https://www.ondacero.es/emisoras/catalunya/noticies/sequia-cataluna-mas-alla-cambio-climatico-regadios_2024022765ddbf7082085c00019fc63b.html"> Onda Cero |</a>
+<a href="https://ethic.es/2024/02/emergencia-hidrica-sequia-en-cataluna/?_gl=1*gudhhs*_up*MQ..*_ga*MTEzODMxNjQ4MS4xNzE5OTM5MTk0*_ga_0LL6WCT924*MTcxOTkzOTE5Mi4xLjEuMTcxOTkzOTIwNS4wLjAuODIxNzM2MTc4"> Ethic </a>
+</p>
+
+
+
 <p> <font color= "brown"> 2023 </font> </p>		
 
 
@@ -82,10 +108,17 @@ subtitle = ""
 <a href="https://www.elperiodico.com/es/sociedad/20231228/son-compatibles-explotacion-conservacion-naturaleza-96325783"> El Periódico </a>
 </p>
 
+<p><i>La Ciencia Forestal en 2023 (primera parte)  <br>
+<a href="https://blog.ingenierosdemontes.org/2023/12/la-ciencia-forestal-en-2023-primera-parte/"> Blog del Colegio de Ingenieros de Montes </a>
+</p>
+
 <p><i>La cumbre del clima y el “acuerdo histórico” de Dubái</i>  <br>
 <a href="https://es.e-noticies.cat/opinion/cumbre-del-clima-y-acuerdo-historico-dubai"> e-Notícies </a>
 </p>
 
+<p><i>Mercenarios de la opinión y tertulianos de la necedad: ¿es la radio más creíble que Tik Tok?</i>  <br>
+<a href="https://climatica.coop/mercenarios-de-la-opinion-tus-articulos/"> Climática - La Marea </a>
+</p>
 
 <p><i>Una ley para aniquilar a la naturaleza</i>  <br>
 <a href="https://es.e-noticies.cat/opinion/ley-aniquilar-naturaleza"> e-Notícies </a>
@@ -395,6 +428,12 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
 
+<p><em> Entrevista TV3 (24/03/2024)</em><br>
+<a href="https://www.ccma.cat/3cat/victor-resco-de-dios-ens-han-inculcat-que-els-individus-som-responsables-de-la-crisi-climatica-pero-en-realitat-en-som-victimes/video/6273144/#onboarding=true">  Col·lapse: Ens han inculcat que els individus som responsables de la crisis climàtica  quan en realitat som víctimes</a> </p>
+
+<p><em> Entrevista en RTVE (29/08/2023)</em><br>
+<a href=https://www.rtve.es/play/videos/la-aventura-del-saber/victor-resco-dios-ecomitos/15978176/">  La aventura del saber: Ecomitos, Víctor Resco de Dios </a> </p>
+
 <p><em> Entrevista para Levante TV (29/08/2023)</em><br>
 <a href="https://www.levante-emv.com/videos/levante-tv/2023/08/28/cved-desafios-lucha-incendios-profesor-91439746.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">  Desafíos en lucha contra incendios con el profesor de ingeniería forestal Víctor Resco </a> </p>
 
@@ -511,9 +550,29 @@ subtitle = ""
 <div class="main" id="radio">
 <h3>Radio</h3>
 
+<p><i>   Os bulos ecolóxicos que agravan a crise ambiental (05/06/2024)</i> <br>
+<a href="https://agalegaaudio.gal/videos/detail/148195-os-bulos-ecoloxicos-que-agravan-a-crise-ambiental"> A Tarde (Radio Galega)  </a></p>
+
+<p><i>   Pagar para contaminar: así funcionan los mercados de carbono (11/05/2024)</i> <br>
+<a href="https://cadenaser.com/nacional/2024/05/11/pagar-para-contaminar-asi-funcionan-los-mercados-de-carbono-cadena-ser/"> A vivir (Cadena Ser)  </a></p>
+
+<p><i>   'Ecomitos' - Víctor Resco de Dios (29/04/2024)</i> <br>
+<a href="https://www.lleida24.cat/programes/6/la-placa?podcast=497"> la Plaça (Lleida.24 podcast) </a></p>
+
+<p><i>   'Ecomitos' de Víctor Resco de Dios (20/04/2024)</i> <br>
+<a href="https://www.rtve.es/play/audios/en-un-mundo-feliz-en-r5/mundo-feliz-r5-ecomitos-victor-resco-dios-libros/16064682/"> En un Mundo Feliz (Radio 5) </a></p>
+
+<p><i>   Los ecomitos del científico y divulgador Víctor Resco (1/02/2024)</i> <br>
+<a href="https://www.canalsur.es/rtva/los-ecomitos-del-cientifico-y-divulgador-victor-resco-en-cambio-climatico-de-canal-sur-radio/2008546.html"> Cambio Climático - Canal Sur </a></p>
+
+<p><i>   La Entrevista de Radio 5: Víctor Resco (18/01/2024)</i> <br>
+<a href="https://www.rtve.es/play/audios/la-entrevista-de-radio-5/entrevista-radio-5-victor-resco-18-01-24/15921709/"> Radio 5 </a></p>
+
+<p><i>   El consulado - Víctor Resco - 'Ecomitos' (24/01/2024)</i> <br>
+<a href="https://www.rtve.es/play/audios/gente-despierta/gente-despierta-consulado-victor-resco-ecomitos/15931619/"> Gente Despierta - RNE </a></p>
+
 <p><i>   El concepto 'temporada de incendios' está perdiendo su significado (04/11/2023)</i> <br>
 <a href="https://x.com/radio5_rne/status/1720437293004030419?s=20"> Declaraciones para 14 horas, de RNE  </a></p>
-
 
 <p><i>  Un experto explica en 'La Tarde' cómo se producen los incendios zombi (05/10/2023)</i> <br>
 <a href="https://www.cope.es/programas/la-tarde/noticias/experto-explica-tarde-como-producen-los-incendios-zombi-20231005_2934209"> La Tarde - COPE  </a></p>
@@ -614,8 +673,53 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i>Bienvenidos al Piroceno, la era de los incendios casi inextinguibles (21/06/2024)</i> <br>
+<a href="https://elpais.com/ciencia/2024-06-21/bienvenidos-al-piroceno-la-era-de-los-fuegos-casi-inextinguibles.html?ssm=TW_CC/">Declaraciones para El País</a></p>
+
+<p><i>"Hay mucho bulo medioambiental" (12/05/2024)</i> <br>
+<a href="https://www.lavanguardia.com/lacontra/20240512/9632546/hay-bulo-medioambiental.html"> La Contra de La Vanguardia</a></p>
+
+<p><i>Los falsos mitos que agravan la crisis climática: plantar árboles, reciclar plástico y reducir el consumo de carne no son la solución (10/04/2024)</i> <br>
+<a href="https://www.lavozdegalicia.es/noticia/yes/2024/04/06/falsos-mitos-agravan-crisis-climatica/0003_202404SY6P20991.htm">Entrevista para el Faro de Vigo</a></p>
+
+<p><i>El científico Víctor Resco, sobre la descarbonización: "La energía con una menor ecotoxicidad es la nuclear" (25/02/2024)</i> <br>
+<a href="https://www.elespanol.com/enclave-ods/referentes/20240225/cientifico-victor-resco-descarbonizacion-energia-menor-ecotoxicidad-nuclear/834916987_0.html">Entrevista para El Español</a></p>
+
+<p><i>Ni todo el plástico se recicla ni las reforestaciones son la panacea: los mayores mitos medioambientales, a examen (15/02/2024)</i> <br>
+<a href="https://www.elespanol.com/enclave-ods/historias/20240215/plastico-recicla-reforestaciones-panacea-mayores-mitos-medioambientales-examen/832667051_0.html">Entrevista para El Español</a></p>
+
+<p><i>Víctor Resco (ingeniero de Montes): Los residuos nucleares contaminan menos que los solares (15/01/2024)</i> <br>
+<a href="https://elperiodicodelaenergia.com/victor-resco-ingeniero-montes-residuos-nucleares-contaminan-menos-solares/">Entrevista para El Periódico de la Energía</a></p>
+
+<p><i>   Víctor Resco: «La energía limpia contamina más que la nuclear" (20/01/2024)</i> <br>
+<a href="https://www.diariodeleon.es/monograficos/revista/240120/1506053/victor-resco-energia-limpia-contamina-nuclear.html"> Diario de León </a></p>
+
+<p><i>La UE alerta de que la cuenca mediterránea es un polvorín: "Habrá grandes incendios si no llueve" (16/04/2024)</i> <br>
+<a href="https://www.elespanol.com/ciencia/medio-ambiente/20240416/ue-alerta-cuenca-mediterranea-polvorin-grandes-incendiossinollueve/847915555_0.html"> Declaraciones para El Español.com</a></p>
+
+<p><i>Víctor Resco: "Les solucions a la crisi climàtica tampoc no han de ser a qualsevol preu" (15/04/2024)</i> <br>
+<a href="https://www.segre.com/ca/lectura/entrevista/240415/victor-resco-les-solucions-crisi-climatica-tampoc-han-qualsevol-preu_401608.html"> Entrevista para El Segre</a></p>
+
+<p><i>Víctor Resco, autor de 'Ecomitos': "Los bulos ecológicos agravan la crisis ambiental y se aprovechan de la buena voluntad de la gente"(15/04/2024)</i> <br>
+<a href="https://www.20minutos.es/noticia/5227770/0/entrevista-victor-resco-dios-ecomitos-bulos-ecologia-crisis-climatica-medio-ambiente/?utm_source=twitter.com&utm_medium=socialshare&utm_campaign=mobile_amp"> Entrevista para 20 Minutos</a></p>
+
+<p><i>Víctor Resco de Dios: Los bulos ecológicos agravan la crisis ambiental (08/03/2024)</i> <br>
+<a href="https://www.cambio16.com/victor-resco-de-dios-los-bulos-ecologicos-agravan-la-crisis-ambiental/"> Entrevista para Cambio 16</a></p>
+
+<p><i>Víctor Resco, enginyer: "El plàstic no es recicla, tot el que es produeix acaba a la natura" (19/01/2024)</i> <br>
+<a href="https://www.rac1.cat/societat/20240119/117905/victor-resco-enginyer-plastic-recicla-tot-produeix-acaba-natura.html"> Rac 1 </a></p>
+
+<p><i>Ecomitos: los bulos ecológicos que agravan la crisis ambiental - Avance Editorial (17/01/2024)</i> <br>
+<a href="https://climatica.coop/ecomitos-bulos-ecologicos-victor-resco/"> Climática - La Marea</a></p>
+
+<p><i>Este científico te explica los "bulos ecológicos" que empeoran la crisis ambiental (06/01/2024)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2024-01-06/cientifico-bulos-ecologicos-empeoran-crisis_3805951/?utm_source=twitter&utm_medium=social&utm_campaign=BotoneraWeb"> El Confidencial</a></p>
+
+<p><i>El ecologismo celebra que España mantenga el plan de cierre nuclear y pide celeridad (28/12/2023)</i> <br>
+<a href="https://efeverde.com/ecologismo-plan-cierre-nuclear/"> Declaraciones para EFE Verde</a></p>
+
 <p><i>¿Plantar árboles es la gran solución climática? El desafío del CO2 y el colonialismo verde (04/12/2023)</i> <br>
-<a href="https://efeverde.com/plantar-arboles-solucion-climatica-desafio-co2-colonialismo-verde/">Entrevista para EFE Verde</a></p>
+<a href="https://efeverde.com/plantar-arboles-solucion-climatica-desafio-co2-colonialismo-verde/"> Entrevista para EFE Verde</a></p>
 
 <p><i>La surrealista experiencia de un español en Bruselas explica todo lo que falla en política (16/11/2023)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2023-11-16/agenda-politica-ciencia-bruselas-experiencia_3774051/">Entrevista para El Confidencial</a></p>
