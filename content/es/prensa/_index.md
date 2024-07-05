@@ -55,12 +55,12 @@ subtitle = ""
 
 <a href="#libros">Libros</a> | <a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
-<div class="libros" id="Libros">
-<font color= "green">  <h2>Libros</h2></font>
+#<div class="libros" id="Libros">
+#<font color= "green">  <h2>Libros</h2></font>
 
-<font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental  </h3></font> 
+#<font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental  </h3></font> 
 
- <a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=100%/></a>
+ #<a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=100%/></a>
 
 
 
@@ -78,7 +78,7 @@ subtitle = ""
 <p> <font color= "brown"> 2024 </font> </p>		
 
 <p><i>Día Internacional del Libro: Cuide los bosques mientras lee</i>  <br>
-<a href="https://theconversation.com/cuide-los-bosques-mientras-lee-228450"> The Conversation </a>
+<a href="https://theconversation.com/cuide-los-bosques-mientras-lee-228450"> The Conversation | </a>
 <a href="https://www.ondacero.es/noticias/cultura/dia-internacional-libro-cuide-bosques-mientras-lee_2024042366278fccc0b95c00010fe122.html"> Onda Cero </a>
 </p>
 
@@ -89,7 +89,7 @@ subtitle = ""
 
 
 <p><i>Sequía en Cataluña: más allá del cambio climático y los regadíos (27/02/2024)</i> <br>
-<a href="https://es.e-noticies.cat/opinion/emergencia-hidrica-y-los-nuevos-martires-libertad"> e-notícies </a>
+<a href="https://es.e-noticies.cat/opinion/emergencia-hidrica-y-los-nuevos-martires-libertad"> e-Notícies </a>
 </p>
 
 
