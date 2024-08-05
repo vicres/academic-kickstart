@@ -77,6 +77,20 @@ subtitle = ""
 
 <p> <font color= "brown"> 2024 </font> </p>		
 
+
+<p><i>Prevención de incendios forestales: ¿algún país lo está haciendo bien?</i>  <br>
+<a href="https://theconversation.com/prevencion-de-incendios-forestales-algun-pais-lo-esta-haciendo-bien-235983> The Conversation </a> |
+<a href="https://www.ondacero.es/noticias/medio-ambiente/prevencion-incendios-forestales-algun-pais-esta-haciendo-bien_2024080566b07c3cb33dfc0001c95954.html"> Onda Cero </a> 
+</p>
+
+
+<p><i>Energía, bosques y mercados de carbono: los asuntos ambientales candentes de la nueva legislatura europea</i>  <br>
+<a href="https://theconversation.com/energia-bosques-y-mercados-de-carbono-los-asuntos-ambientales-candentes-de-la-nueva-legislatura-europea-232089"> The Conversation | </a>
+<a href="https://ethic.es/2024/07/energia-bosques-y-mercados-de-carbono-los-asuntos-ambientales-candentes-de-la-nueva-legislatura-europea/?_gl=1*9tv650*_up*MQ..*_ga*MTIzMzcxNTUxNy4xNzIyODY3MTQx*_ga_0LL6WCT924*MTcyMjg2NzE0MC4xLjEuMTcyMjg2NzE1My4wLjAuMTg1ODczMzM2MQ.."> Ethic </a>
+</p>
+
+
+
 <p><i>Día Internacional del Libro: Cuide los bosques mientras lee</i>  <br>
 <a href="https://theconversation.com/cuide-los-bosques-mientras-lee-228450"> The Conversation | </a>
 <a href="https://www.ondacero.es/noticias/cultura/dia-internacional-libro-cuide-bosques-mientras-lee_2024042366278fccc0b95c00010fe122.html"> Onda Cero </a>
@@ -549,6 +563,9 @@ subtitle = ""
 
 <div class="main" id="radio">
 <h3>Radio</h3>
+
+<p><i>   Guía para ecoansiosos (03/08/2024)</i> <br>
+<a href="https://cadenaser.com/audio/1722689583231/"> Hora 14 (Cadena Ser)  </a></p>
 
 <p><i>   Os bulos ecolóxicos que agravan a crise ambiental (05/06/2024)</i> <br>
 <a href="https://agalegaaudio.gal/videos/detail/148195-os-bulos-ecoloxicos-que-agravan-a-crise-ambiental"> A Tarde (Radio Galega)  </a></p>
