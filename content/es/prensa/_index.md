@@ -80,7 +80,9 @@ subtitle = ""
 
 <p><i>Prevención de incendios forestales: ¿algún país lo está haciendo bien?</i>  <br>
 <a href="https://theconversation.com/prevencion-de-incendios-forestales-algun-pais-lo-esta-haciendo-bien-235983> The Conversation </a> |
-<a href="https://www.ondacero.es/noticias/medio-ambiente/prevencion-incendios-forestales-algun-pais-esta-haciendo-bien_2024080566b07c3cb33dfc0001c95954.html"> Onda Cero </a> 
+<a href="https://www.ondacero.es/noticias/medio-ambiente/prevencion-incendios-forestales-algun-pais-esta-haciendo-bien_2024080566b07c3cb33dfc0001c95954.html"> Onda Cero </a> |
+<a href="https://www.lavanguardia.com/natural/20240806/9853209/prevencion-incendios-forestales-pais-esta-haciendo-pmv.html"> La Vanguardia </a> |
+<a href="https://ethic.es/2024/08/prevencion-de-incendios-forestales-algun-pais-lo-esta-haciendo-bien/?_gl=1*fvrhmo*_up*MQ..*_ga*OTE5MzY1MjY0LjE3MjI5MzI5MDg.*_ga_0LL6WCT924*MTcyMjkzMjkwNy4xLjAuMTcyMjkzMjkwNy4wLjAuOTEzMTU1OTUw"> Ethic </a>
 </p>
 
 
