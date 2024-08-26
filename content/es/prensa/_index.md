@@ -104,7 +104,7 @@ subtitle = ""
 </p>
 
 
-<p><i>Sequía en Cataluña: más allá del cambio climático y los regadíos (27/02/2024)</i> <br>
+<p><i>Emergencia hídrica y los nuevos mártires de la libertad (27/02/2024)</i> <br>
 <a href="https://es.e-noticies.cat/opinion/emergencia-hidrica-y-los-nuevos-martires-libertad"> e-Notícies </a>
 </p>
 
