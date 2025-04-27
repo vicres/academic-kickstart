@@ -1,0 +1,14 @@
+---
+title: "Land-use legacies and tree species richness affect short-term resilience in reforested areas of the world's largest refugee camp"
+date: 2025-01-01
+publishDate: 2025-03-23T06:58:38.307502Z
+authors: ["Faqrul Islam Chowdhury", "Rezaul Hasan Bhuiyan", "Josep Maria Espelta", "Víctor Resco de Dios", "Tasnima Dilshad", "Md. Riyadul Haque", "Md. Aman Ullah Aman", "Francisco Lloret"]
+publication_types: ["2"]
+abstract: "Forced migration has recently emerged as a deforestation driver in refugee camps, while reforestation offers a solution to restore these degraded ecosystems. The arrival of one million refugees to Kutupalong camp (southeastern Bangladesh), the world's largest refugee camp, led to significant forest losses after migrant influx, where restoration efforts were subsequently undertaken. However, the effectiveness of these reforestation efforts, and their consequences on vegetation health, remain largely unexplored. This study evaluated the recovery and resilience of reforestation by analyzing enhanced vegetation index (EVI) dynamics, considering the legacy effects of previous land-use systems (natural forest- vs. plantation-legacy plots), tree species richness, and local topography as co-factors. Reforested areas in Kutupalong showed a resilience value of 0.64, indicating that they are still in the recovery phase. Higher recovery was observed in reforested plots that were forests before migrant influx, while pre-deforestation EVI values were associated with higher resilience in plantation-legacy plots. Forest-legacy plots with higher tree species richness exhibited higher recovery probably due to complementarity benefits, driven by resource sharing among multiple tree species. Yet, monospecific plots with Acacia auriculiformis in plantation-legacy plots exhibited higher resilience, likely due to growth related traits. Additionally, undisturbed topsoil, especially in lower elevations, could further enhance recovery and resilience. Findings of this study recommend monospecific A. auriculiformis plantations where admixtures are not feasible, while considering the legacy effects of previous land-uses and implementing soil restoration strategies. These measures potentially improve vegetation health, enhance the local environment, and ultimately contribute to better living conditions to camp inhabitants."
+featured: false
+publication: "*Ecological Engineering*"
+tags: ["Enhanced vegetation index", "Forced migration", "Land-use changes", "Reforestation", "Relative resilience", "Restoration"]
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0925857425001004"
+doi: "https://doi.org/10.1016/j.ecoleng.2025.107612"
+---
+
