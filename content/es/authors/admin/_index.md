@@ -54,7 +54,7 @@ user_groups:
 
 Víctor Resco de Dios es científico y trabaja en la mitigación de algunos de los principales problemas que amenazan a la sostenibilidad de nuestra sociedad, tales como el cambio climático, los incendios forestales o la contaminación. 
 
-Doctor por la Universidad de Wyoming, es profesor de Ingeniería Forestal en la Universidad de Lleida y escribe regularmente 
+Doctor por la Universidad de Wyoming, es catedrático de Ingeniería Forestal y Cambio Global en la Universidad de Lleida y escribe regularmente 
 columnas científicas que han aparecido en medios como [BBC Mundo](https://www.bbc.com/mundo/noticias-50460981) o [National Geographic](https://www.nationalgeographic.com.es/ciencia/guerra-nuclear-tambien-tendria-consecuencias-catastroficas-para-clima_17999), entre otros. 
 
 En 2024 publica [Ecomitos](https://www.plataformaeditorial.com/libro/9910-ecomitos), su primer libro destinado a público general, sobre los bulos ecológicos que agravan la crisis ambiental global. También ha escrito un libro técnico 
