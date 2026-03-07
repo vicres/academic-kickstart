@@ -76,6 +76,19 @@ subtitle = ""
 
 <p> <font color= "brown"> 2025 </font> </p>		
 
+<p><i>Los incendios disparan las emisiones de CO₂ y empañan los logros de la descarbonización</i>  <br>
+<a href="https://theconversation.com/los-incendios-disparan-las-emisiones-de-co-y-empanan-los-logros-de-la-descarbonizacion-267644"> The Conversation </a> |
+<a href="https://climatica.coop/incendios-disparan-emisiones-descarbonizacion/"> Climática-La Marea</a> 
+</p>
+
+
+<p><i>Medidas que debería incluir un pacto de Estado para hacer frente a los incendios forestales</i>  <br>
+<a href="https://theconversation.com/medidas-que-deberia-incluir-un-pacto-de-estado-para-hacer-frente-a-los-incendios-forestales-263979"> The Conversation </a> |
+<a href="https://www.ondacero.es/noticias/sociedad/medidas-que-deberia-incluir-pacto-estado-hacer-frente-incendios-forestales_2025082968b16163506ef67d06e63f30.html"> Onda cero</a> 
+</p>
+
+
+
 <p><i>Seguimos sin invertir lo suficiente en prevención de incendios</i>  <br>
 <a href="https://theconversation.com/seguimos-sin-invertir-lo-suficiente-en-prevencion-de-incendios-263155"> The Conversation </a> |
 <a href="https://ethic.es/prevencion-de-incendios-seguimos-sin-invertir-suficiente?_gl=1*18z4qjp*_up*MQ..*_ga*MTIyMDA2NTQyNi4xNzcyODk3OTA5*_ga_0LL6WCT924*czE3NzI4OTc5MDgkbzEkZzEkdDE3NzI4OTc5MTYkajUyJGwwJGgxNTQ0NjMzMTM1"> Ethic</a> |
@@ -84,12 +97,28 @@ subtitle = ""
 </p>
 
 
-<p> <font color= "brown"> 2024 </font> </p>		
-
-<p><i>¿Por qué necesitamos un protocolo global contra la contaminación por plásticos?</i>  <br>
-<a href="https://theconversation.com/por-que-necesitamos-un-protocolo-global-contra-la-contaminacion-por-plasticos-244124"> The Conversation </a> |
-<a href="https://www.retema.es/actualidad/por-que-necesitamos-un-protocolo-global-contra-la-contaminacion-por-plasticos"> RETEMA</a> 
+<p><i>¿Por qué está creciendo el sentimiento anticientífico?</i>  <br>
+<a href="https://theconversation.com/por-que-esta-creciendo-el-sentimiento-anticientifico-256713"> The Conversation </a> |
+<a href="https://ethic.es/por-que-esta-creciendo-sentimiento-anticientifico?_gl=1*cqsqgn*_up*MQ..*_ga*MTU1NjY2ODIyLjE3NzI4OTkyOTI.*_ga_0LL6WCT924*czE3NzI4OTkyOTEkbzEkZzEkdDE3NzI4OTkzMDAkajUxJGwwJGgzNTM2NjQ2NjM."> Ethic </a>
 </p>
+
+<p><i>Cómo sobrevivir y prosperar en un mundo cada vez más cálido</i>  <br>
+<a href="https://telos.fundaciontelefonica.com/como-sobrevivir-y-prosperar-en-un-mundo-cada-vez-mas-calido/"> Revista Telos </a> |
+<a href="https://theconversation.com/como-sobrevivir-y-prosperar-en-un-mundo-cada-vez-mas-calido-254341"> The Conversation </a> |
+<a href="https://www.vozpopuli.com/historia/como-sobrevivir-prosperar-mundo-mas-calido.html"> Voz Populi </a>
+</p>
+
+
+<p><i>Los riesgos de que la ley europea para el seguimiento de los bosques se base en métodos obsoletos</i>  <br>
+<a href="https://theconversation.com/los-riesgos-de-que-la-ley-europea-para-el-seguimiento-de-los-bosques-se-base-en-metodos-obsoletos-253281"> The Conversation </a>
+</p>
+
+<p><i>La desconocida resolución de las Naciones Unidas que podría apaciguar las revueltas de los agricultores</i>  <br>
+<a href="https://theconversation.com/la-desconocida-resolucion-de-las-naciones-unidas-que-podria-apaciguar-las-revueltas-de-los-agricultores-251107"> The Conversation </a>
+</p>
+
+
+<p> <font color= "brown"> 2024 </font> </p>		
 
 
 <p><i>¿Por qué necesitamos un protocolo global contra la contaminación por plásticos?</i>  <br>
