@@ -74,8 +74,41 @@ subtitle = ""
 
 </body>
 
+<p> <font color= "brown"> 2025 </font> </p>		
+
+<p><i>Seguimos sin invertir lo suficiente en prevención de incendios</i>  <br>
+<a href="https://theconversation.com/seguimos-sin-invertir-lo-suficiente-en-prevencion-de-incendios-263155"> The Conversation </a> |
+<a href="https://ethic.es/prevencion-de-incendios-seguimos-sin-invertir-suficiente?_gl=1*18z4qjp*_up*MQ..*_ga*MTIyMDA2NTQyNi4xNzcyODk3OTA5*_ga_0LL6WCT924*czE3NzI4OTc5MDgkbzEkZzEkdDE3NzI4OTc5MTYkajUyJGwwJGgxNTQ0NjMzMTM1"> Ethic</a> |
+<a href="https://www.ondacero.es/noticias/sociedad/seguimos-invertir-suficiente-prevencion-incendios_20250814689d9adf97dddb01129ca358.html"> Onda Cero</a> |
+<a href="https://www.elperiodico.com/es/sociedad/20250815/seguimos-invertir-suficiente-prevencion-incendios-120646430"> El Periódico</a>
+</p>
+
 
 <p> <font color= "brown"> 2024 </font> </p>		
+
+<p><i>Las catastróficas consecuencias de confundir aviso meteorológico con alerta de riesgo</i>  <br>
+<a href="https://theconversation.com/las-catastroficas-consecuencias-de-confundir-aviso-meteorologico-con-alerta-de-riesgo-242800"> The Conversation </a> |
+<a href="https://www.ondacero.es/noticias/eltiempo/aviso-meteorologico-alertas-riesgo-quien-responsabilidad-avisar-poblacion_202411056729da096566420001980366.html"> Onda Cero </a> |
+<a href="https://ethic.es/2024/10/biodiversidad-cara-y-cruz-de-las-renovables/?_gl=1*1dh97n*_up*MQ..*_ga*MTM1MDIxOTk5Mi4xNzcyODk4MTgz*_ga_0LL6WCT924*czE3NzI4OTgxODIkbzEkZzEkdDE3NzI4OTgxODIkajYwJGwwJGgxNzExNTk1MTI2"> Ethic</a> 
+
+</p>
+
+
+<p><i>Cara y cruz de las renovables: su impacto sobre la biodiversidad</i>  <br>
+<a href="https://theconversation.com/cara-y-cruz-de-las-renovables-su-impacto-sobre-la-biodiversidad-238928"> The Conversation </a> |
+<a href="https://ethic.es/2024/10/biodiversidad-cara-y-cruz-de-las-renovables/?_gl=1*1dh97n*_up*MQ..*_ga*MTM1MDIxOTk5Mi4xNzcyODk4MTgz*_ga_0LL6WCT924*czE3NzI4OTgxODIkbzEkZzEkdDE3NzI4OTgxODIkajYwJGwwJGgxNzExNTk1MTI2"> Ethic</a> 
+</p>
+
+
+<p><i>Seguimos sin invertir lo suficiente en prevención de incendios</i>  <br>
+<a href="https://theconversation.com/cinco-lecciones-aprendidas-y-un-caso-de-exito-de-esta-temporada-de-incendios-237880"> The Conversation </a> |
+<a href="https://ethic.es/prevencion-de-incendios-seguimos-sin-invertir-suficiente?_gl=1*18z4qjp*_up*MQ..*_ga*MTIyMDA2NTQyNi4xNzcyODk3OTA5*_ga_0LL6WCT924*czE3NzI4OTc5MDgkbzEkZzEkdDE3NzI4OTc5MTYkajUyJGwwJGgxNTQ0NjMzMTM1"> Ethic</a> 
+</p>
+
+
+<p><i>Cinco lecciones aprendidas (y un caso de éxito) de esta temporada de incendios</i>  <br>
+<a href="https://theconversation.com/cinco-lecciones-aprendidas-y-un-caso-de-exito-de-esta-temporada-de-incendios-237880"> The Conversation (con Rut Domènech y Marc Castellnou</a> 
+</p>
 
 
 <p><i>Prevención de incendios forestales: ¿algún país lo está haciendo bien?</i>  <br>
