@@ -53,19 +53,7 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Divulgación científica</h1></font>
 
-<a href="libros">Libros</a> | <a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
-
-<div class="libros" id="Libros">
-<font color= "green">  <h2>Libros</h2></font>
-
-<font color= "brown"> <h3>Ecomitos: Los bulos que agravan la crisis ambiental  </h3></font> 
-
-<a href="https://www.plataformaeditorial.com/libro/9910-ecomitos"><img src="/img/Ecomitos_04.png" width=100%/></a>
-
-
-
-  
-</div>
+<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
 
 <div class="main" id="prensa">
 <font color= "green">  <h2>Columnas</h2></font>
@@ -75,6 +63,12 @@ subtitle = ""
 </body>
 
 <p> <font color= "brown"> 2025 </font> </p>		
+
+<p><i>COP30: por qué debemos ser cautos ante el fondo de 125 000 millones de dólares para conservar bosques tropicales</i>  <br>
+<a href="https://theconversation.com/cop30-por-que-debemos-ser-cautos-ante-el-fondo-de-125-000-millones-de-dolares-para-conservar-bosques-tropicales-269142"> The Conversation </a> |
+<a href="https://www.eleconomista.com.mx/arteseideas/cop30-debemos-cautos-fondo-125-000-millones-dolares-conservar-bosques-tropicales-20251115-786748.html"> El Economista (México)</a> 
+</p>
+
 
 <p><i>Los incendios disparan las emisiones de CO₂ y empañan los logros de la descarbonización</i>  <br>
 <a href="https://theconversation.com/los-incendios-disparan-las-emisiones-de-co-y-empanan-los-logros-de-la-descarbonizacion-267644"> The Conversation </a> |
