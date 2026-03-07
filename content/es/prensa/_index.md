@@ -527,6 +527,12 @@ subtitle = ""
 
 <div class="main" id="tv">
   <h3>Televisión</h3>
+  
+<p><em> Entrevista RTVE (6/11/2025)</em><br>
+<a href="https://x.com/rtvenoticias/status/1986500235036635156">    ¿Hasta qué punto puede el cambio climático afectar a nuestra salud?</a> </p>
+
+  
+  
 <p><em> Entrevista Antena 3 (21/08/2025)</em><br>
 <a href="https://www.antena3.com/programas/espejo-publico/noticias/advertencia-experto-incendios-son-mas-que-entradilla-que-vamos-ver_2025082568ac3463fb354e4b3d1d5f63.html">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
 
@@ -535,6 +541,9 @@ subtitle = ""
 
 <p><em> Entrevista la Sexta (21/08/2025)</em><br>
 <a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-catedratico-ingenieria-forestal-fuentes-oficiales-han-estado-mas-preocupadas-desinformar-que-decir-verdad_2025082168a6fd1adb588163100b0418.html">  Víctor Resco, catedrático de Ingeniería Forestal: "Las fuentes oficiales han estado más preocupadas en desinformar que en decir la verdad"</a> </p>
+
+<p><em> Entrevista Europa Press TV (18/08/2025)</em><br>
+<a href="https://www.europapress.tv/sociedad/1002552/1/catedratico-ingenieria-forestal-autor-ecomitos-victor-resco-europa-press">  El catedrático en Ingeniería Forestal y autor de 'Ecomitos', Víctor Resco, para Europa Press</a> </p>
 
 <p><em> Entrevista la Sexta (14/08/2025)</em><br>
 <a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-destaca-cual-unica-solucion-incendios-necesitamos-pacto-estado_20250814689dc31d97dddb01129cc93c.html"> Víctor Resco destaca cuál es la "única solución" ante los incendios: "Necesitamos un pacto de Estado" </a> </p>
@@ -666,6 +675,12 @@ subtitle = ""
 <h3>Radio</h3>
 
 
+
+
+<p><i>   La Entrevista de las 9h (18/08/2025)</i> <br>
+<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> COPE - Herrera en COPE  </a></p>
+
+
 <p><i>   Víctor Resco de Dios, catedrático de Ingeniería Forestal y Cambio Global: La pregunta es ¿A cuánto muertos estamos de que se tomen medidas efectivas? (23/09/2025)</i> <br>
 <a href="https://cadenaser.com/castillayleon/2025/09/23/victor-resco-de-dios-catedratico-de-ingenieria-forestal-y-cambio-global-la-pregunta-es-a-cuanto-muertos-estamos-de-que-se-tomen-medidas-efectivas-radio-bierzo/"> Cadena Ser - Radio Bierzo  </a></p>
 
@@ -675,6 +690,9 @@ subtitle = ""
 
 <p><i>   Guía para ecoansiosos (03/08/2024)</i> <br>
 <a href="https://cadenaser.com/audio/1722689583231/"> Hora 14 (Cadena Ser)  </a></p>
+
+<p><i>   Entrevista Víctor Resco, catedràtic d’Enginyeria Forestal i Canvi Global (14/07/2025)</i> <br>
+<a href="https://www.youtube.com/watch?v=dW9Ia7LJuFc"> Cadena Ser - Aquí Catalunya  </a></p>
 
 <p><i>   Os bulos ecolóxicos que agravan a crise ambiental (05/06/2024)</i> <br>
 <a href="https://agalegaaudio.gal/videos/detail/148195-os-bulos-ecoloxicos-que-agravan-a-crise-ambiental"> A Tarde (Radio Galega)  </a></p>
@@ -798,6 +816,13 @@ subtitle = ""
 
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
+
+<p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
+<a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
+
+
+<p><i>Víctor Resco, científico ambiental: "Es más peligroso ir a un hospital que a una central nuclear" (10/09/2025)</i> <br>
+<a href="https://www.elconfidencial.com/alma-corazon-vida/2025-09-10/victor-resco-energia-nuclear-1qrt_4204629/">Entrevista en El Confidencial</a></p>
 
 <p><i>Víctor Resco (catedrático en Ingeniería Forestal), sobre los incendios: "El escenario que ahora estamos viendo es el tráiler de lo que está por venir" (15/08/2025)</i> <br>
 <a href="https://www.eleconomista.es/actualidad/noticias/13509029/08/25/victor-resco-catedratico-en-ingenieria-forestal-sobre-los-incendios-el-escenario-que-ahora-estamos-viendo-es-el-trailer-de-lo-que-esta-por-venir.html">Declaraciones para El Economista</a></p>
