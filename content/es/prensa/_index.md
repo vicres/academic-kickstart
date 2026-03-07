@@ -114,6 +114,11 @@ subtitle = ""
 
 <p> <font color= "brown"> 2024 </font> </p>		
 
+<p><i>El abandono rural como amenaza para la diversidad lingüística, cultural y biológica (con María Vicente Marín)</i>  <br>
+<a href="https://www.upa.es/Anuario2024/19VICENTEYRESCO.pdf"> Fundación Estudios Rurales Anuario 2024 </a>
+</p>
+
+
 
 <p><i>¿Por qué necesitamos un protocolo global contra la contaminación por plásticos?</i>  <br>
 <a href="https://theconversation.com/por-que-necesitamos-un-protocolo-global-contra-la-contaminacion-por-plasticos-244124"> The Conversation </a> |
