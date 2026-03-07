@@ -551,6 +551,10 @@ subtitle = ""
 <p><em> Entrevista TeleMadrid (13/08/2025)</em><br>
 <a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> La brutal factura de los incendios forestales</a> </p>
 
+<p><em> Entrevista la Sexta (06/06/2025)</em><br>
+<a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
+
+
 
 <p><em> Entrevista TV3 (24/03/2024)</em><br>
 <a href="https://www.ccma.cat/3cat/victor-resco-de-dios-ens-han-inculcat-que-els-individus-som-responsables-de-la-crisi-climatica-pero-en-realitat-en-som-victimes/video/6273144/#onboarding=true">  Col·lapse: Ens han inculcat que els individus som responsables de la crisis climàtica  quan en realitat som víctimes</a> </p>
@@ -675,24 +679,29 @@ subtitle = ""
 <h3>Radio</h3>
 
 
-
+<p><i>   Un catedrático en Ingeniería Forestal propone dos medidas para reducir el riesgo de incendios en verano: "Son muy claras" (02/09/2025)</i> <br>
+<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> CHerrera en COPE  </a></p>
 
 <p><i>   La Entrevista de las 9h (18/08/2025)</i> <br>
-<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> COPE - Herrera en COPE  </a></p>
-
+<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
 
 <p><i>   Víctor Resco de Dios, catedrático de Ingeniería Forestal y Cambio Global: La pregunta es ¿A cuánto muertos estamos de que se tomen medidas efectivas? (23/09/2025)</i> <br>
-<a href="https://cadenaser.com/castillayleon/2025/09/23/victor-resco-de-dios-catedratico-de-ingenieria-forestal-y-cambio-global-la-pregunta-es-a-cuanto-muertos-estamos-de-que-se-tomen-medidas-efectivas-radio-bierzo/"> Cadena Ser - Radio Bierzo  </a></p>
+<a href="https://cadenaser.com/castillayleon/2025/09/23/victor-resco-de-dios-catedratico-de-ingenieria-forestal-y-cambio-global-la-pregunta-es-a-cuanto-muertos-estamos-de-que-se-tomen-medidas-efectivas-radio-bierzo/"> Cadena Ser (Radio Bierzo)  </a></p>
 
 <p><i>   Los errores que agravan los incendios en España, según el experto en cambio global Víctor Resco (12/08/2025)</i> <br>
 <a href="https://www.ondacero.es/programas/por-fin/audios/entrevistas/errores-que-agravan-incendios-espana-segun-experto-cambio-global-victor-resco_20250812689b602e51d2460c8077f5fe.html"> Por fin (Onda Cero)  </a></p>
 
+<p><i>   Un experto forestal explica el motivo por el que España no previene los incendios y prefiere apagarlos: incluso aunque pierda dinero (02/08/2025)</i> <br>
+<a href="https://www.cope.es/programas/mediodia-cope/noticias/experto-forestal-explica-motivo-espana-previene-incendios-prefiere-apagarlos-pierda-dinero-20250802_3194467.html> Mediodía COPE </a></p>
+
+<p><i>   Entrevista Víctor Resco, catedràtic d’Enginyeria Forestal i Canvi Global (14/07/2025)</i> <br>
+<a href="https://www.youtube.com/watch?v=dW9Ia7LJuFc"> Aquí Catalunya  (Cadena Ser )</a></p>
+
+<p><i>   Els nous incendis són més perillosos (05/07/2025)</i> <br>
+<a href="https://www.rtve.es/play/audios/son-4-dies/els-nous-incendis-son-mes-perillosos/16652796/"> Són 4 dies (Radio 4)  </a></p>
 
 <p><i>   Guía para ecoansiosos (03/08/2024)</i> <br>
 <a href="https://cadenaser.com/audio/1722689583231/"> Hora 14 (Cadena Ser)  </a></p>
-
-<p><i>   Entrevista Víctor Resco, catedràtic d’Enginyeria Forestal i Canvi Global (14/07/2025)</i> <br>
-<a href="https://www.youtube.com/watch?v=dW9Ia7LJuFc"> Cadena Ser - Aquí Catalunya  </a></p>
 
 <p><i>   Os bulos ecolóxicos que agravan a crise ambiental (05/06/2024)</i> <br>
 <a href="https://agalegaaudio.gal/videos/detail/148195-os-bulos-ecoloxicos-que-agravan-a-crise-ambiental"> A Tarde (Radio Galega)  </a></p>
@@ -817,18 +826,61 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
-<p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
-<a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
+<p><i> El calor extremo podría acabar con el Tour de Francia tal y como lo conocemos: "Es cuestión de tiempo" (2/03/2026)</i> <br>
+<a href="https://www.elespanol.com/ciencia/20260302/calor-extremo-podria-acabar-tour-francia-conocemos-cuestion-tiempo/1003744144174_0.html">Declaraciones para El Español</a></p>
+
+
+<p><i>El cambio climático obligará a cambiar las fechas del Tour de Francia: "Sería ingenuo e irresponsable pensar que el Tour se va a seguir librando" (24/02/2026)</i> <br>
+<a href="https://www.mundodeportivo.com/solobici/20260224/1004133631/cambio-climatico-obligara-cambiar-fechas-tour-francia-seria-ingenuo-e-irresponsable-pensar-tour-seguir-librando.html">Declaraciones para El Mundo Deportivo</a></p>
+
+<p><i>Más de 22 000 muertes al año en España se atribuyen a la contaminación del aire (31/10/2025)</i> <br>
+<a href="https://isanidad.com/348953/contaminacion-salud-muertes-espana-lancet-countdown/">Declaraciones para iSanidad</a></p>
+
+<p><i>400.000 hectáreas después (12/10/2025)</i> <br>
+<a href="https://www.newtral.es/incendios-espana-recuperacion-cambio-climatico/20251012/">Declaraciones para Newtral</a></p>
+
+<p><i>¿Negacionismo climático 'encubierto'? El desafío de la reforestación tras un incendio (2/10/2025)</i> <br>
+<a href="https://efeverde.com/negacionismo-climatico-encubierto-el-desafio-de-la-reforestacion-tras-un-incendio/">Declaraciones para EFE</a></p>
+
+<p><i> DANA: el fenómeno meteorológico que afecta en otoño al Mediterráneo (01/09/2025)</i> <br>
+<a href="https://www.nationalgeographic.com.es/medio-ambiente/dana-espana-efectos-fenomeno-meteorologico-que-cambia-reglas-juego_20669"> Declaraciones para National Geographic</a></p>
+
+
+<p><i> El fracaso del reto demográfico del Gobierno ahoga la España rural (01/09/2025)</i> <br>
+<a href="https://www.abc.es/sociedad/fracaso-reto-demografico-gobierno-ahoga-espana-rural-20250901034639-nt.html#vca=compartirrrss&vso=abc&vmc=rrss&vli=fixed-twitter">Declaraciones para ABC</a></p>
+
+
+<p><i> Spain's summer of wildfires fuels calls for better forest management (29/09/2025)</i> <br>
+<a href="https://www.reuters.com/sustainability/climate-energy/spains-summer-wildfires-fuels-calls-better-forest-management-2025-09-29/">Declaraciones para Reuters</a></p>
 
 
 <p><i>Víctor Resco, científico ambiental: "Es más peligroso ir a un hospital que a una central nuclear" (10/09/2025)</i> <br>
 <a href="https://www.elconfidencial.com/alma-corazon-vida/2025-09-10/victor-resco-energia-nuclear-1qrt_4204629/">Entrevista en El Confidencial</a></p>
 
+
+<p><i>Un catedrático en Ingeniería Forestal reacciona incrédulo a esta escena en 'El Hormiguero' (3/09/2025)</i> <br>
+<a href="https://www.huffingtonpost.es/virales/un-catedratico-ingenieria-forestal-reacciona-incredulo-escena-el-hormiguero.html"> Declaraciones para Huffington Post</a></p>
+
+<p><i>Wie Spanien künftig Waldbrände eher verhindern könnte (25/08/2025)</i> <br>
+<a href="https://www.srf.ch/news/international/rekordbraende-in-spanien-wie-spanien-kuenftig-waldbraende-eher-verhindern-koennte"> Declaraciones para SRF (Suiza)</a></p>
+
+<p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
+<a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
+
+
 <p><i>Víctor Resco (catedrático en Ingeniería Forestal), sobre los incendios: "El escenario que ahora estamos viendo es el tráiler de lo que está por venir" (15/08/2025)</i> <br>
 <a href="https://www.eleconomista.es/actualidad/noticias/13509029/08/25/victor-resco-catedratico-en-ingenieria-forestal-sobre-los-incendios-el-escenario-que-ahora-estamos-viendo-es-el-trailer-de-lo-que-esta-por-venir.html">Declaraciones para El Economista</a></p>
 
-<p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo"(13/08/2025)</i> <br>
+<p><i>Los expertos denuncian el grave error de fiarlo todo a la extinción:  "Tenemos una legislación que favorece los incendios"" (14/08/2025)</i> <br>
+<a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/14/689e206ee4d4d805318b45a3.html">Declaraciones para El Mundo</a></p>
+
+
+<p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo" (13/08/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
+
+<p><i>Los incendios de 'sexta generación': unos desconocidos para la ciencia que liberan la energía de "varias bombas nucleares" (3/07/2025)</i> <br>
+<a href="https://www.20minutos.es/noticia/5727498/0/los-incendios-sexta-generacion-unos-desconocidos-para-ciencia-que-liberan-energia-varias-bombas-nucleares/">Declaraciones para 20 minutos</a></p>
+
 
 <p><i>Bienvenidos al Piroceno, la era de los incendios casi inextinguibles (21/06/2024)</i> <br>
 <a href="https://elpais.com/ciencia/2024-06-21/bienvenidos-al-piroceno-la-era-de-los-fuegos-casi-inextinguibles.html?ssm=TW_CC/">Declaraciones para El País</a></p>
