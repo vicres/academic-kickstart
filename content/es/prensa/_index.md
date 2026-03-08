@@ -678,12 +678,11 @@ subtitle = ""
 <p><i>   Los incendios se apagan en invierno (26/02/2026)</i> <br>
 <a href="https://cadenaser.com/audio/1772111584195/"> Hoy por hoy Ciudad Real (Cadena Ser)  </a></p>
 
-
 <p><i>   Un catedrático en Ingeniería Forestal propone dos medidas para reducir el riesgo de incendios en verano: "Son muy claras" (02/09/2025)</i> <br>
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
 
 <p><i>   La UE vive la peor temporada de incendios del siglo (01/09/2025)</i> <br>
-<a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/> Europa Abierta (RNE)  </a></p>
+<a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/""> Europa Abierta (RNE)  </a></p>
 
 <p><i>   La Entrevista de las 9h (18/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
