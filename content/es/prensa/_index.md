@@ -536,78 +536,73 @@ subtitle = ""
   <p> <font color= "brown"> 2025 </font> </p>		
   
 <p><em> Entrevista RTVE (6/11/2025)</em><br>
-<a href="https://x.com/rtvenoticias/status/1986500235036635156">    ¿Hasta qué punto puede el cambio climático afectar a nuestra salud?</a> </p>
+<a href="https://x.com/rtvenoticias/status/1986500235036635156">    Informativo del 24h</a> </p>
 
 <p><em> Entrevista Antena 3 (9/09/2025)</em><br>
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D84qY6ulgr9k&ved=2ahUKEwj5y9y05o-TAxW4UKQEHTqcDA4QwqsBegQIFxAB&usg=AOvVaw2bYfqu-10adiQTDS5Iytx-">  Entrevista en Espejo Público</a> </p>
+<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D84qY6ulgr9k&ved=2ahUKEwj5y9y05o-TAxW4UKQEHTqcDA4QwqsBegQIFxAB&usg=AOvVaw2bYfqu-10adiQTDS5Iytx-">Espejo Público</a> </p>
 
 <p><em> Entrevista Antena 3 (27/08/2025)</em><br>
-<a href="https://x.com/rescodedios/status/1960757572245332273?s=20">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
+<a href="https://x.com/rescodedios/status/1960757572245332273?s=20">  Antena 3 Noticias</a> </p>
 
 <p><em> Entrevista Antena 3 (25/08/2025)</em><br>
-<a href="https://www.antena3.com/programas/espejo-publico/noticias/advertencia-experto-incendios-son-mas-que-entradilla-que-vamos-ver_2025082568ac3463fb354e4b3d1d5f63.html">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
+<a href="https://www.antena3.com/programas/espejo-publico/noticias/advertencia-experto-incendios-son-mas-que-entradilla-que-vamos-ver_2025082568ac3463fb354e4b3d1d5f63.html"> Espejo Público</a> </p>
 
 <p><em> Entrevista RTVE (21/08/2025)</em><br>
-<a href="https://www.rtve.es/play/videos/la-tarde-en-24h/victor-resco-catedratico-ingenieria-forestal-acumulando-cantidades-combustible/16703445/">  Víctor Resco, catedrático de ingeniería forestal: "Se están acumulando grandes cantidades de combustible de manera conectada"</a> </p>
+<a href="https://www.rtve.es/play/videos/la-tarde-en-24h/victor-resco-catedratico-ingenieria-forestal-acumulando-cantidades-combustible/16703445/">  Informativo del 24h</a> </p>
+
+<p><em> Entrevista Antena 3 (21/08/2025)</em><br>
+<a href="https://www.antena3.com/noticias/sociedad/campo-vive-peor-drama-incendios-suelo-podria-tardar-30-anos-recuperarse_2025082268a8aebb97dddb0112a7901e.html">  Antena 3 Noticias</a> </p>
+
 
 <p><em> Entrevista la Sexta (21/08/2025)</em><br>
-<a href="https://www.antena3.com/noticias/sociedad/campo-vive-peor-drama-incendios-suelo-podria-tardar-30-anos-recuperarse_2025082268a8aebb97dddb0112a7901e.html">  El campo vive su peor drama por los incendios: el suelo podría tardar hasta 30 años en recuperarse</a> </p>
-
-
-<p><em> Entrevista la Sexta (21/08/2025)</em><br>
-<a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-catedratico-ingenieria-forestal-fuentes-oficiales-han-estado-mas-preocupadas-desinformar-que-decir-verdad_2025082168a6fd1adb588163100b0418.html">  Víctor Resco, catedrático de Ingeniería Forestal: "Las fuentes oficiales han estado más preocupadas en desinformar que en decir la verdad"</a> </p>
-
-
+<a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-catedratico-ingenieria-forestal-fuentes-oficiales-han-estado-mas-preocupadas-desinformar-que-decir-verdad_2025082168a6fd1adb588163100b0418.html">  Al Rojo Vivo </a> </p>
 
 <p><em> Telecinco (18/08/2025)</em><br>
 <a href="https://www.youtube.com/watch?v=lO8LsnB966c">  Entrevista, La Mirada Crítica</a> </p>
 
 
 <p><em> Entrevista Europa Press TV (18/08/2025)</em><br>
-<a href="https://www.europapress.tv/sociedad/1002552/1/catedratico-ingenieria-forestal-autor-ecomitos-victor-resco-europa-press">  El catedrático en Ingeniería Forestal y autor de 'Ecomitos', Víctor Resco, para Europa Press</a> </p>
+<a href="https://www.europapress.tv/sociedad/1002552/1/catedratico-ingenieria-forestal-autor-ecomitos-victor-resco-europa-press">  Entrevista para Europa Press</a> </p>
 
 <p><em> Entrevista Antena 3 (15/08/2025)</em><br>
-<a href="https://www.antena3.com/noticias/sociedad/legislacion-campo-abandono-rural-coctel-que-agrava-riesgo-incendios_20250815689f3c555331f214bde30178.html"> La legislación del campo y el abandono rural: un cóctel que agrava el riesgo de incendios</a> </p>
+<a href="https://www.antena3.com/noticias/sociedad/legislacion-campo-abandono-rural-coctel-que-agrava-riesgo-incendios_20250815689f3c555331f214bde30178.html"> Anten 3 Noticias</a> </p>
 
 <p><em> Entrevista la Sexta (14/08/2025)</em><br>
-<a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-destaca-cual-unica-solucion-incendios-necesitamos-pacto-estado_20250814689dc31d97dddb01129cc93c.html"> Víctor Resco destaca cuál es la "única solución" ante los incendios: "Necesitamos un pacto de Estado" </a> </p>
+<a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-destaca-cual-unica-solucion-incendios-necesitamos-pacto-estado_20250814689dc31d97dddb01129cc93c.html"> Al Rojo Vivo</a> </p>
 
 <p><em> Entrevista la Sexta (14/08/2025)</em><br>
-<a href="https://www.lasexta.com/noticias/sociedad/gasto-prevencion-incendios-espana-desploma-casi-60-ultimos-15-anos_20250814689de8c197dddb01129cf9ee.html"> El gasto en prevención de incendios en España se desploma casi un 60% en los últimos 15 años</a> </p>
+<a href="https://www.lasexta.com/noticias/sociedad/gasto-prevencion-incendios-espana-desploma-casi-60-ultimos-15-anos_20250814689de8c197dddb01129cf9ee.html"> La Sexta Noticias </a> </p>
 
 <p><em> Entrevista TeleMadrid (13/08/2025)</em><br>
-<a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> La brutal factura de los incendios forestales</a> </p>
+<a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> 120 Minutos </a> </p>
 
 <p><em> Entrevista Telecinco (13/08/2025)</em><br>
 <a href="https://www.youtube.com/watch?v=2ZgQ3yZyX6w">  Entrevista en La Mirada Crítica</a> </p>
 
 
 <p><em> Entrevista la Sexta (12/08/2025)</em><br>
-<a href="https://www.lasexta.com/noticias/sociedad/que-hay-tantos-incendios-espana-expanden-mas-rapido-cambio-climatico-uno-culpables_20250812689bb58c6d08be7a8a4dc70d.html"> ¿Por qué hay tantos incendios en España? Se expanden más rápido y el cambio climático es uno de los culpables</a> </p>
+<a href="https://www.lasexta.com/noticias/sociedad/que-hay-tantos-incendios-espana-expanden-mas-rapido-cambio-climatico-uno-culpables_20250812689bb58c6d08be7a8a4dc70d.html"> La Sexta Noticias</a> </p>
 
 
 <p><em> Entrevista RTVE (18/07/2025)</em><br>
-<a href="https://youtu.be/PvBe8Hptedg?si=kseiTQru910Imftv"> Efectos de los humos de los incendios forestales</a> </p>
+<a href="https://youtu.be/PvBe8Hptedg?si=kseiTQru910Imftv"> Telediario</a> </p>
 
 <p><em> Entrevista TV3 (08/07/2025)</em><br>
-<a href="https://www.3cat.cat/3cat/victor-resco-de-dios-el-que-podem-fer-per-prevenir-els-incendis-es-reduir-el-combustible-que-crema/video/6349208/"> El que podem fer per prevenir incendis és reduir el combustible</a> </p>
+<a href="https://www.3cat.cat/3cat/victor-resco-de-dios-el-que-podem-fer-per-prevenir-els-incendis-es-reduir-el-combustible-que-crema/video/6349208/"> 324</a> </p>
 
 <p><em> Entrevista Cuatro (08/07/2025)</em><br>
-<a href="https://www.cuatro.com/noticias/sociedad/20250702/incendios-sexta-generacion-comunes-violentos-impredecibles_18_016030604.html"> Los incendios de sexta generación, cada vez más comunes: violentos, impredecibles y difíciles de controlar</a> </p>
+<a href="https://www.cuatro.com/noticias/sociedad/20250702/incendios-sexta-generacion-comunes-violentos-impredecibles_18_016030604.html"> Noticias Cuatro</a> </p>
 
 
 <p><i>  Entrevista RTVE (02/07/2025)</i> <br>
-<a href="https://www.rtve.es/play/videos/informativo-24h/victor-resco-incendios-cambio-climatico-excusa-inaccion/16648714/"> Víctor Resco, especialista en incendios: "Usamos el cambio climático como excusa para justificar nuestra inacción"  </a></p>
+<a href="https://www.rtve.es/play/videos/informativo-24h/victor-resco-incendios-cambio-climatico-excusa-inaccion/16648714/"> Informativo 24h  </a></p>
 
 <p><i>  Entrevista RTVE (13/06/2025)</i> <br>
-<a href="https://www.youtube.com/watch?v=ZMz-r8o10Ls"> OBJETIVO PLANETA: La ciencia y el fenómeno de los incendios  </a></p>
+<a href="https://www.youtube.com/watch?v=ZMz-r8o10Ls"> Objetivo Planeta</a></p>
 
 <p><em> Entrevista la Sexta (08/06/2025)</em><br>
-<a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
+<a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> La Sexta Noticias</a> </p>
 
-
-<p><em> Entrevista la Sexta (06/06/2025)</em><br>
-<a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
 
 <p> <font color= "brown"> 2024 </font> </p>		
 
@@ -619,13 +614,13 @@ subtitle = ""
 
 <p> <font color= "brown"> 2023 </font> </p>		
 <p><em> Entrevista en RTVE (29/08/2023)</em><br>
-<a href=https://www.rtve.es/play/videos/la-aventura-del-saber/victor-resco-dios-ecomitos/15978176/">  La aventura del saber: Ecomitos, Víctor Resco de Dios </a> </p>
+<a href="https://www.rtve.es/play/videos/la-aventura-del-saber/victor-resco-dios-ecomitos/15978176/">  La aventura del saber: Ecomitos, Víctor Resco de Dios </a> </p>
 
 <p><em> Entrevista para Levante TV (29/08/2023)</em><br>
 <a href="https://www.levante-emv.com/videos/levante-tv/2023/08/28/cved-desafios-lucha-incendios-profesor-91439746.html?utm_source=twitter&utm_medium=social&utm_campaign=btn-share">  Desafíos en lucha contra incendios con el profesor de ingeniería forestal Víctor Resco </a> </p>
 
 <p><em> Entrevista para Radio Televisión Canaria (23/08/2023)</em><br>
-<a href="https://twitter.com/RTVCes/status/1694402370523086962?s=20"> Lo que estamos viendo es un tráiler de lo que está por llegar </a> </p>
+<a href="https://twitter.com/RTVCes/status/1694402370523086962?s=20"> Noticias Canarias </a> </p>
 
 <p><em> Entrevista para Sonda Internacional (4/05/2023)</em><br>
 <a href="https://www.youtube.com/watch?v=Ml5PhOH691E"> ¿Qué es un megaincendio? </a> </p>
