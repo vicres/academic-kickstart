@@ -1203,6 +1203,9 @@ subtitle = ""
 <p><i>Víctor Resco, enginyer: "El plàstic no es recicla, tot el que es produeix acaba a la natura" (19/01/2024)</i> <br>
 <a href="https://www.rac1.cat/societat/20240119/117905/victor-resco-enginyer-plastic-recicla-tot-produeix-acaba-natura.html"> Rac 1 </a></p>
 
+<p><i>Victor Resco derrumba los mitos ecológicos (18/01/2024)</i> <br>
+<a href="https://www.cambio16.com/victor-resco-derrumba-ecomitos/"> Cambio 16 </a></p>
+
 <p><i>Ecomitos: los bulos ecológicos que agravan la crisis ambiental - Avance Editorial (17/01/2024)</i> <br>
 <a href="https://climatica.coop/ecomitos-bulos-ecologicos-victor-resco/"> Climática - La Marea</a></p>
 
