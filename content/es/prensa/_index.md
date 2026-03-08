@@ -213,7 +213,7 @@ subtitle = ""
 <a href="https://www.elperiodico.com/es/sociedad/20231228/son-compatibles-explotacion-conservacion-naturaleza-96325783"> El Periódico </a>
 </p>
 
-<p><i>La Ciencia Forestal en 2023 (primera parte)  <br>
+<p><i>La Ciencia Forestal en 2023 (primera parte) </i> <br>
 <a href="https://blog.ingenierosdemontes.org/2023/12/la-ciencia-forestal-en-2023-primera-parte/"> Blog del Colegio de Ingenieros de Montes </a>
 </p>
 
@@ -533,6 +533,8 @@ subtitle = ""
 <div class="main" id="tv">
   <h3>Televisión</h3>
   
+  <p> <font color= "brown"> 2025 </font> </p>		
+  
 <p><em> Entrevista RTVE (6/11/2025)</em><br>
 <a href="https://x.com/rtvenoticias/status/1986500235036635156">    ¿Hasta qué punto puede el cambio climático afectar a nuestra salud?</a> </p>
 
@@ -607,13 +609,15 @@ subtitle = ""
 <p><em> Entrevista la Sexta (06/06/2025)</em><br>
 <a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
 
+<p> <font color= "brown"> 2024 </font> </p>		
+
 <p><em> Entrevista TV3 (24/03/2024)</em><br>
 <a href="https://www.ccma.cat/3cat/victor-resco-de-dios-ens-han-inculcat-que-els-individus-som-responsables-de-la-crisi-climatica-pero-en-realitat-en-som-victimes/video/6273144/#onboarding=true">  Col·lapse: Ens han inculcat que els individus som responsables de la crisis climàtica  quan en realitat som víctimes</a> </p>
 
 <p><em> Entrevista RTVE (20/02/2024)</em><br>
 <a href="https://www.rtve.es/play/videos/la-aventura-del-saber/victor-resco-dios-ecomitos/15978176/">  Víctor Resco de Dios. Ecomitos</a> </p>
 
-
+<p> <font color= "brown"> 2023 </font> </p>		
 <p><em> Entrevista en RTVE (29/08/2023)</em><br>
 <a href=https://www.rtve.es/play/videos/la-aventura-del-saber/victor-resco-dios-ecomitos/15978176/">  La aventura del saber: Ecomitos, Víctor Resco de Dios </a> </p>
 
@@ -635,6 +639,8 @@ subtitle = ""
 <p><em> Entrevista en TVE (15/03/2023)</em><br>
 <a href="https://www.rtve.es/play/videos/noticias-de-extremadura/segunda-edicion-15-03-2023/6835199/"> Noticias de Extremadura </a>  (a partir del minuto 15.30)</p>
 
+<p> <font color= "brown"> 2022 </font> </p>	
+	
 <p><em> Entrevista en Telemadrid (12/08/2022)</em><br>
 <a href="https://www.telemadrid.es/programas/120-minutos/120-minutos-12082022-parte-1-2-2477472268--20220812061533.html"> 120 minutos</a>  (a partir del minuto 58)</p>
 
@@ -676,6 +682,8 @@ subtitle = ""
 
 <p><em> Entrevista en TV3 (16/06/2022)</em><br>
 <a href="https://www.ccma.cat/tv3/alacarta/planta-baixa/victor-resco-no-tenim-massa-boscos-tenim-massa-arbres-a-dins-i-per-aixo-hem-de-fomentar-ne-la-gestio/video/6164259/?ext=SMA_TW_F4_CE24_">Planta Baixa</a> </p>
+
+<p> <font color= "brown"> 2021 </font> </p>		
 
 <p><em> Declaraciones en RTVE (13/09/2021)</em><br>
 <a href="https://www.rtve.es/play/videos/telediario/15-horas-13-09-21/6093785/">Telediario (minuto 39)</a> </p>
@@ -719,8 +727,7 @@ subtitle = ""
 <p><em>Entrevista en la Sexta (7/08/2021)</em><br>
 <a href="https://www.lasexta.com/noticias/internacional/dramatica-imagen-incendios-grecia-cientos-evacuados-contemplan-como-fuego-devora-sus-hogares_20210807610e790f5e57db0001e16ba0.html">la Sexta Noticias</a> </p>
 
-<p><em>Entrevista en RTVE (25/07/2018)</em><br>
-<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
+<p> <font color= "brown"> 2020 </font> </p>		
 
 <p><em>Entrevista en LLeida TV (12/03/2020)</em><br>
 <a href="http://lleidatv.alacarta.cat/diaridenitnoticies/capitol/dijous-12032020"> Diari de Nit - Notícies </a> </p>
@@ -728,15 +735,22 @@ subtitle = ""
 <p><em>Entrevista en LLeida TV (13/01/2020)</em><br>
 <a href="http://lleidatv.alacarta.cat/el-debat-de-lleida-activa/capitol/la-udl-vigila-tots-els-boscos-del-mon-des-de-lleida"> El Debat de Lleida Activa  </a> </p>
 
+
+<p><em>Entrevista en RTVE (25/07/2018)</em><br>
+<a href="http://www.rtve.es/alacarta/videos/telediario/telediario-21-horas-25-07-18/4674478/?t=30m47s">TVE1 - Telediario 2</a> </p>
+
 </div>
 
 <div class="main" id="radio">
 <h3>Radio</h3>
 
 
+<p> <font color= "brown"> 2026 </font> </p>		
+
 <p><i>   Los incendios se apagan en invierno (26/02/2026)</i> <br>
 <a href="https://cadenaser.com/audio/1772111584195/"> Hoy por hoy Ciudad Real (Cadena Ser)  </a></p>
 
+<p> <font color= "brown"> 2025 </font> </p>		
 <p><i>   Víctor Resco, experto en cambio climático: "Es absurdo que haya un debate sobre si es verdad o no, se está acelerando y veranos como este último no los hemos vivido" (10/09/2025)</i> <br>
 <a href="https://www.cope.es/programas/la-linterna/noticias/victor-resco-experto-cambio-climatico-absurdo-haya-debate-sobre-verdad-acelerando-veranos-ultimo-hemos-vivido-20251110_3249324.html#google_vignette"> La linterna (COPE)  </a></p>
 
@@ -811,6 +825,8 @@ subtitle = ""
 <p><i>   "Si le dices a la gente que se quede en casa, los que viven en los bajos se quedan atrapados": la alerta de la DANA se envió tarde y con información incompleta (02/03/2025)</i> <br>
 <a href="https://cadenaser.com/nacional/2025/03/02/si-le-dices-a-la-gente-que-se-quede-en-casa-los-que-viven-en-los-bajos-se-quedan-atrapados-la-alerta-de-la-dana-se-envio-con-informacion-incompleta-ademas-de-tarde-cadena-ser/"> Hora 14 (Cadena Ser)  </a></p>
 
+
+<p> <font color= "brown"> 2024 </font> </p>		
 <p><i>   Un científico explica el fallo de la AEMET en alertas del clima como la DANA: "No es suficiente" (16/1/2024)</i> <br>
 <a href="https://www.cope.es/programas/la-manana-fin-de-semana/noticias/cientifico-explica-fallo-aemet-alertas-clima-dana-suficiente-20241116_3047205.html#google_vignette"> La Mañana Fin de Semana (COPE)  </a></p>
 
@@ -838,6 +854,7 @@ subtitle = ""
 <p><i>   El consulado - Víctor Resco - 'Ecomitos' (24/01/2024)</i> <br>
 <a href="https://www.rtve.es/play/audios/gente-despierta/gente-despierta-consulado-victor-resco-ecomitos/15931619/"> Gente Despierta - RNE </a></p>
 
+<p> <font color= "brown"> 2023 </font> </p>		
 <p><i>   El concepto 'temporada de incendios' está perdiendo su significado (04/11/2023)</i> <br>
 <a href="https://x.com/radio5_rne/status/1720437293004030419?s=20"> Declaraciones para 14 horas, de RNE  </a></p>
 
@@ -865,6 +882,8 @@ subtitle = ""
 <p><i>  Grandes incendios forestales: nuevos desafíos (7/01/2023)</i> <br>
 <a href="https://t.co/9ZqkifyGVo"> Radio Cooperativa - Chile</a></p>
 
+<p> <font color= "brown"> 2022 </font> </p>		
+
 <p><i>  Tormentas de rayo y vientos: cómo entender los incendios de sexta generación (26/09/2022)</i> <br>
 <a href="https://www.spreaker.com/user/cooperativafm/tormentas-de-rayo-y-vientos-como-entende"> Avui sortim - RNE 4</a></p>
 
@@ -891,6 +910,8 @@ subtitle = ""
 
 <p><i> Els experts reclamen una gestió forestal eficient per fer front als incendis (17/06/2022)</i> <br>
 <a href="https://www.rtve.es/play/audios/serveis-informatius-radio-4/bona-gestio-forestal/6628680/"> RNE4 </a></p>
+
+<p> <font color= "brown"> 2021 </font> </p>		
 
 <p><i>ENTREVISTA Víctor Resco (professor d'Enginyeria Forestal a la Universitat de Lleida) (15/09/2021)</i> <br>
 <a href="https://play.cadenaser.com/audio/1631699391_227605/"> Aquí Cuní - Ser Catalunya </a></p>
@@ -922,6 +943,8 @@ subtitle = ""
 <p><i>Guitarras en peligro de extinción (25/02/2021)</i> <br>
 <a href="https://www.canalextremadura.es/a-la-carta/el-mejor-dia-de-la-semana/audios/guitarras-en-peligro-de-extincion">Canal Extremadura Radio </a></p>
 
+<p> <font color= "brown"> 2020 </font> </p>		
+
 <p><i>Incendios en Sudamérica (26/09/2020)</i> <br>
 <a href="https://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=7561416">Sveriges Radio AB (Radio Nacional Sueca)</a></p>
 
@@ -943,7 +966,7 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
-
+<p> <font color= "brown"> 2026 </font> </p>		
 <p><i> Tras las borrascas ¿habrá menos incendios? La crisis climática ensombrece el pronóstico (4/03/2026)</i> <br>
 <a href="https://efe.com/medio-ambiente/2026-03-04/borrascas-lluvias-incendios-bosque-crisis-climatica/">Declaraciones para EFE</a></p>
 
@@ -960,7 +983,9 @@ subtitle = ""
 <a href="https://www.nationalgeographic.com.es/medio-ambiente/calentamiento-global-no-se-detiene-probablemente-sean-condiciones-benignas-comparacion-a-2040_27310">Declaraciones para National Geographic/a></p>
 
 <p><i>La devastación de los incendios de 2025 podría repetirse este año: “No se están tomando las medidas necesarias para evitarlo” (07/01/2026)</i> <br>
-<a href="https://www.infobae.com/espana/2026/01/07/la-devastacion-de-los-incendios-de-2025-podria-repetirse-este-ano-no-se-estan-tomando-las-medidas-necesarias-para-evitarlo/">Declaraciones para Infobae</a></p>
+<a href="https://www.infobae.com/espana/2026/01/07/la-devastacion-de-los-incendios-de-2025-podria-repetirse-este-ano-no-se-estan-tomando-las-medidas-necesarias-para-evitarlo/"> Declaraciones para Infobae</a></p>
+
+<p> <font color= "brown"> 2025 </font> </p>		
 
 <p><i>El aumento de los fenómenos climáticos extremos pone al límite la capacidad de adaptación de los Estados (30/12/2025)</i> <br>
 <a href="https://www.rtve.es/noticias/20251230/fenomenos-climaticos-extremos-aumentado-limite-capacidad-adaptacion/16875244.shtml">Declaraciones en RTVE</a></p>
@@ -1109,6 +1134,7 @@ subtitle = ""
 <a href="https://www.larazon.es/sociedad/deforestacion-crece-espana-pero-gravedad-incendios_2025051868298094176f225ec6251ae8.html">Declaraciones para La Razón</a></p>
 
 
+
 <p><i>Europa bate su récord de temperaturas en 2024 y se convierte en el continente que más rápido se está calentando (15/04/2025)</i> <br>
 <a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2025/04/15/67fd50b1e9cf4a857b8b4570.html">Declaraciones en EL Mundo</a></p>
 
@@ -1135,6 +1161,8 @@ subtitle = ""
 
 <p><i>El infierno se desata en "la capital del fuego": el cambio climático y el urbanismo, detrás de los incendios de California (10/01/2025)</i> <br>
 <a href="https://www.rtve.es/noticias/20250110/infierno-capital-fuego-cambio-climatico-urbanismo-incendios-angeles/16402514.shtml">Declaraciones para RTVE</a></p>
+
+<p> <font color= "brown"> 2024 </font> </p>		
 
 <p><i>Bienvenidos al Piroceno, la era de los incendios casi inextinguibles (21/06/2024)</i> <br>
 <a href="https://elpais.com/ciencia/2024-06-21/bienvenidos-al-piroceno-la-era-de-los-fuegos-casi-inextinguibles.html?ssm=TW_CC/">Declaraciones para El País</a></p>
@@ -1178,6 +1206,8 @@ subtitle = ""
 <p><i>Este científico te explica los "bulos ecológicos" que empeoran la crisis ambiental (06/01/2024)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2024-01-06/cientifico-bulos-ecologicos-empeoran-crisis_3805951/?utm_source=twitter&utm_medium=social&utm_campaign=BotoneraWeb"> El Confidencial</a></p>
 
+<p> <font color= "brown"> 2023 </font> </p>		
+
 <p><i>El ecologismo celebra que España mantenga el plan de cierre nuclear y pide celeridad (28/12/2023)</i> <br>
 <a href="https://efeverde.com/ecologismo-plan-cierre-nuclear/"> Declaraciones para EFE Verde</a></p>
 
@@ -1207,6 +1237,8 @@ subtitle = ""
 
 <p><i>"El canvi climàtic allargarà 45 dies la campanya d'incendis" (17/01/2023)</i> <br>
 <a href="https://www.naciodigital.cat/noticia/251490/canvi-climatic-allargara-45-dies-campanya-incendis-mediterrania">Nació Digital</a></p>
+
+<p> <font color= "brown"> 2022 </font> </p>		
 
 <p><i>"Researchers Predict More Intense Wildfires in Europe" (8/12/2022)</i> <br>
 <a href="https://www.oliveoiltimes.com/business/europe/researchers-predict-more-intense-wildfires-in-europe/115076">Entrevista para Olive Oil Times</a></p>
@@ -1260,6 +1292,8 @@ subtitle = ""
 <p><i>El precio de una escalada nuclear es la seguridad alimentaria (9/05/2022)</i> <br>
 <a href="https://www.cambio16.com/victor-resco-de-dios-el-precio-de-una-escalada-nuclear-es-la-seguridad-alimentaria/">Entrevista para Cambio16</a></p>
 
+<p> <font color= "brown"> 2021 </font> </p>		
+
 <p><i>Por qué plantar árboles es la peor medida para frenar la deforestación del planeta (1/11/2021)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2021-11-01/errores-onu-reforestar-planeta-ciencia_3315171/">Declaraciones para El Confidencial</a></p>
 
@@ -1296,7 +1330,7 @@ subtitle = ""
 republicada en <a href="https://www.lavanguardia.com/vida/20210210/6236620/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras.html">La Vanguardia</a> |
 <a href="https://www.eldiario.es/sociedad/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras_1_7207630.html"> eldiario.es</a> y más</p>
 
-
+<p> <font color= "brown"> 2020 </font> </p>		
 <p><i>As wildfires continue in western United States, biologists fear for vulnerable species (09/2020)</i> <br>
 <a href="https://www.sciencemag.org/news/2020/09/wildfires-continue-western-united-states-biologists-fear-vulnerable-species">Declaraciones para Science </a></p>
 
@@ -1324,6 +1358,7 @@ republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-d
 republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">La Vanguardia</a>  | 
 <a href="https://www.eldiario.es/sociedad/Experto-defiende-conservacion-reforestacion-indiscriminada_0_1006499856.html"> eldiario.es</a> y más</p>
 
+<p> <font color= "brown"> 2019 </font> </p>		
 <p><i>Incendios y deforestación en Amazonia (21/08/2019)</i> <br>
 <a href="https://www.climatica.lamarea.com/que-esta-ocurriendo-en-la-amazonia-y-por-que-debe-importarnos/">Climática (La Marea)</a></p>
 
