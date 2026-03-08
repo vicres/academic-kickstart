@@ -530,8 +530,6 @@ subtitle = ""
   
 <p><em> Entrevista RTVE (6/11/2025)</em><br>
 <a href="https://x.com/rtvenoticias/status/1986500235036635156">    ¿Hasta qué punto puede el cambio climático afectar a nuestra salud?</a> </p>
-
-  
   
 <p><em> Entrevista Antena 3 (21/08/2025)</em><br>
 <a href="https://www.antena3.com/programas/espejo-publico/noticias/advertencia-experto-incendios-son-mas-que-entradilla-que-vamos-ver_2025082568ac3463fb354e4b3d1d5f63.html">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
@@ -553,8 +551,6 @@ subtitle = ""
 
 <p><em> Entrevista la Sexta (06/06/2025)</em><br>
 <a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
-
-
 
 <p><em> Entrevista TV3 (24/03/2024)</em><br>
 <a href="https://www.ccma.cat/3cat/victor-resco-de-dios-ens-han-inculcat-que-els-individus-som-responsables-de-la-crisi-climatica-pero-en-realitat-en-som-victimes/video/6273144/#onboarding=true">  Col·lapse: Ens han inculcat que els individus som responsables de la crisis climàtica  quan en realitat som víctimes</a> </p>
@@ -679,8 +675,15 @@ subtitle = ""
 <h3>Radio</h3>
 
 
+<p><i>   Los incendios se apagan en invierno (26/02/2026)</i> <br>
+<a href="https://cadenaser.com/audio/1772111584195/"> Hoy por hoy Ciudad Real (Cadena Ser)  </a></p>
+
+
 <p><i>   Un catedrático en Ingeniería Forestal propone dos medidas para reducir el riesgo de incendios en verano: "Son muy claras" (02/09/2025)</i> <br>
-<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> CHerrera en COPE  </a></p>
+<a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
+
+<p><i>   La UE vive la peor temporada de incendios del siglo (01/09/2025)</i> <br>
+<a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/> Europa Abierta (RNE)  </a></p>
 
 <p><i>   La Entrevista de las 9h (18/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
@@ -693,6 +696,9 @@ subtitle = ""
 
 <p><i>   Un experto forestal explica el motivo por el que España no previene los incendios y prefiere apagarlos: incluso aunque pierda dinero (02/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/mediodia-cope/noticias/experto-forestal-explica-motivo-espana-previene-incendios-prefiere-apagarlos-pierda-dinero-20250802_3194467.html> Mediodía COPE </a></p>
+
+<p><i>   Incendio de sexta generación: "La prevención es más barata que la extinción" (25/07/2025)</i> <br>
+<a href="https://www.rtve.es/play/audios/las-mananas-de-rne/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lleida-prevencion-mas-barata-extincion/16671658/"> Las Mañanas de RNE</a></p>
 
 <p><i>   Entrevista Víctor Resco, catedràtic d’Enginyeria Forestal i Canvi Global (14/07/2025)</i> <br>
 <a href="https://www.youtube.com/watch?v=dW9Ia7LJuFc"> Aquí Catalunya  (Cadena Ser )</a></p>
@@ -839,6 +845,10 @@ subtitle = ""
 <p><i>400.000 hectáreas después (12/10/2025)</i> <br>
 <a href="https://www.newtral.es/incendios-espana-recuperacion-cambio-climatico/20251012/">Declaraciones para Newtral</a></p>
 
+<p><i>El 64% del territori català és forestal i només un terç es gestiona de manera planificada: “Tenim el bosc descuidat” (05/10/2025)</i> <br>
+<a href="https://www.lavanguardia.com/local/pirineos/20251005/11128756/64-territori-catala-es-forestal-i-nomes-terc-gestiona-manera-planificada-tenim-bosc-descuidat-agenciaslv20251005.amp.html">Declaraciones para La Vanguardia</a></p>
+
+
 <p><i>¿Negacionismo climático 'encubierto'? El desafío de la reforestación tras un incendio (2/10/2025)</i> <br>
 <a href="https://efeverde.com/negacionismo-climatico-encubierto-el-desafio-de-la-reforestacion-tras-un-incendio/">Declaraciones para EFE</a></p>
 
@@ -864,6 +874,9 @@ subtitle = ""
 <p><i>Wie Spanien künftig Waldbrände eher verhindern könnte (25/08/2025)</i> <br>
 <a href="https://www.srf.ch/news/international/rekordbraende-in-spanien-wie-spanien-kuenftig-waldbraende-eher-verhindern-koennte"> Declaraciones para SRF (Suiza)</a></p>
 
+<p><i>"La culpa es del eucalipto". Bulos y medias verdades que avivan la tragedia de los incendios (21/08/2025)</i> <br>
+<a href="https://www.elconfidencial.com/tecnologia/ciencia/2025-08-21/incendio-fuego-emergencia-clima-bomberos_4194004/"> Declaraciones para El Confidencial</a></p>
+
 <p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
 <a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
 
@@ -874,6 +887,8 @@ subtitle = ""
 <p><i>Los expertos denuncian el grave error de fiarlo todo a la extinción:  "Tenemos una legislación que favorece los incendios"" (14/08/2025)</i> <br>
 <a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/14/689e206ee4d4d805318b45a3.html">Declaraciones para El Mundo</a></p>
 
+<p><i>El viento y el calor han alimentado los incendios, pero las administraciones “siguen sin hacer los deberes”: “Sale más caro apagarlos que prevenirlos” (13/08/2025)</i> <br>
+<a href="https://www.infobae.com/espana/2025/08/13/el-viento-y-el-calor-han-agravado-los-incendios-pero-las-administraciones-siguen-sin-hacer-los-deberes-sale-mas-caro-apagarlos-que-prevenirlos/>Declaraciones para Infobae</a></p>
 
 <p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo" (13/08/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
