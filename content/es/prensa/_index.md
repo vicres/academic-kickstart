@@ -53,7 +53,7 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Divulgación científica</h1></font>
 
-<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> | <a href="#yt">Ponencias</a>
+<a href="#prensa">Columnas</a> | <a href="#entrevistas">Entrevistas</a> |
 
 <div class="main" id="prensa">
 <font color= "green">  <h2>Columnas</h2></font>
@@ -539,6 +539,8 @@ subtitle = ""
 <p><em> Entrevista Antena 3 (9/09/2025)</em><br>
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D84qY6ulgr9k&ved=2ahUKEwj5y9y05o-TAxW4UKQEHTqcDA4QwqsBegQIFxAB&usg=AOvVaw2bYfqu-10adiQTDS5Iytx-">  Entrevista en Espejo Público</a> </p>
 
+<p><em> Entrevista Antena 3 (27/08/2025)</em><br>
+<a href="https://x.com/rescodedios/status/1960757572245332273?s=20">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
 
 <p><em> Entrevista Antena 3 (25/08/2025)</em><br>
 <a href="https://www.antena3.com/programas/espejo-publico/noticias/advertencia-experto-incendios-son-mas-que-entradilla-que-vamos-ver_2025082568ac3463fb354e4b3d1d5f63.html">  La advertencia de un experto sobre los incendios: "No son más que la entradilla de lo que vamos a ver"</a> </p>
@@ -552,6 +554,12 @@ subtitle = ""
 
 <p><em> Entrevista la Sexta (21/08/2025)</em><br>
 <a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-catedratico-ingenieria-forestal-fuentes-oficiales-han-estado-mas-preocupadas-desinformar-que-decir-verdad_2025082168a6fd1adb588163100b0418.html">  Víctor Resco, catedrático de Ingeniería Forestal: "Las fuentes oficiales han estado más preocupadas en desinformar que en decir la verdad"</a> </p>
+
+
+
+<p><em> Telecinco (18/08/2025)</em><br>
+<a href="https://www.youtube.com/watch?v=lO8LsnB966c">  Entrevista, La Mirada Crítica</a> </p>
+
 
 <p><em> Entrevista Europa Press TV (18/08/2025)</em><br>
 <a href="https://www.europapress.tv/sociedad/1002552/1/catedratico-ingenieria-forestal-autor-ecomitos-victor-resco-europa-press">  El catedrático en Ingeniería Forestal y autor de 'Ecomitos', Víctor Resco, para Europa Press</a> </p>
@@ -568,9 +576,16 @@ subtitle = ""
 <p><em> Entrevista TeleMadrid (13/08/2025)</em><br>
 <a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> La brutal factura de los incendios forestales</a> </p>
 
+<p><em> Entrevista Telecinco (13/08/2025)</em><br>
+<a href="https://www.youtube.com/watch?v=2ZgQ3yZyX6w">  Entrevista en La Mirada Crítica</a> </p>
+
+
 <p><em> Entrevista la Sexta (12/08/2025)</em><br>
 <a href="https://www.lasexta.com/noticias/sociedad/que-hay-tantos-incendios-espana-expanden-mas-rapido-cambio-climatico-uno-culpables_20250812689bb58c6d08be7a8a4dc70d.html"> ¿Por qué hay tantos incendios en España? Se expanden más rápido y el cambio climático es uno de los culpables</a> </p>
 
+
+<p><em> Entrevista RTVE (18/07/2025)</em><br>
+<a href="https://youtu.be/PvBe8Hptedg?si=kseiTQru910Imftv"> Efectos de los humos de los incendios forestales</a> </p>
 
 <p><em> Entrevista TV3 (08/07/2025)</em><br>
 <a href="https://www.3cat.cat/3cat/victor-resco-de-dios-el-que-podem-fer-per-prevenir-els-incendis-es-reduir-el-combustible-que-crema/video/6349208/"> El que podem fer per prevenir incendis és reduir el combustible</a> </p>
@@ -579,8 +594,15 @@ subtitle = ""
 <a href="https://www.cuatro.com/noticias/sociedad/20250702/incendios-sexta-generacion-comunes-violentos-impredecibles_18_016030604.html"> Los incendios de sexta generación, cada vez más comunes: violentos, impredecibles y difíciles de controlar</a> </p>
 
 
-<p><i>  EntrevistaRTEVE (02/07/2025)</i> <br>
+<p><i>  Entrevista RTVE (02/07/2025)</i> <br>
 <a href="https://www.rtve.es/play/videos/informativo-24h/victor-resco-incendios-cambio-climatico-excusa-inaccion/16648714/"> Víctor Resco, especialista en incendios: "Usamos el cambio climático como excusa para justificar nuestra inacción"  </a></p>
+
+<p><i>  Entrevista RTVE (13/06/2025)</i> <br>
+<a href="https://www.youtube.com/watch?v=ZMz-r8o10Ls"> OBJETIVO PLANETA: La ciencia y el fenómeno de los incendios  </a></p>
+
+<p><em> Entrevista la Sexta (08/06/2025)</em><br>
+<a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
+
 
 <p><em> Entrevista la Sexta (06/06/2025)</em><br>
 <a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
@@ -735,8 +757,16 @@ subtitle = ""
 <p><i>   La UE vive la peor temporada de incendios del siglo (01/09/2025)</i> <br>
 <a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/"> Europa Abierta (RNE)  </a></p>
 
+<p><i>   Què o qui provoca els incendis? (26/08/2025)</i> <br>
+<a href="https://www.3cat.cat/3cat/que-o-qui-provoca-els-incendis-el-2022-la-majoria-van-ser-provocats-per-llamps/audio/1252690/"> El Matí de Catalunya Ràdio  </a></p>
+
 <p><i>   La Entrevista de las 9h - El ingeniero Resco de Dios: "Nos hemos olvidado de afrontar el estado de vegetación de los montes" (18/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
+
+
+<p><i>   Víctor Resco, catedràtic d’Enginyeria Forestal: “Tenim més avions que Califòrnia; en números globals, estem millor preparats”(18/08/2025)</i> <br>
+<a href="https://cadenaser.com/cataluna/2025/08/18/victor-resco-catedratic-denginyeria-forestal-tenim-mes-avions-que-california-en-numeros-globals-estem-millor-preparats-sercat/"> Aquí Catalunya (Cadena Ser)  </a></p>
+
 
 <p><i>   España en llamas: "Estamos en el tráiler de lo que nos va a venir" (16/08/2025)</i> <br>
 <a href="https://cadenaser.com/audio/1755336071653/"> A vivir que son dos días (Cadena Ser)  </a></p>
@@ -752,7 +782,7 @@ subtitle = ""
 <p><i>   Un experto forestal explica el motivo por el que España no previene los incendios y prefiere apagarlos: incluso aunque pierda dinero (02/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/mediodia-cope/noticias/experto-forestal-explica-motivo-espana-previene-incendios-prefiere-apagarlos-pierda-dinero-20250802_3194467.html"> Mediodía COPE </a></p>
 
-<p><i>   Incendio de sexta generación: "La prevención es más barata que la extinción" (25/07/2025)</i> <br>
+<p><i>   Incendio de sexta generación: "La prevención es más barata que la extinción" (21/07/2025)</i> <br>
 <a href="https://www.rtve.es/play/audios/las-mananas-de-rne/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lleida-prevencion-mas-barata-extincion/16671658/"> Las Mañanas de RNE</a></p>
 
 <p><i>   Entrevista Víctor Resco, catedràtic d’Enginyeria Forestal i Canvi Global (14/07/2025)</i> <br>
@@ -773,6 +803,9 @@ subtitle = ""
 
 <p><i>   Incendios de sexta generación (02/07/2025)</i> <br>
 <a href="https://www.rtve.es/grafo/audio/incendios-de-sexta-generacion/e9a89273-42b4-4edd-8f57-ba9818f2a296"> Las Tardes de RNE  </a></p>
+
+<p><i>   "Cambio climático y plantas; vegetación y fuego (24/06/2025)</i> <br>
+<a href="https://www.cartv.es/aragonradio/podcast/emision/agora-24-06-2025"> Ágora (Aragón Radio)  </a></p>
 
 
 <p><i>   "Si le dices a la gente que se quede en casa, los que viven en los bajos se quedan atrapados": la alerta de la DANA se envió tarde y con información incompleta (02/03/2025)</i> <br>
@@ -846,6 +879,9 @@ subtitle = ""
 
 <p><i> Entrevista en La Tarde en Cope (21/07/2022)</i> <br>
 <a href="https://www.ivoox.com/escucha-la-tarde-21-07-2022-8211-18h-a-19h-audios-mp3_rf_90101873_1.html"> la Cope (minuto 13)</a></p>
+
+<p><i>Víctor Resco: “Viure al costat de Collserola fa que els barcelonins estiguin 9 vegades més exposats a grans incendis” (14/07/2025)</i> <br>
+<a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Aquí Catalunya (Cadena Ser)</a></p>
 
 <p><i> Entrevista en Hora 25 (18/06/2022)</i> <br>
 <a href="https://play.cadenaser.com/audio/cadenaser_hora25_20220618_230000_233000/"> Cadena Ser (minuto 20)</a></p>
@@ -991,6 +1027,14 @@ subtitle = ""
 <p><i>La recuperación tras el fuego: "No volveremos a tener bosques en décadas, pero especies como las encinas y los pinos pueden regenerarse de forma natural" (25/08/2025)</i> <br>
 <a href="https://www.elmundo.es/espana/2025/08/25/68ab57c7e85ecec1428b457b.html"> Declaraciones para El Mundo</a></p>
 
+<p><i>Cuando el fuego deja de ser destrucción: así son las plantas pirófilas que renacen (y dependen) de los incendios (24/08/2025)</i> <br>
+<a href="https://www.elespanol.com/enclave-ods/historias/20250823/fuego-deja-destruccion-plantas-pirofilas-renacen-dependen-incendios/1003743894316_0.html?utm_source=twitter&utm_medium=social&utm_campaign=fixedbar"> Declaraciones para El Español</a></p>
+
+
+<p><i>EU wildfires worst on record as burning season continues (22/08/2025)</i> <br>
+<a href="https://www.theguardian.com/world/2025/aug/22/eu-wildfires-worst-year-on-record-as-season-continues"> Declaraciones para The Guardian</a></p>
+
+
 <p><i>Wildfires are preventable. So why does the Iberian Peninsula keep burning? (21/08/2025)</i> <br>
 <a href="https://www.politico.eu/article/wildfire-prevention-iberian-peninsula-spain-portugal-climate-change/"> Declaraciones para Politico</a></p>
 
@@ -998,11 +1042,22 @@ subtitle = ""
 <p><i>"La culpa es del eucalipto". Bulos y medias verdades que avivan la tragedia de los incendios (21/08/2025)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2025-08-21/incendio-fuego-emergencia-clima-bomberos_4194004/"> Declaraciones para El Confidencial</a></p>
 
+<p><i>« Ils nous ont complètement abandonnés » : l’Espagne débordée par des feux incontrôlables (19/08/2025)</i> <br>
+<a href="https://reporterre.net/Ils-nous-ont-completement-abandonnes-l-Espagne-debordee-par-des-feux-incontrolables"> Declaraciones para Reporterre</a></p>
+
+
+<p><i>Wildfire smoke far more dangerous to health than thought, say scientists (19/08/2025)</i> <br>
+<a href="https://www.theguardian.com/environment/2025/aug/19/wildfire-smoke-far-more-dangerous-than-thought-say-scientists"> Declaraciones para The Guardian</a></p>
+
 <p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
 <a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
 
-<p><i>Los expertos ante los incendios del futuro: "Trabajamos con la hipótesis de que todo se va a quemar" (16/08/2025)</i> <br>
-<a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/15/689f67eae9cf4a42778b4590.html">Declaraciones para El Mundo</a></p>
+<p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
+<a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
+
+
+<p><i>El incendiario, el chivo expiatorio que carga con las culpas de los incendios (17/08/2025)</i> <br>
+<a href="https://elpais.com/clima-y-medio-ambiente/2025-08-17/el-incendiario-el-chivo-expiatorio-que-carga-con-las-culpas-de-los-incendios.html?ssm=TW_CC">Declaraciones para El País</a></p>
 
 
 <p><i>Víctor Resco (catedrático en Ingeniería Forestal), sobre los incendios: "El escenario que ahora estamos viendo es el tráiler de lo que está por venir" (15/08/2025)</i> <br>
@@ -1021,8 +1076,14 @@ subtitle = ""
 <p><i>El viento y el calor han alimentado los incendios, pero las administraciones “siguen sin hacer los deberes”: “Sale más caro apagarlos que prevenirlos” (13/08/2025)</i> <br>
 <a href="https://www.infobae.com/espana/2025/08/13/el-viento-y-el-calor-han-agravado-los-incendios-pero-las-administraciones-siguen-sin-hacer-los-deberes-sale-mas-caro-apagarlos-que-prevenirlos/">Declaraciones para Infobae</a></p>
 
+
+
 <p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo" (13/08/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
+
+<p><i>Las inundaciones de Texas y la DANA de Valencia: similitudes y diferencias entre las tragedias climáticas (8/07/2025)</i> <br>
+<a href="https://www.nationalgeographic.com.es/medio-ambiente/inundaciones-texas-dana-valencia-similitudes-diferencias-entre-tragedias-climaticas_25465">Declaraciones para National Geographic/a></p>
+
 
 <p><i>¿Por qué los incendios forestales en áreas protegidas arden más que el resto? (8/07/2025)</i> <br>
 <a href="https://efeverde.com/por-que-los-incendios-forestales-en-areas-protegidas-arden-mas-que-el-resto/">Declaraciones para EFE</a></p>
@@ -1279,25 +1340,6 @@ republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/
 <a href="https://www.elperiodico.com/es/sociedad/20180122/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio-6569704">El Periódico</a> |
 <a href="https://www.lavanguardia.com/vida/20180122/44218011952/el-cambio-climatico-transformara-el-regimen-de-incendios-segun-un-estudio.html">La Vanguardia</a> </p>
 
-</div>
-<div class="main" id="yt">
-  <h2>Ponencias</h2>
-
-<p><em>Foro sobre Incendios Forestales: Fundación Felipe González y Gobierno de Aragón</em><br>
-<a href="http://youtu.be/EM9U7e_mm9M">El desafío de los grandes incendios forestales</a> </p>
-{{< youtube id="EM9U7e_mm9M" autoplay="true">}}
-
-<p><em>Forests Talks</em><br>
-<a href="https://youtu.be/uDx2zljyaXs">Boscos post COVID-19</a> </p>
-
-{{< youtube uDx2zljyaXs >}}
-
-  
-<p><em>CREAF Talks</em><br>
-<a href="https://www.youtube.com/watch?v=58NJZFYCcgo">Plant memories and ecosystem fluxes</a> </p>
-
-{{< youtube 58NJZFYCcgo >}}
-  
 </div>
 <br>
 <br>
