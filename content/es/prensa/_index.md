@@ -682,7 +682,7 @@ subtitle = ""
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
 
 <p><i>   La UE vive la peor temporada de incendios del siglo (01/09/2025)</i> <br>
-<a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/""> Europa Abierta (RNE)  </a></p>
+<a href="https://www.rtve.es/play/audios/europa-abierta/europa-abierta-ue-vive-peor-temporada-incendios-del-siglo/16713490/"> Europa Abierta (RNE)  </a></p>
 
 <p><i>   La Entrevista de las 9h (18/08/2025)</i> <br>
 <a href="https://www.cope.es/programas/herrera-en-cope/la-entrevista-de-las-9h-con-herrera/episodios/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lerida-coordinador-centro-tecnologico-forestal-cataluna-20250818_3200251.html"> Herrera en COPE  </a></p>
@@ -694,7 +694,7 @@ subtitle = ""
 <a href="https://www.ondacero.es/programas/por-fin/audios/entrevistas/errores-que-agravan-incendios-espana-segun-experto-cambio-global-victor-resco_20250812689b602e51d2460c8077f5fe.html"> Por fin (Onda Cero)  </a></p>
 
 <p><i>   Un experto forestal explica el motivo por el que España no previene los incendios y prefiere apagarlos: incluso aunque pierda dinero (02/08/2025)</i> <br>
-<a href="https://www.cope.es/programas/mediodia-cope/noticias/experto-forestal-explica-motivo-espana-previene-incendios-prefiere-apagarlos-pierda-dinero-20250802_3194467.html> Mediodía COPE </a></p>
+<a href="https://www.cope.es/programas/mediodia-cope/noticias/experto-forestal-explica-motivo-espana-previene-incendios-prefiere-apagarlos-pierda-dinero-20250802_3194467.html"> Mediodía COPE </a></p>
 
 <p><i>   Incendio de sexta generación: "La prevención es más barata que la extinción" (25/07/2025)</i> <br>
 <a href="https://www.rtve.es/play/audios/las-mananas-de-rne/victor-resco-dios-catedratico-ingenieria-forestal-universidad-lleida-prevencion-mas-barata-extincion/16671658/"> Las Mañanas de RNE</a></p>
@@ -887,14 +887,13 @@ subtitle = ""
 <a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/14/689e206ee4d4d805318b45a3.html">Declaraciones para El Mundo</a></p>
 
 <p><i>El viento y el calor han alimentado los incendios, pero las administraciones “siguen sin hacer los deberes”: “Sale más caro apagarlos que prevenirlos” (13/08/2025)</i> <br>
-<a href="https://www.infobae.com/espana/2025/08/13/el-viento-y-el-calor-han-agravado-los-incendios-pero-las-administraciones-siguen-sin-hacer-los-deberes-sale-mas-caro-apagarlos-que-prevenirlos/>Declaraciones para Infobae</a></p>
+<a href="https://www.infobae.com/espana/2025/08/13/el-viento-y-el-calor-han-agravado-los-incendios-pero-las-administraciones-siguen-sin-hacer-los-deberes-sale-mas-caro-apagarlos-que-prevenirlos/">Declaraciones para Infobae</a></p>
 
 <p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo" (13/08/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
 
 <p><i>Los incendios de 'sexta generación': unos desconocidos para la ciencia que liberan la energía de "varias bombas nucleares" (3/07/2025)</i> <br>
 <a href="https://www.20minutos.es/noticia/5727498/0/los-incendios-sexta-generacion-unos-desconocidos-para-ciencia-que-liberan-energia-varias-bombas-nucleares/">Declaraciones para 20 minutos</a></p>
-
 
 <p><i>Bienvenidos al Piroceno, la era de los incendios casi inextinguibles (21/06/2024)</i> <br>
 <a href="https://elpais.com/ciencia/2024-06-21/bienvenidos-al-piroceno-la-era-de-los-fuegos-casi-inextinguibles.html?ssm=TW_CC/">Declaraciones para El País</a></p>
