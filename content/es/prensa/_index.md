@@ -1015,6 +1015,9 @@ subtitle = ""
 <p><i> Cómo se regenera un bosque tras un gran incendio: el papel de los animales y las semillas ocultas (17/09/2025)</i> <br>
 <a href="https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20250917/como-regenera-bosque-gran-incendio-papel-animales-semillas-ocultas_335407.html"> Declaraciones en El Debate</a></p>
 
+<p><i> Blazes subside, questions mount: Europe’s wildfire response under scrutiny (17/09/2025)</i> <br>
+<a href="https://www.aa.com.tr/en/europe/blazes-subside-questions-mount-europe-s-wildfire-response-under-scrutiny/3690582"> Declaraciones para Anadolu Ajansi (Turquía) </a></p>
+
 
 <p><i> DANA: el fenómeno meteorológico que afecta en otoño al Mediterráneo (01/09/2025)</i> <br>
 <a href="https://www.nationalgeographic.com.es/medio-ambiente/dana-espana-efectos-fenomeno-meteorologico-que-cambia-reglas-juego_20669"> Declaraciones para National Geographic</a></p>
@@ -1022,6 +1025,10 @@ subtitle = ""
 
 <p><i> El fracaso del reto demográfico del Gobierno ahoga la España rural (01/09/2025)</i> <br>
 <a href="https://www.abc.es/sociedad/fracaso-reto-demografico-gobierno-ahoga-espana-rural-20250901034639-nt.html#vca=compartirrrss&vso=abc&vmc=rrss&vli=fixed-twitter">Declaraciones para ABC</a></p>
+
+<p><i>欧州止まらぬ山火事　猛暑と農村の「過疎化」で被害拡大　焼失面積は東京の4倍超 (31/08/2025)</i> <br>
+<a href="https://www.sankei.com/article/20250831-7YSNPEVPONOFNPTRR7UH7QZZ7U/">Declaraciones para SANKEI (en japonés)</a></p>
+
 
 
 <p><i> Spain's summer of wildfires fuels calls for better forest management (29/09/2025)</i> <br>
