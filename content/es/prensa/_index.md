@@ -558,7 +558,7 @@ subtitle = ""
 <a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-catedratico-ingenieria-forestal-fuentes-oficiales-han-estado-mas-preocupadas-desinformar-que-decir-verdad_2025082168a6fd1adb588163100b0418.html">  Al Rojo Vivo </a> </p>
 
 <p><em> Telecinco (18/08/2025)</em><br>
-<a href="https://www.youtube.com/watch?v=lO8LsnB966c">  Entrevista, La Mirada Crítica</a> </p>
+<a href="https://www.youtube.com/watch?v=lO8LsnB966c">  La Mirada Crítica</a> </p>
 
 
 <p><em> Entrevista Europa Press TV (18/08/2025)</em><br>
@@ -577,7 +577,7 @@ subtitle = ""
 <a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> 120 Minutos </a> </p>
 
 <p><em> Entrevista Telecinco (13/08/2025)</em><br>
-<a href="https://www.youtube.com/watch?v=2ZgQ3yZyX6w">  Entrevista en La Mirada Crítica</a> </p>
+<a href="https://www.youtube.com/watch?v=2ZgQ3yZyX6w">  La Mirada Crítica</a> </p>
 
 
 <p><em> Entrevista la Sexta (12/08/2025)</em><br>
@@ -893,7 +893,7 @@ subtitle = ""
 <a href="https://www.rtve.es/play/audios/de-vuelta-en-radio-5/220807-seccion-juan-incendios-2022-08-07t14-33-29690/6665623/"> RNE 5</a></p>
 
 <p><i> Entrevista en La Tarde en Cope (21/07/2022)</i> <br>
-<a href="https://www.ivoox.com/escucha-la-tarde-21-07-2022-8211-18h-a-19h-audios-mp3_rf_90101873_1.html"> la Cope (minuto 13)</a></p>
+<a href="https://www.ivoox.com/escucha-la-tarde-21-07-2022-8211-18h-a-19h-audios-mp3_rf_90101873_1.html"> COPE (minuto 13)</a></p>
 
 <p><i>Víctor Resco: “Viure al costat de Collserola fa que els barcelonins estiguin 9 vegades més exposats a grans incendis” (14/07/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Aquí Catalunya (Cadena Ser)</a></p>
