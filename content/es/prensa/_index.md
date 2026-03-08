@@ -53,7 +53,7 @@ subtitle = ""
 <div class="main" id="top">
 <font color= "green">  <h1>Divulgación científica</h1></font>
 
-<a href="#prensa">Columnas</a> | <a href="#tv">Televisión</a> | <a href="#radio">Radio</a> | <a href="#prensa">Prensa</a>| <a href="#podcast">Pódcast</a>
+<a href="#prensa">Columnas</a> | <a href="#tv">Televisión</a> | <a href="#radio">Radio</a> | <a href="#diarios">Prensa</a>| <a href="#podcast">Pódcast</a>
 
 <div class="main" id="prensa">
 <font color= "green">  <h2>Columnas</h2></font>
@@ -527,6 +527,11 @@ subtitle = ""
 
 
 <div class="main" id="tv">
+
+<h3>Televisión</h3>
+
+
+
   
   <p> <font color= "brown"> 2025 </font> </p>		
   
@@ -959,7 +964,7 @@ subtitle = ""
 
 
 
-<div class="main" id="prensa">
+<div class="main" id="diarios">
 <h3>Prensa</h3>
 
 <p> <font color= "brown"> 2026 </font> </p>		
