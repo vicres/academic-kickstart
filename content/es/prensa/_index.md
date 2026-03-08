@@ -68,6 +68,11 @@ subtitle = ""
 <a href="https://elpais.com/opinion/2025-10-03/como-disminuir-el-riesgo-de-incendios-en-un-contexto-de-cambio-climatico-global.html"> El País </a> 
 </p>
 
+<p><i>El rey león y la peste porcina africana (con Jesús Nadal)</i>  <br>
+<a href="https://www.club-caza.com/article/art/34502"> Club de caza </a> |
+<a href="https://e-noticies.cat/es/opinion/rey-leon-y-peste-porcina-africana"> e-Noticies </a> 
+</p>
+
 
 <p><i>COP30: por qué debemos ser cautos ante el fondo de 125 000 millones de dólares para conservar bosques tropicales</i>  <br>
 <a href="https://theconversation.com/cop30-por-que-debemos-ser-cautos-ante-el-fondo-de-125-000-millones-de-dolares-para-conservar-bosques-tropicales-269142"> The Conversation </a> |
@@ -546,8 +551,17 @@ subtitle = ""
 <p><em> Entrevista la Sexta (14/08/2025)</em><br>
 <a href="https://www.lasexta.com/programas/al-rojo-vivo/victor-resco-destaca-cual-unica-solucion-incendios-necesitamos-pacto-estado_20250814689dc31d97dddb01129cc93c.html"> Víctor Resco destaca cuál es la "única solución" ante los incendios: "Necesitamos un pacto de Estado" </a> </p>
 
+<p><em> Entrevista la Sexta (14/08/2025)</em><br>
+<a href="https://www.lasexta.com/noticias/sociedad/gasto-prevencion-incendios-espana-desploma-casi-60-ultimos-15-anos_20250814689de8c197dddb01129cf9ee.html"> El gasto en prevención de incendios en España se desploma casi un 60% en los últimos 15 años</a> </p>
+
 <p><em> Entrevista TeleMadrid (13/08/2025)</em><br>
 <a href="https://www.youtube.com/watch?v=B9baD2g6FHI"> La brutal factura de los incendios forestales</a> </p>
+
+<p><em> Entrevista TV3 (08/07/2025)</em><br>
+<a href="https://www.3cat.cat/3cat/victor-resco-de-dios-el-que-podem-fer-per-prevenir-els-incendis-es-reduir-el-combustible-que-crema/video/6349208/"> El que podem fer per prevenir incendis és reduir el combustible</a> </p>
+
+<p><em> Entrevista Cuatro (08/07/2025)</em><br>
+<a href="https://www.cuatro.com/noticias/sociedad/20250702/incendios-sexta-generacion-comunes-violentos-impredecibles_18_016030604.html"> Los incendios de sexta generación, cada vez más comunes: violentos, impredecibles y difíciles de controlar</a> </p>
 
 <p><em> Entrevista la Sexta (06/06/2025)</em><br>
 <a href="https://www.lasexta.com/noticias/sociedad/riesgo-extremo-incendios-altas-temperaturas-primavera-que-aumento-masa-forestal-asi-puedes-prevenirlos_202506086845975c69892f40336a57f4.html"> Riesgo extremo de incendios por las altas temperaturas y por una primavera que aumentó la masa forestal: así puedes prevenirlos</a> </p>
@@ -705,6 +719,9 @@ subtitle = ""
 <p><i>   Els nous incendis són més perillosos (05/07/2025)</i> <br>
 <a href="https://www.rtve.es/play/audios/son-4-dies/els-nous-incendis-son-mes-perillosos/16652796/"> Són 4 dies (Radio 4)  </a></p>
 
+<p><i>   "Si le dices a la gente que se quede en casa, los que viven en los bajos se quedan atrapados": la alerta de la DANA se envió tarde y con información incompleta (02/03/2025)</i> <br>
+<a href="https://cadenaser.com/nacional/2025/03/02/si-le-dices-a-la-gente-que-se-quede-en-casa-los-que-viven-en-los-bajos-se-quedan-atrapados-la-alerta-de-la-dana-se-envio-con-informacion-incompleta-ademas-de-tarde-cadena-ser/"> Hora 14 (Cadena Ser)  </a></p>
+
 <p><i>   Guía para ecoansiosos (03/08/2024)</i> <br>
 <a href="https://cadenaser.com/audio/1722689583231/"> Hora 14 (Cadena Ser)  </a></p>
 
@@ -831,6 +848,10 @@ subtitle = ""
 <div class="main" id="entrevistas_prensa">
 <h3>Prensa</h3>
 
+<p><i> Tras las borrascas ¿habrá menos incendios? La crisis climática ensombrece el pronóstico (4/03/2026)</i> <br>
+<a href="https://efe.com/medio-ambiente/2026-03-04/borrascas-lluvias-incendios-bosque-crisis-climatica/">Declaraciones para EFE</a></p>
+
+
 <p><i> El calor extremo podría acabar con el Tour de Francia tal y como lo conocemos: "Es cuestión de tiempo" (2/03/2026)</i> <br>
 <a href="https://www.elespanol.com/ciencia/20260302/calor-extremo-podria-acabar-tour-francia-conocemos-cuestion-tiempo/1003744144174_0.html">Declaraciones para El Español</a></p>
 
@@ -838,18 +859,27 @@ subtitle = ""
 <p><i>El cambio climático obligará a cambiar las fechas del Tour de Francia: "Sería ingenuo e irresponsable pensar que el Tour se va a seguir librando" (24/02/2026)</i> <br>
 <a href="https://www.mundodeportivo.com/solobici/20260224/1004133631/cambio-climatico-obligara-cambiar-fechas-tour-francia-seria-ingenuo-e-irresponsable-pensar-tour-seguir-librando.html">Declaraciones para El Mundo Deportivo</a></p>
 
+<p><i>2025: el peor año de incendios forestales en 30 años empuja a España a un pacto climático (24/12/2025)</i> <br>
+<a href="https://efeverde.com/2025-peor-ano-incendios-forestales-espana/">Declaraciones para EFE</a></p>
+
 <p><i>Más de 22 000 muertes al año en España se atribuyen a la contaminación del aire (31/10/2025)</i> <br>
 <a href="https://isanidad.com/348953/contaminacion-salud-muertes-espana-lancet-countdown/">Declaraciones para iSanidad</a></p>
 
-<p><i>400.000 hectáreas después (12/10/2025)</i> <br>
+<p><i>Lo que viene tras los peores incendios en décadas, el futuro forestal de España en emergencia climática (12/10/2025)</i> <br>
 <a href="https://www.newtral.es/incendios-espana-recuperacion-cambio-climatico/20251012/">Declaraciones para Newtral</a></p>
 
 <p><i>El 64% del territori català és forestal i només un terç es gestiona de manera planificada: “Tenim el bosc descuidat” (05/10/2025)</i> <br>
 <a href="https://www.lavanguardia.com/local/pirineos/20251005/11128756/64-territori-catala-es-forestal-i-nomes-terc-gestiona-manera-planificada-tenim-bosc-descuidat-agenciaslv20251005.amp.html">Declaraciones para La Vanguardia</a></p>
 
-
 <p><i>¿Negacionismo climático 'encubierto'? El desafío de la reforestación tras un incendio (2/10/2025)</i> <br>
 <a href="https://efeverde.com/negacionismo-climatico-encubierto-el-desafio-de-la-reforestacion-tras-un-incendio/">Declaraciones para EFE</a></p>
+
+<p><i> Alerta por lluvias extremas en Valencia: Todas las claves de lo que está ocurriendo (30/09/2025)</i> <br>
+<a href="https://www.nationalgeographic.com.es/medio-ambiente/xevi-bolumar-jefe-bombero-forestales-valencia-ciudadanos-tienen-muy-presente-ocurrido-hace-ano_26282"> Entrevista para National Geographic</a></p>
+
+<p><i> Cómo se regenera un bosque tras un gran incendio: el papel de los animales y las semillas ocultas (17/09/2025)</i> <br>
+<a href="https://www.eldebate.com/sociedad/sociedad-medio-ambiente/20250917/como-regenera-bosque-gran-incendio-papel-animales-semillas-ocultas_335407.html"> Declaraciones en El Debate</a></p>
+
 
 <p><i> DANA: el fenómeno meteorológico que afecta en otoño al Mediterráneo (01/09/2025)</i> <br>
 <a href="https://www.nationalgeographic.com.es/medio-ambiente/dana-espana-efectos-fenomeno-meteorologico-que-cambia-reglas-juego_20669"> Declaraciones para National Geographic</a></p>
@@ -870,14 +900,31 @@ subtitle = ""
 <p><i>Un catedrático en Ingeniería Forestal reacciona incrédulo a esta escena en 'El Hormiguero' (3/09/2025)</i> <br>
 <a href="https://www.huffingtonpost.es/virales/un-catedratico-ingenieria-forestal-reacciona-incredulo-escena-el-hormiguero.html"> Declaraciones para Huffington Post</a></p>
 
+<p><i>Los incendios de agosto también baten récords de altitud: el fuego amenaza con asaltar el ‘polvorín’ de las montañas (30/08/2025)</i> <br>
+<a href="https://www.eldiario.es/sociedad/incendios-agosto-baten-records-altitud-fuego-amenaza-asaltar-polvorin-montanas_1_12562090.html">Declaraciones para eldiario.es</a></p>
+
+<p><i>España siempre ha tenido muy claro cómo son sus bosques autóctonos. Los incendios y el clima lo están cambiando (27/08/2025)</i> <br>
+<a href="https://www.xataka.com/magnet/ola-incendios-espana-afronta-desafio-mayor-decidir-quiere-bosques-antes-bosques-futuro"> Declaraciones para Xataka </a></p>
+
+
+<p><i>La leña que alimenta el fuego en España cada verano (26/08/2025)</i> <br>
+<a href="https://www.dw.com/es/la-leña-que-alimenta-el-fuego-en-españa-abandono-precariedad-y-cambio-climático/a-73764418"> Declaraciones para DW </a></p>
+
+
 <p><i>Wie Spanien künftig Waldbrände eher verhindern könnte (25/08/2025)</i> <br>
 <a href="https://www.srf.ch/news/international/rekordbraende-in-spanien-wie-spanien-kuenftig-waldbraende-eher-verhindern-koennte"> Declaraciones para SRF (Suiza)</a></p>
+
+<p><i>La recuperación tras el fuego: "No volveremos a tener bosques en décadas, pero especies como las encinas y los pinos pueden regenerarse de forma natural" (25/08/2025)</i> <br>
+<a href="https://www.elmundo.es/espana/2025/08/25/68ab57c7e85ecec1428b457b.html"> Declaraciones para El Mundo</a></p>
 
 <p><i>"La culpa es del eucalipto". Bulos y medias verdades que avivan la tragedia de los incendios (21/08/2025)</i> <br>
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2025-08-21/incendio-fuego-emergencia-clima-bomberos_4194004/"> Declaraciones para El Confidencial</a></p>
 
 <p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
 <a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
+
+<p><i>Los expertos ante los incendios del futuro: "Trabajamos con la hipótesis de que todo se va a quemar" (16/08/2025)</i> <br>
+<a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/15/689f67eae9cf4a42778b4590.html">Declaraciones para El Mundo</a></p>
 
 
 <p><i>Víctor Resco (catedrático en Ingeniería Forestal), sobre los incendios: "El escenario que ahora estamos viendo es el tráiler de lo que está por venir" (15/08/2025)</i> <br>
@@ -886,14 +933,33 @@ subtitle = ""
 <p><i>Los expertos denuncian el grave error de fiarlo todo a la extinción:  "Tenemos una legislación que favorece los incendios"" (14/08/2025)</i> <br>
 <a href="https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2025/08/14/689e206ee4d4d805318b45a3.html">Declaraciones para El Mundo</a></p>
 
+<p><i>Muchos incendios a la vez en todas partes: por qué está ardiendo España (13/08/2025)</i> <br>
+<a href="https://www.rtve.es/noticias/20250813/incendios-todas-partes-arde-espana/16694606.shtml">Declaraciones para RTVE</a></p>
+
 <p><i>El viento y el calor han alimentado los incendios, pero las administraciones “siguen sin hacer los deberes”: “Sale más caro apagarlos que prevenirlos” (13/08/2025)</i> <br>
 <a href="https://www.infobae.com/espana/2025/08/13/el-viento-y-el-calor-han-agravado-los-incendios-pero-las-administraciones-siguen-sin-hacer-los-deberes-sale-mas-caro-apagarlos-que-prevenirlos/">Declaraciones para Infobae</a></p>
 
 <p><i>Víctor Resco, experto en incendios: "Estamos hablando de un problema político y de falta de interés por atajarlo" (13/08/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
 
+<p><i>¿Por qué los incendios forestales en áreas protegidas arden más que el resto? (8/07/2025)</i> <br>
+<a href="https://efeverde.com/por-que-los-incendios-forestales-en-areas-protegidas-arden-mas-que-el-resto/">Declaraciones para EFE</a></p>
+
+
 <p><i>Los incendios de 'sexta generación': unos desconocidos para la ciencia que liberan la energía de "varias bombas nucleares" (3/07/2025)</i> <br>
 <a href="https://www.20minutos.es/noticia/5727498/0/los-incendios-sexta-generacion-unos-desconocidos-para-ciencia-que-liberan-energia-varias-bombas-nucleares/">Declaraciones para 20 minutos</a></p>
+
+<p><i>¿Qué es un pirocúmulo? La nube de fuegos que disparó la propagación del incendio de Lleida (2/07/2025)</i> <br>
+<a href="https://cadenaser.com/cataluna/2025/07/02/que-es-un-pirocumulo-la-nube-de-fuegos-que-disparo-la-propagacion-del-incendio-de-lleida-radio-barcelona/">Declaraciones para EFE</a></p>
+
+<p><i>Incendios buenos: la paradoja del fuego provocado que beneficia al bosque (6/06/2025)</i> <br>
+<a href="https://www.agenciasinc.es/Reportajes/Incendios-buenos-la-paradoja-del-fuego-provocado-que-beneficia-al-bosque">Declaraciones para Agencia SINC</a></p>
+
+<p><i>El incendio en Los Ángeles es una llamada de atención a otras ciudades: “Mucha gente vive en una ratonera y no lo sabe” (11/01/2025)</i> <br>
+<a href="https://www.eldiario.es/sociedad/incendio-angeles-llamada-atencion-ciudades-gente-vive-ratonera-no_1_11954984.html">Declaraciones para eldiario.es</a></p>
+
+<p><i>El infierno se desata en "la capital del fuego": el cambio climático y el urbanismo, detrás de los incendios de California (10/01/2025)</i> <br>
+<a href="https://www.rtve.es/noticias/20250110/infierno-capital-fuego-cambio-climatico-urbanismo-incendios-angeles/16402514.shtml">Declaraciones para RTVE</a></p>
 
 <p><i>Bienvenidos al Piroceno, la era de los incendios casi inextinguibles (21/06/2024)</i> <br>
 <a href="https://elpais.com/ciencia/2024-06-21/bienvenidos-al-piroceno-la-era-de-los-fuegos-casi-inextinguibles.html?ssm=TW_CC/">Declaraciones para El País</a></p>
