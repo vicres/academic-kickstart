@@ -980,7 +980,7 @@ subtitle = ""
 
 
 <p><i>El 2025 completa un trienio récord en temperatura global (pero no por mucho tiempo) (21/01/2026)</i> <br>
-<a href="https://www.nationalgeographic.com.es/medio-ambiente/calentamiento-global-no-se-detiene-probablemente-sean-condiciones-benignas-comparacion-a-2040_27310">Declaraciones para National Geographic/a></p>
+<a href="https://www.nationalgeographic.com.es/medio-ambiente/calentamiento-global-no-se-detiene-probablemente-sean-condiciones-benignas-comparacion-a-2040_27310">Declaraciones para National Geographic</a></p>
 
 <p><i>La devastación de los incendios de 2025 podría repetirse este año: “No se están tomando las medidas necesarias para evitarlo” (07/01/2026)</i> <br>
 <a href="https://www.infobae.com/espana/2026/01/07/la-devastacion-de-los-incendios-de-2025-podria-repetirse-este-ano-no-se-estan-tomando-las-medidas-necesarias-para-evitarlo/"> Declaraciones para Infobae</a></p>
@@ -1326,7 +1326,7 @@ subtitle = ""
 
 
 <p><i>¿Muerte del rocanrol?, el cambio climático afecta a la madera de las guitarras (10/02/2021)</i> <br>
-<a href="https://www.efeverde.com/noticias/muerte-del-rocanrol-el-cambio-climatico-afecta-a-la-madera-de-las-guitarras/">Entrevista para Agencia EFE</a><br>
+<a href="https://www.efeverde.com/noticias/muerte-del-rocanrol-el-cambio-climatico-afecta-a-la-madera-de-las-guitarras/">Entrevista para Agencia EFE</a> 
 republicada en <a href="https://www.lavanguardia.com/vida/20210210/6236620/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras.html">La Vanguardia</a> |
 <a href="https://www.eldiario.es/sociedad/muerte-rocanrol-cambio-climatico-afecta-madera-guitarras_1_7207630.html"> eldiario.es</a> y más</p>
 
@@ -1354,7 +1354,7 @@ republicada en <a href="https://www.infobae.com/america/agencias/2020/06/16/la-d
 <a href="https://www.territoris.cat/articulo/societat/als-boscos-dels-pirineus-els-podrien-quedar-unes-decades/20200124163329062103.html"> Entrevista per a Territoris </a></p>
 
 <p><i>Experto defiende la conservación frente a la reforestación indiscriminada (16/03/2020)</i> <br>
-<a href="https://www.efeverde.com/noticias/fondos-reforestacion-conservacion/">Entrevista para Agencia EFE</a><br>
+<a href="https://www.efeverde.com/noticias/fondos-reforestacion-conservacion/">Entrevista para Agencia EFE</a>
 republicada en <a href="https://www.lavanguardia.com/vida/20200316/474192866320/experto-defiende-la-conservacion-frente-a-la-reforestacion-indiscriminada.html">La Vanguardia</a>  | 
 <a href="https://www.eldiario.es/sociedad/Experto-defiende-conservacion-reforestacion-indiscriminada_0_1006499856.html"> eldiario.es</a> y más</p>
 
