@@ -538,6 +538,10 @@ subtitle = ""
 <p><em> Entrevista RTVE (6/11/2025)</em><br>
 <a href="https://x.com/rtvenoticias/status/1986500235036635156">    Informativo del 24h</a> </p>
 
+<p><em> Entrevista RTVE (10/09/2025)</em><br>
+<a href="https://www.rtve.es/television/20250910/meitat-dels-municipis-amb-alt-risc-dincendi-sense-pla-prevencio/16723588.shtml">    Informatiu Catalunya</a> </p>
+
+
 <p><em> Entrevista Antena 3 (9/09/2025)</em><br>
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D84qY6ulgr9k&ved=2ahUKEwj5y9y05o-TAxW4UKQEHTqcDA4QwqsBegQIFxAB&usg=AOvVaw2bYfqu-10adiQTDS5Iytx-">Espejo Público</a> </p>
 
