@@ -88,7 +88,7 @@ subtitle = ""
 
 <p><i>Medidas que debería incluir un pacto de Estado para hacer frente a los incendios forestales</i>  <br>
 <a href="https://theconversation.com/medidas-que-deberia-incluir-un-pacto-de-estado-para-hacer-frente-a-los-incendios-forestales-263979"> The Conversation </a> |
-<a href="https://www.ondacero.es/noticias/sociedad/medidas-que-deberia-incluir-pacto-estado-hacer-frente-incendios-forestales_2025082968b16163506ef67d06e63f30.html"> Onda cero</a> 
+<a href="https://www.ondacero.es/noticias/sociedad/medidas-que-deberia-incluir-pacto-estado-hacer-frente-incendios-forestales_2025082968b16163506ef67d06e63f30.html"> Onda Cero</a> 
 </p>
 
 
@@ -163,7 +163,7 @@ subtitle = ""
 
 
 <p><i>Cinco lecciones aprendidas (y un caso de éxito) de esta temporada de incendios</i>  <br>
-<a href="https://theconversation.com/cinco-lecciones-aprendidas-y-un-caso-de-exito-de-esta-temporada-de-incendios-237880"> The Conversation (con Rut Domènech y Marc Castellnou</a> 
+<a href="https://theconversation.com/cinco-lecciones-aprendidas-y-un-caso-de-exito-de-esta-temporada-de-incendios-237880"> The Conversation (con Rut Domènech y Marc Castellnou)</a> 
 </p>
 
 
