@@ -1080,9 +1080,6 @@ subtitle = ""
 <p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
 <a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
 
-<p><i>Víctor Resco, catedrático en Ingenieria Forestal, da un clave de la expansión de los incendios: “Hay que revertir la situación” (18/08/2025)</i> <br>
-<a href="https://as.com/actualidad/ciencia/victor-resco-catedratico-en-ingenieria-forestal-da-un-clave-de-la-expansion-de-los-incendios-hay-que-revertir-la-situacion-n/"> Declaraciones para Diario As</a></p>
-
 
 <p><i>El incendiario, el chivo expiatorio que carga con las culpas de los incendios (17/08/2025)</i> <br>
 <a href="https://elpais.com/clima-y-medio-ambiente/2025-08-17/el-incendiario-el-chivo-expiatorio-que-carga-con-las-culpas-de-los-incendios.html?ssm=TW_CC">Declaraciones para El País</a></p>
@@ -1110,7 +1107,7 @@ subtitle = ""
 <a href="https://www.larazon.es/sociedad/victor-resco-experto-incendios-estamos-hablando-problema-politico-falta-interes-atajarlo-p7m_20250813689c503f97dddb01129b6200.html">Declaraciones para La Razón</a></p>
 
 <p><i>Las inundaciones de Texas y la DANA de Valencia: similitudes y diferencias entre las tragedias climáticas (8/07/2025)</i> <br>
-<a href="https://www.nationalgeographic.com.es/medio-ambiente/inundaciones-texas-dana-valencia-similitudes-diferencias-entre-tragedias-climaticas_25465">Declaraciones para National Geographic/a></p>
+<a href="https://www.nationalgeographic.com.es/medio-ambiente/inundaciones-texas-dana-valencia-similitudes-diferencias-entre-tragedias-climaticas_25465">Declaraciones para National Geographic</a></p>
 
 
 <p><i>¿Por qué los incendios forestales en áreas protegidas arden más que el resto? (8/07/2025)</i> <br>
@@ -1123,7 +1120,7 @@ subtitle = ""
 <p><i>¿Qué es un pirocúmulo? La nube de fuegos que disparó la propagación del incendio de Lleida (2/07/2025)</i> <br>
 <a href="https://cadenaser.com/cataluna/2025/07/02/que-es-un-pirocumulo-la-nube-de-fuegos-que-disparo-la-propagacion-del-incendio-de-lleida-radio-barcelona/">Declaraciones para EFE</a></p>
 
-<p><i>   El primer gran incendio forestal del año deja dos muertos y 5.000 hectáreas quemadas en Lérida (02/07/2025)</i> <br>
+<p><i>  El primer gran incendio forestal del año deja dos muertos y 5.000 hectáreas quemadas en Lérida (02/07/2025)</i> <br>
 <a href="https://www.cartv.es/aragonnoticias/noticias/el-primer-gran-incendio-forestal-del-ano-deja-2-muertos-y-5-000-hectareas-quemadas-en-lerida&ved=2ahUKEwiroaPz2Y-TAxX9VqQEHfUKHGY4ZBDF9AEoAHoECAgQAQ&usg=AOvVaw2Wxj-z4TD7Hs1ujK5mhS1N"> Declaraciones para Aragón Noticias  </a></p>
 
 <p><i>El peligro desconocido de las placas solares: por qué pueden generar grandes incendios (9/06/2025)</i> <br>
@@ -1136,18 +1133,11 @@ subtitle = ""
 <p><i>La deforestación no crece en España, pero la gravedad de los incendios sí (18/05/2025)</i> <br>
 <a href="https://www.larazon.es/sociedad/deforestacion-crece-espana-pero-gravedad-incendios_2025051868298094176f225ec6251ae8.html">Declaraciones para La Razón</a></p>
 
-
-
 <p><i>Europa bate su récord de temperaturas en 2024 y se convierte en el continente que más rápido se está calentando (15/04/2025)</i> <br>
 <a href="https://www.elmundo.es/ciencia-y-salud/ciencia/2025/04/15/67fd50b1e9cf4a857b8b4570.html">Declaraciones en EL Mundo</a></p>
 
-
-
-
 <p><i>Las muertes por temperaturas extremas pueden aumentar un 80% a final de siglo en España por el cambio climático (27/01/2025)</i> <br>
 <a href="https://www.rtve.es/noticias/20250123/muertes-temperaturas-extremas-aumentaran-80-final-siglo-espana-cambio-climatico/16418961.shtml">Declaraciones en RTVE</a></p>
-
-
 
 <p><i>Dangerous temperatures could kill 50% more Europeans by 2100, study finds (27/01/2025)</i> <br>
 <a href="https://www.theguardian.com/environment/2025/jan/27/dangerous-temperatures-kill-50-percent-more-europeans-end-century-climate">Declaraciones para The Guardian</a></p>
@@ -1156,7 +1146,7 @@ subtitle = ""
 <a href="https://www.elconfidencial.com/tecnologia/ciencia/2025-01-17/incendios-california-espana-mapas-riesgo_4043256/">Declaraciones para El Confidencial</a></p>
 
 <p><i>¿En qué se diferencian los incendios de California con los de «sexta generación»? (14/01/2025)</i> <br>
-<a href="https://efeverde.com/en-que-se-diferencian-los-incendios-de-california-con-los-de-sexta-generacion/">Declaraciones para EFE/a></p>
+<a href="https://efeverde.com/en-que-se-diferencian-los-incendios-de-california-con-los-de-sexta-generacion/">Declaraciones para EFE</a></p>
 
 
 <p><i>El incendio en Los Ángeles es una llamada de atención a otras ciudades: “Mucha gente vive en una ratonera y no lo sabe” (11/01/2025)</i> <br>
