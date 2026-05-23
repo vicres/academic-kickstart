@@ -22,7 +22,7 @@ email: ""
 organizations:
 - name: Universitat de Lleida y JRU-CTFC-AGROTECNIO
   url: ""
-role: Profesor de Ingeniería Forestal
+role: Catedrático
 social:
 - icon: envelope
   icon_pack: fas
