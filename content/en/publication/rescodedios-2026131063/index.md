@@ -3,7 +3,7 @@ title: 'Record-breaking wildfire intensity and nocturnal spread during the extre
   2025 wildfire season in Southwestern Europe: causes and impacts'
 date: '2026-01-01'
 draft: true
-publishDate: '2026-09-29T08:11:07.714056Z'
+publishDate: '2026-09-29T09:33:38.155851Z'
 authors:
 - Víctor Resco de Dios
 - Àngel Cunill Camprubí

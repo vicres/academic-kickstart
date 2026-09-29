@@ -2,7 +2,7 @@
 title: 5 - The role of fuel in driving extreme wildfire events
 date: '2027-01-01'
 draft: true
-publishDate: '2026-09-29T08:14:36.222513Z'
+publishDate: '2026-09-29T09:33:30.259835Z'
 authors:
 - Paulo M. Fernandes
 - Víctor Resco de Dios
