@@ -67,6 +67,8 @@ En la actualidad coordina la Unidad Mixta entre el Centro Tecnológico Forestal 
 [(JRU CTFC-AGROTECNIO)](https://jru.agrotecnio.ctfc.cat) y anteriormente ejerció como profesor en Western Sydney University 
 (Australia) y en Southwest University of Science and Technology (China). 
 
+Es miembro correspondiente de la [Real Academia de Ciencias](https://rac.es) y asociado de la [Real Academia de Ingeniería](https://www.raing.es)
+
 [Aquí](#media) encontrará su actividad divulgadora, [aquí](#projects) sus líneas de investigación y [aquí](https://www.rescodedios.com/es/publication/) sus artículos científicos.
  
 

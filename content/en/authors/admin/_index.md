@@ -65,4 +65,6 @@ I have written a book about [Plant-Fire Interactions](https://www.rescodedios.co
 
 I am, or have been, a member of the Editorial Boards of [New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137), [Regional Environmental Change](https://www.springer.com/journal/10113), [Trees](https://www.springer.com/journal/468), [Plant Ecology and Diversity](https://www.tandfonline.com/loi/tped20), [Forests](https://www.mdpi.com/journal/forests), [Forest Systems](http://revistas.inia.es/index.php/fs) and [Frontiers in Forests and Global Change](https://www.frontiersin.org/journals/forests-and-global-change). 
 
+I am a member of the [Spanish Royal Academies of Sciences](https://rac.es) and [Engineering](https://www.raing.es).
+
 I also collaborate with different fire agencies and I've written quite a few popular science articles, [most of them are in Spanish](https://www.rescodedios.com/es/prensa/), but a few are [in English as well](#outreach).
