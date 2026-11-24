@@ -1,0 +1,13 @@
+---
+title: "Megafires in the Anthropocene: The Need for Active Management of Protected Areas"
+date: 2026-01-01
+publishDate: 2026-11-24T08:39:33.727295Z
+authors: ["Jorge Tobajas", "Víctor Resco de Dios", "Antoni Margalida"]
+publication_types: ["2"]
+abstract: "ABSTRACT The extreme megafires that affected western Europe in 2025 highlight the challenges of managing protected areas under increasingly severe fire weather conditions. Recent evidence from Spain indicates that protected areas experienced a disproportionately large share of the burned area during the 2025 wildfire season, although fire severity was similar in protected and unprotected areas under comparable fuel conditions. Separately, a long-term analysis covering 2001–2021 found that wildfire severity was 21.2% higher in protected areas. These patterns, alongside evidence of increasing biomass accumulation and reduced accessibility, highlight potential links between landscape conditions, fuel continuity, and wildfire hazard. Although these findings do not demonstrate that passive rewilding causes extreme wildfires, they raise concerns about whether low-intervention approaches based predominantly on natural succession are sufficient in fire-prone landscapes under climate change. We argue that the ecological benefits of passive rewilding, as a management strategy in protected areas, should be recognized alongside its potential risks where fuel accumulation can increase wildfire hazard. We therefore propose context-dependent conservation strategies combining natural processes with targeted interventions, including fuel reduction, prescribed fire, and extensive grazing, where compatible with conservation objectives, to enhance landscape resilience under increasingly extreme fire regimes."
+featured: false
+publication: "*Conservation Letters*"
+url_pdf: "https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/con4.70098"
+doi: "https://doi.org/10.1111/con4.70098"
+---
+
